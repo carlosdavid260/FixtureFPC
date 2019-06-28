@@ -16,6 +16,8 @@ public class Equipos {
     String nombreEquipo;
     String nombreEstadio;
     String nombreCiudad;
+    String nombreAbreviación;
+    String acronimo;
 
     
     
@@ -23,11 +25,20 @@ public class Equipos {
 
     
     
-    public Equipos(int codigoEquipo, String nombreEquipo, String nombreEstadio, String nombreCiudad) {
+    public Equipos(int codigoEquipo, String nombreEquipo, String nombreEstadio, String nombreCiudad, String acronimo) {
         this.codigoEquipo = codigoEquipo;
         this.nombreEquipo = nombreEquipo;
         this.nombreEstadio = nombreEstadio;
         this.nombreCiudad = nombreCiudad;
+        this.acronimo = acronimo;
+    }
+    
+    public String getAcronimo() {
+        return acronimo;
+    }
+    
+    public void setAcronimo(String acronimo) {
+        this.acronimo = acronimo;
     }
 
     public int getCodigoEquipo() {
