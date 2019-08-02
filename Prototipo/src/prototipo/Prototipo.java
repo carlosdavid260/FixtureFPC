@@ -108,6 +108,7 @@ public class Prototipo {
                 break;
 
             case 3:
+                System.out.println("Ingrese quien fue el equipo ganador de la super liga: ");
                 System.out.println("Ha seleccionado crear fixture");
                 Fixture();
                 System.out.println("\n");
@@ -115,9 +116,11 @@ public class Prototipo {
 
             case 4:
                 System.out.println("Ha solicitado la prueba del cuadrado latino:");
-                ejemploCuadrado2();
+                System.out.println("Ingrese el ganador de la super liga: ");
+                int ganador = sc.nextInt();
+                ejemploCuadrado2(GanadorSuperLiga(ganador));
                 System.out.println("\n");
-                ejemploCuadrado3();
+                ejemploCuadrado3(GanadorSuperLiga(ganador));
                 break;
 
             case 5:
@@ -200,18 +203,18 @@ public class Prototipo {
         }
     }
 
-    public void ejemploCuadrado2() {
+    public void ejemploCuadrado2(Vector<Equipos> ganador) {
         int FILAS = 19;
         int COLS = 20;
         Equipos matriz[][] = new Equipos[FILAS][COLS];
-        Vector<Equipos> equipos = new Vector();
         int fecha = 1;
-        equipos = Equipos();
+            System.out.println("El ganador de la Super Liga es "+ganador.elementAt(0).nombreEquipo);
         for (int fil = 0; fil < FILAS; fil++) {
             for (int col = 0; col < COLS; col++) {
                 //si es la primera fila
-                if (fil == 0) {
-                    matriz[fil][col] = equipos.elementAt(col);
+                if (fil == 0){
+                    
+                    matriz[fil][col] = ganador.elementAt(col);
                 } //si no, si es la primera columna
                 else if (col == 0) {
                     matriz[fil][col] = matriz[fil - 1][COLS - 1];
@@ -221,8 +224,8 @@ public class Prototipo {
                 }
             }
         }
+        System.out.println("PRIMERA TEMPORADA.");
         for (int i = 0; i < FILAS; i++) {
-            System.out.println("PRIMERA TEMPORADA.");
             System.out.print("\n");
             System.out.println("\033[0;1m" + "Fecha " + fecha);
             for (int j = 0; j < COLS; j++) {
@@ -243,18 +246,16 @@ public class Prototipo {
         }
     }
     
-    public void ejemploCuadrado3() {
+    public void ejemploCuadrado3(Vector<Equipos> ganador) {
         int FILAS = 19;
         int COLS = 20;
         Equipos matriz[][] = new Equipos[FILAS][COLS];
-        Vector<Equipos> equipos = new Vector();
         int fecha = 1;
-        equipos = Equipos();
         for (int fil = 0; fil < FILAS; fil++) {
             for (int col = 0; col < COLS; col++) {
                 //si es la primera fila
                 if (fil == 0) {
-                    matriz[fil][col] = equipos.elementAt(col);
+                    matriz[fil][col] = ganador.elementAt(col);
                 } //si no, si es la primera columna
                 else if (col == 0) {
                     matriz[fil][col] = matriz[fil - 1][COLS - 1];
@@ -264,8 +265,9 @@ public class Prototipo {
                 }
             }
         }
+        System.out.println("SEGUNDA TEMPORADA.");
         for (int i = 0; i < FILAS; i++) {
-            System.out.println("SEGUNDA TEMPORADA.");
+            
             System.out.print("\n");
             System.out.println("\033[0;1m" + "Fecha " + fecha);
             for (int j = 0; j < COLS; j++) {
@@ -284,5 +286,23 @@ public class Prototipo {
             System.out.println();
             fecha++;
         }
+    }
+
+    private Vector<Equipos> GanadorSuperLiga(int ganador) {
+        Vector<Equipos> equipos = new Vector();
+        Vector<Equipos> equiposOrganizados = new Vector();
+        equipos = Equipos();
+        for(int i=0; i<20;i++){
+            if(equipos.get(i).codigoEquipo == ganador){
+            equiposOrganizados.add(equipos.get(i));
+        }
+            
+        }
+        for(int j=0; j<20; j++){
+           if(equipos.get(j).codigoEquipo != ganador){
+                equiposOrganizados.add(equipos.get(j));
+            } 
+        }
+        return equiposOrganizados;
     }
 }
