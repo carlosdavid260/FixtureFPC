@@ -86,9 +86,9 @@ public class Prototipo {
         System.out.println("Digíte el numero del caso que desea realizar: \n"
                 + "1. Seleccionar los equipos. \n"
                 + "2. Seleccionar los estadios. \n"
-                + "3. Seleccionar crear fixture. \n"
-                + "4. Seleccionar prueba del cuadrado latino. \n"
-                + "5. Seleccionar prueba del cuadrado latino estandar. \n");
+                + "3. Seleccionar crear fixture (Prueba aleatoria). \n"
+                + "4. Seleccionar prueba del cuadrado latino (Avances) \n"
+                + "5. Seleccionar prueba del cuadrado latino estandar. (Numerico) \n");
         int caso = sc.nextInt();
         Vector<Equipos> equipos = new Vector();
         equipos = Equipos();
@@ -207,20 +207,23 @@ public class Prototipo {
         int FILAS = 19;
         int COLS = 20;
         Equipos matriz[][] = new Equipos[FILAS][COLS];
+        Random rnd = new Random();
+        Vector<Equipos> equipos = new Vector();
+        equipos = Equipos();
+        
         int fecha = 1;
             System.out.println("El ganador de la Super Liga es "+ganador.elementAt(0).nombreEquipo);
         for (int fil = 0; fil < FILAS; fil++) {
             for (int col = 0; col < COLS; col++) {
                 //si es la primera fila
                 if (fil == 0){
-                    
                     matriz[fil][col] = ganador.elementAt(col);
                 } //si no, si es la primera columna
                 else if (col == 0) {
                     matriz[fil][col] = matriz[fil - 1][COLS - 1];
                 } // para el resto de casos
                 else {
-                    matriz[fil][col] = matriz[fil - 1][col - 1];
+                    matriz[fil][col] = matriz[fil-1][col-1];
                 }
             }
         }
@@ -231,8 +234,11 @@ public class Prototipo {
             for (int j = 0; j < COLS; j++) {
                 if (j%2!=1) {
                     System.out.print("@" + matriz[i][j].acronimo + " ");
-                } else {
-                    System.out.print(matriz[i][j].acronimo + " ");
+                } else{
+                    
+                        //System.out.print(matriz[i][j].acronimo + " ");
+                        System.out.print(equipos.elementAt(rnd.nextInt(equipos.size())).acronimo);
+                    
                 }
                 if (j % 2 != 1) {
                     System.out.print(" vs ");
@@ -250,31 +256,37 @@ public class Prototipo {
         int FILAS = 19;
         int COLS = 20;
         Equipos matriz[][] = new Equipos[FILAS][COLS];
+        Random rnd = new Random();
+        Vector<Equipos> equipos = new Vector();
+        equipos = Equipos();
+        
         int fecha = 1;
         for (int fil = 0; fil < FILAS; fil++) {
             for (int col = 0; col < COLS; col++) {
                 //si es la primera fila
-                if (fil == 0) {
+                if (fil == 0){
                     matriz[fil][col] = ganador.elementAt(col);
                 } //si no, si es la primera columna
                 else if (col == 0) {
                     matriz[fil][col] = matriz[fil - 1][COLS - 1];
                 } // para el resto de casos
                 else {
-                    matriz[fil][col] = matriz[fil - 1][col - 1];
+                    matriz[fil][col] = matriz[fil-1][col-1];
                 }
             }
         }
         System.out.println("SEGUNDA TEMPORADA.");
         for (int i = 0; i < FILAS; i++) {
-            
             System.out.print("\n");
             System.out.println("\033[0;1m" + "Fecha " + fecha);
             for (int j = 0; j < COLS; j++) {
-                if (j%2==1) {
-                    System.out.print("@" + matriz[i][j].acronimo + " ");
-                } else {
+                if (j%2!=1) {
                     System.out.print(matriz[i][j].acronimo + " ");
+                } else{
+                    
+                        //System.out.print(matriz[i][j].acronimo + " ");
+                        System.out.print("@" + equipos.elementAt(rnd.nextInt(equipos.size())).acronimo);
+                    
                 }
                 if (j % 2 != 1) {
                     System.out.print(" vs ");
