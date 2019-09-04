@@ -7,6 +7,7 @@ package prototipo;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.InputMismatchException;
 import java.util.Random;
 import java.util.Scanner;
 import java.util.Vector;
@@ -20,12 +21,25 @@ public class Prototipo {
     /**
      * @param args the command line arguments
      */
-    Scanner sc = new Scanner(System.in);
+    static Scanner sc = new Scanner(System.in);
 
     public static void main(String[] args) {
 
+        boolean salir = false;
         Prototipo menuDespliegue = new Prototipo();
-        menuDespliegue.Menu();
+        do{
+                
+                menuDespliegue.Menu();
+                
+                System.out.println("¿Desea salir de la aplicación?");
+            System.out.println("1 = si, 2=no");
+            int resp;
+            resp = sc.nextInt();
+            if(resp == 1){
+                salir = true;
+            }
+            }while(salir == false);
+        
 
     }
 
@@ -83,16 +97,20 @@ public class Prototipo {
     }
 
     public void Menu() {
-        System.out.println("Digíte el numero del caso que desea realizar: \n"
+        try{
+            System.out.println("Digíte el numero del caso que desea realizar: \n"
                 + "1. Seleccionar los equipos. \n"
                 + "2. Seleccionar los estadios. \n"
                 + "3. Seleccionar crear fixture (Prueba aleatoria). \n"
                 + "4. Seleccionar prueba del cuadrado latino (Avances) \n"
                 + "5. Seleccionar prueba del cuadrado latino estandar. (Numerico) \n");
+        
         int caso = sc.nextInt();
+        
         Vector<Equipos> equipos = new Vector();
         equipos = Equipos();
-        switch (caso) {
+        
+            switch (caso) {
             case 1:
                 System.out.println("Ha decidido ver los equipos.");
                 for (int i = 0; i < equipos.size(); i++) {
@@ -127,6 +145,10 @@ public class Prototipo {
                 System.out.println("Ha solicitado la prueba del cuadrado latino estandar:");
                 ejemploCuadrado();
         }
+        }catch(InputMismatchException e){
+            System.out.println("Ingreso mal el digito, por favor intentelo de nuevo.");
+        }
+        
     }
 
     public static Vector<Equipos> Fixture() {
@@ -208,8 +230,7 @@ public class Prototipo {
         int COLS = 20;
         Equipos matriz[][] = new Equipos[FILAS][COLS];
         Random rnd = new Random();
-        Vector<Equipos> equipos = new Vector();
-        equipos = Equipos();
+        
         
         int fecha = 1;
             System.out.println("El ganador de la Super Liga es "+ganador.elementAt(0).nombreEquipo);
@@ -236,8 +257,9 @@ public class Prototipo {
                     System.out.print("@" + matriz[i][j].acronimo + " ");
                 } else{
                     
-                        //System.out.print(matriz[i][j].acronimo + " ");
-                        System.out.print(equipos.elementAt(rnd.nextInt(equipos.size())).acronimo);
+                        System.out.print(matriz[0][j].acronimo + " ");
+                        //System.out.print(equipos.elementAt(rnd.nextInt(equipos.size())).acronimo);
+                        
                     
                 }
                 if (j % 2 != 1) {
@@ -257,8 +279,6 @@ public class Prototipo {
         int COLS = 20;
         Equipos matriz[][] = new Equipos[FILAS][COLS];
         Random rnd = new Random();
-        Vector<Equipos> equipos = new Vector();
-        equipos = Equipos();
         
         int fecha = 1;
         for (int fil = 0; fil < FILAS; fil++) {
@@ -284,8 +304,8 @@ public class Prototipo {
                     System.out.print(matriz[i][j].acronimo + " ");
                 } else{
                     
-                        //System.out.print(matriz[i][j].acronimo + " ");
-                        System.out.print("@" + equipos.elementAt(rnd.nextInt(equipos.size())).acronimo);
+                        System.out.print("@" + matriz[0][j].acronimo + " ");
+                        //System.out.print("@" + equipos.elementAt(rnd.nextInt(equipos.size())).acronimo);
                     
                 }
                 if (j % 2 != 1) {
@@ -317,4 +337,26 @@ public class Prototipo {
         }
         return equiposOrganizados;
     }
+    
+//    private Vector<Equipos> Rivales(int ganador){
+//        Vector<Equipos> rivales = new Vector();
+//        Vector<Equipos> totales = new Vector();
+//        Vector<Equipos> locales = new Vector();
+//        totales = Equipos();
+//        locales = GanadorSuperLiga(ganador);
+//        
+//        for(int i=0;i<=10;i++){
+//            for(int j=0;j<10;j++){
+//                if(totales.elementAt(i).codigoEquipo != locales.elementAt(j).codigoEquipo){
+//                    if(i>1){
+//                        if((locales.elementAt(i).codigoEquipo == locales.elementAt(i-1).codigoEquipo)){
+//                            rivales.add(totales.elementAt(i));
+//                        }
+//                    }
+//                
+//            }
+//            }
+//        }
+//        return rivales;
+//    }
 }
