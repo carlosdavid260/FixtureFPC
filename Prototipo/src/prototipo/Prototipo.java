@@ -28,9 +28,7 @@ public class Prototipo {
         boolean salir = false;
         Prototipo menuDespliegue = new Prototipo();
         do{
-                
-                menuDespliegue.Menu();
-                
+                    menuDespliegue.Menu();
                 System.out.println("¿Desea salir de la aplicación?");
             System.out.println("1 = si, 2=no");
             int resp;
@@ -109,7 +107,7 @@ public class Prototipo {
         
         Vector<Equipos> equipos = new Vector();
         equipos = Equipos();
-        
+        if((caso<6)&&(caso>0)){
             switch (caso) {
             case 1:
                 System.out.println("Ha decidido ver los equipos.");
@@ -145,6 +143,12 @@ public class Prototipo {
                 System.out.println("Ha solicitado la prueba del cuadrado latino estandar:");
                 ejemploCuadrado();
         }
+        }
+        else{
+            System.out.println("Ingreso una opción incorrecta, porfavor seleccione nuevamente.");
+        }
+        
+            
         }catch(InputMismatchException e){
             System.out.println("Ingreso mal el digito, por favor intentelo de nuevo.");
         }
