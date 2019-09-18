@@ -27,14 +27,24 @@ public class Prototipo {
 
         boolean salir = false;
         Prototipo menuDespliegue = new Prototipo();
+        
         do{
-                    menuDespliegue.Menu();
-                System.out.println("¿Desea salir de la aplicación?");
-            System.out.println("1 = si, 2=no");
+            try{
+                
+                menuDespliegue.Menu();
+                System.out.println("¿Quieres salir de la aplicación?");
+            System.out.println("1 = Sí, 2 = No");
             int resp;
             resp = sc.nextInt();
             if(resp == 1){
                 salir = true;
+            }
+            
+            }catch(InputMismatchException e){
+                System.out.println("Por favor seleccione un numero valido.");
+            }
+            if(salir == false){
+                break;
             }
             }while(salir == false);
         
