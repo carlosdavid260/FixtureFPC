@@ -11,6 +11,8 @@ import java.util.InputMismatchException;
 import java.util.Random;
 import java.util.Scanner;
 import java.util.Vector;
+import java.io.FileWriter;
+import java.io.IOException;
 
 /**
  *
@@ -23,7 +25,7 @@ public class Prototipo {
      */
     static Scanner sc = new Scanner(System.in);
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException{
         Prototipo menuDespliegue = new Prototipo();
         try {
             int salir = 1;
@@ -93,7 +95,7 @@ public class Prototipo {
         }
     }
 
-    public void Menu() {
+    public void Menu() throws IOException{
         System.out.println("Digíte el numero del caso que desea realizar: \n"
                 + "1. Seleccionar los equipos. \n"
                 + "2. Seleccionar los estadios. \n"
@@ -157,6 +159,7 @@ public class Prototipo {
                     int ganador3 = sc.nextInt();
                     distanciaOptima(GanadorSuperLiga(ganador3));
                     //ejemploCuadrado();
+                    
             }
         } else {
             System.out.println("El numero digitado no esta entre las opciones.");
@@ -990,7 +993,7 @@ public class Prototipo {
     }
     
     
-    public void distanciaOptima(Vector<Equipos> ganador) {
+    public void distanciaOptima(Vector<Equipos> ganador) throws IOException{
         int FILAS = 19;
         int COLS = 20;
         double total = 0;
@@ -999,6 +1002,7 @@ public class Prototipo {
         double total3 = 0;
         double total4 = 0;
         double respuestatotal=0;
+        FileWriter fichero = new FileWriter("D:/FixtureFPC/fichero.txt");
         Equipos matriz[][] = new Equipos[FILAS][COLS];
         
         double distancia[][];
@@ -1009,8 +1013,9 @@ public class Prototipo {
         int fecha2 = 1;
         double sum = 0;
         
-        Random rnd = new Random();
+        //Random rnd = new Random();
         System.out.println("El ganador de la Super Liga es " + ganador.elementAt(0).nombreEquipo);
+        fichero.write("El ganador de la Super Liga es " + ganador.elementAt(0).nombreEquipo + "\n");
         for (int fil = 0; fil < FILAS; fil++) {
             for (int col = 0; col < COLS; col++) {
                 //si es la primera fila
@@ -1027,40 +1032,51 @@ public class Prototipo {
             }
         }
         System.out.println("PRIMERA TEMPORADA.");
+        fichero.write("PRIMERA TEMPORADA. \n");
         fecha = 1;
         total = 0;
         for (int i = 0; i < FILAS; i++) {
             System.out.print("\n");
+            fichero.write("\n");
             System.out.println("\033[0;1m" + "Fecha " + fecha);
+            fichero.write("Fecha " + fecha + "\n");
             for (int j = 0; j < COLS; j++) {
                 if (j % 2 != 1) {
                     System.out.print("@" + matriz[i][j].acronimo + " ");
+                    fichero.write("@" + matriz[i][j].acronimo + " ");
                 } else {
 
                     System.out.print(matriz[0][j].acronimo + " ");
+                    fichero.write(matriz[0][j].acronimo + " ");
                     //System.out.print(equipos.elementAt(rnd.nextInt(equipos.size())).acronimo);
 
                 }
                 if (j % 2 != 1) {
                     System.out.print(" vs ");
+                    fichero.write(" vs ");
                 }
                 if (j % 2 == 1) {
                     System.out.print("|");
-                    System.out.println(" La distancia recorrida fue: " + distancia[10][j] + "Kms");
-                    sum = sum + distancia[10][j];
+                    fichero.write("|");
+                    System.out.println(" La distancia recorrida fue: " + distancia[i][j] + "Kms");
+                    fichero.write("La distancia recorrida fue: " + distancia[i][j] + "Kms \n");
+                    sum = sum + distancia[i][j];
                     total = total + sum;
                 }
                 
                 if (j == 19) {
                     System.out.println("El recorrido total fue de: " + sum + " en esta fecha");
+                    fichero.write("El recorrido total fue de: " + sum + " en esta fecha \n");
                     sum = 0;
                 }
                         
             }
             System.out.println();
+            fichero.write("\n");
             fecha++;
         }
         System.out.println("El recorrido total de la primera temporada fue de: " + total + " kms");
+        fichero.write("El recorrido total de la primera temporada fue de: " + total + " kms \n");
         
         for (int fil = 0; fil < FILAS; fil++) {
             for (int col = 0; col < COLS; col++) {
@@ -1077,78 +1093,100 @@ public class Prototipo {
             }
         }
         System.out.println("SEGUNDA TEMPORADA.");
+        fichero.write("SEGUNDA TEMPORADA. \n");
         fecha2 = 1;
         total = 1;
         for (int i = 0; i < FILAS; i++) {
             System.out.print("\n");
+            fichero.write("\n");
             System.out.println("\033[0;1m" + "Fecha " + fecha2);
+            fichero.write("Fecha " + fecha2 + "\n");
             for (int j = 0; j < COLS; j++) {
                 if (j % 2 != 1) {
                     System.out.print(matriz[i][j].acronimo + " ");
+                    fichero.write(matriz[i][j].acronimo + " ");
                 } else {
 
                     System.out.print("@" + matriz[0][j].acronimo + " ");
+                    fichero.write("@" + matriz[0][j].acronimo + " ");
                     //System.out.print("@" + equipos.elementAt(rnd.nextInt(equipos.size())).acronimo);
 
                 }
                 if (j % 2 != 1) {
                     System.out.print(" vs ");
+                    fichero.write(" vs ");
                 }
                 if (j % 2 == 1) {
                     System.out.print("|");
-                    System.out.println(" La distancia recorrida fue: " + distancia[10][j] + "Kms");
-                    sum = sum + distancia[10][j];
+                    fichero.write("|");
+                    System.out.println(" La distancia recorrida fue: " + distancia[i][j] + "Kms");
+                    fichero.write(" La distancia recorrida fue: " + distancia[i][j] + "Kms \n");
+                    sum = sum + distancia[i][j];
                     total = total + sum;
                 }
                 
                 if (j == 19) {
                     System.out.println("El recorrido total fue de: " + sum + " en esta fecha");
+                    fichero.write("El recorrido total fue de: " + sum + " en esta fecha \n");
                     sum = 0;
                 }
             }
             System.out.println();
+            fichero.write("\n");
             fecha2++;
         }
         System.out.println("El recorrido total de la segunda temporada fue de: " + total + " kms");
+        fichero.write("El recorrido total de la segunda temporada fue de: " + total + " kms \n");
         
         
         
         
         System.out.println("PRIMERA TEMPORADA.");
+        fichero.write("PRIMERA TEMPORADA. \n");
         fecha = 1;
         total1 = 0;
         for (int i = 0; i < FILAS; i++) {
             System.out.print("\n");
+            fichero.write("\n");
             System.out.println("\033[0;1m" + "Fecha " + fecha);
+            fichero.write("Fecha " + fecha + "\n");
             for (int j = 0; j < COLS; j++) {
                 if (j % 2 != 1) {
                     System.out.print("@" + matriz[i][j].acronimo + " ");
+                    fichero.write("@" + matriz[i][j].acronimo + " ");
                 } else {
 
                     System.out.print(matriz[0][j].acronimo + " ");
+                    fichero.write(matriz[0][j].acronimo + " ");
                     //System.out.print(equipos.elementAt(rnd.nextInt(equipos.size())).acronimo);
 
                 }
                 if (j % 2 != 1) {
                     System.out.print(" vs ");
+                    fichero.write(" vs ");
                 }
                 if (j % 2 == 1) {
                     System.out.print("|");
-                    System.out.println(" La distancia recorrida fue: " + distancia[5][j] + "Kms");
-                    sum = sum + distancia[5][j];
+                    fichero.write("|");
+                    System.out.println(" La distancia recorrida fue: " + distancia[i][j] + "Kms");
+                    fichero.write(" La distancia recorrida fue: " + distancia[i][j] + "Kms \n");
+                    sum = sum + distancia[i][j];
                     total1 = total1 + sum;
                 }
                 
                 if (j == 19) {
                     System.out.println("El recorrido total fue de: " + sum + " en esta fecha");
+                    fichero.write("El recorrido total fue de: " + sum + " en esta fecha \n");
                     sum = 0;
                 }
                         
             }
             System.out.println();
+            fichero.write("\n");
             fecha++;
         }
         System.out.println("El recorrido total de la primera temporada fue de: " + total1 + " kms");
+        fichero.write("El recorrido total de la primera temporada fue de: " + total1 + " kms \n");
         
         for (int fil = 0; fil < FILAS; fil++) {
             for (int col = 0; col < COLS; col++) {
@@ -1165,78 +1203,100 @@ public class Prototipo {
             }
         }
         System.out.println("SEGUNDA TEMPORADA.");
+        fichero.write("SEGUNDA TEMPORADA. \n");
         fecha2 = 1;
         total1 = 0;
         for (int i = 0; i < FILAS; i++) {
             System.out.print("\n");
+            fichero.write("\n");
             System.out.println("\033[0;1m" + "Fecha " + fecha2);
+            fichero.write("Fecha " + fecha2 + "\n");
             for (int j = 0; j < COLS; j++) {
                 if (j % 2 != 1) {
                     System.out.print(matriz[i][j].acronimo + " ");
+                    fichero.write(matriz[i][j].acronimo + " ");
                 } else {
 
                     System.out.print("@" + matriz[0][j].acronimo + " ");
+                    fichero.write("@" + matriz[0][j].acronimo + " ");
                     //System.out.print("@" + equipos.elementAt(rnd.nextInt(equipos.size())).acronimo);
 
                 }
                 if (j % 2 != 1) {
                     System.out.print(" vs ");
+                    fichero.write(" vs ");
                 }
                 if (j % 2 == 1) {
                     System.out.print("|");
-                    System.out.println(" La distancia recorrida fue: " + distancia[5][j] + "Kms");
-                    sum = sum + distancia[5][j];
+                    fichero.write("|");
+                    System.out.println(" La distancia recorrida fue: " + distancia[i][j] + "Kms");
+                    fichero.write(" La distancia recorrida fue: " + distancia[i][j] + "Kms \n");
+                    sum = sum + distancia[i][j];
                     total1 = total1 + sum;
                 }
                 
                 if (j == 19) {
                     System.out.println("El recorrido total fue de: " + sum + " en esta fecha");
+                    fichero.write("El recorrido total fue de: " + sum + " en esta fecha \n");
                     sum = 0;
                 }
             }
             System.out.println();
+            fichero.write("\n");
             fecha2++;
         }
         System.out.println("El recorrido total de la segunda temporada fue de: " + total1 + " kms");
+        fichero.write("El recorrido total de la segunda temporada fue de: " + total1 + " kms \n");
         
         
         
         
         System.out.println("PRIMERA TEMPORADA.");
+        fichero.write("PRIMERA TEMPORADA. \n");
         fecha = 1;
         total2 = 0;
         for (int i = 0; i < FILAS; i++) {
             System.out.print("\n");
+            fichero.write("\n");
             System.out.println("\033[0;1m" + "Fecha " + fecha);
+            fichero.write("Fecha " + fecha + "\n");
             for (int j = 0; j < COLS; j++) {
                 if (j % 2 != 1) {
                     System.out.print("@" + matriz[i][j].acronimo + " ");
+                    fichero.write("@" + matriz[i][j].acronimo + " ");
                 } else {
 
                     System.out.print(matriz[0][j].acronimo + " ");
+                    fichero.write(matriz[0][j].acronimo + " ");
                     //System.out.print(equipos.elementAt(rnd.nextInt(equipos.size())).acronimo);
 
                 }
                 if (j % 2 != 1) {
                     System.out.print(" vs ");
+                    fichero.write(" vs ");
                 }
                 if (j % 2 == 1) {
                     System.out.print("|");
-                    System.out.println(" La distancia recorrida fue: " + distancia[6][j] + "Kms");
-                    sum = sum + distancia[6][j];
+                    fichero.write("|");
+                    System.out.println(" La distancia recorrida fue: " + distancia[i][j] + "Kms");
+                    fichero.write(" La distancia recorrida fue: " + distancia[i][j] + "Kms \n");
+                    sum = sum + distancia[i][j];
                     total2 = total2 + sum;
                 }
                 
                 if (j == 19) {
                     System.out.println("El recorrido total fue de: " + sum + " en esta fecha");
+                    fichero.write("El recorrido total fue de: " + sum + " en esta fecha \n");
                     sum = 0;
                 }
                         
             }
             System.out.println();
+            fichero.write("\n");
             fecha++;
         }
         System.out.println("El recorrido total de la primera temporada fue de: " + total2 + " kms");
+        fichero.write("El recorrido total de la primera temporada fue de: " + total2 + " kms \n");
         
         for (int fil = 0; fil < FILAS; fil++) {
             for (int col = 0; col < COLS; col++) {
@@ -1253,78 +1313,100 @@ public class Prototipo {
             }
         }
         System.out.println("SEGUNDA TEMPORADA.");
+        fichero.write("SEGUNDA TEMPORADA. \n");
         fecha2 = 1;
         total2 = 0;
         for (int i = 0; i < FILAS; i++) {
             System.out.print("\n");
+            fichero.write("\n");
             System.out.println("\033[0;1m" + "Fecha " + fecha2);
+            fichero.write("Fecha " + fecha2 + "\n");
             for (int j = 0; j < COLS; j++) {
                 if (j % 2 != 1) {
                     System.out.print(matriz[i][j].acronimo + " ");
+                    fichero.write(matriz[i][j].acronimo + " ");
                 } else {
 
                     System.out.print("@" + matriz[0][j].acronimo + " ");
+                    fichero.write("@" + matriz[0][j].acronimo + " ");
                     //System.out.print("@" + equipos.elementAt(rnd.nextInt(equipos.size())).acronimo);
 
                 }
                 if (j % 2 != 1) {
                     System.out.print(" vs ");
+                    fichero.write(" vs ");
                 }
                 if (j % 2 == 1) {
                     System.out.print("|");
-                    System.out.println(" La distancia recorrida fue: " + distancia[6][j] + "Kms");
-                    sum = sum + distancia[6][j];
+                    fichero.write("|");
+                    System.out.println(" La distancia recorrida fue: " + distancia[i][j] + "Kms");
+                    fichero.write(" La distancia recorrida fue: " + distancia[i][j] + "Kms \n");
+                    sum = sum + distancia[i][j];
                     total2 = total2 + sum;
                 }
                 
                 if (j == 19) {
                     System.out.println("El recorrido total fue de: " + sum + " en esta fecha");
+                    fichero.write("El recorrido total fue de: " + sum + " en esta fecha \n");
                     sum = 0;
                 }
             }
             System.out.println();
+            fichero.write("\n");
             fecha2++;
         }
         System.out.println("El recorrido total de la segunda temporada fue de: " + total2 + " kms");
+        fichero.write("El recorrido total de la segunda temporada fue de: " + total2 + " kms \n");
         
         
         
         
         System.out.println("PRIMERA TEMPORADA.");
+        fichero.write("PRIMERA TEMPORADA. \n");
         fecha = 1;
         total3 = 0;
         for (int i = 0; i < FILAS; i++) {
             System.out.print("\n");
+            fichero.write("\n");
             System.out.println("\033[0;1m" + "Fecha " + fecha);
+            fichero.write("Fecha " + fecha);
             for (int j = 0; j < COLS; j++) {
                 if (j % 2 != 1) {
                     System.out.print("@" + matriz[i][j].acronimo + " ");
+                    fichero.write("@" + matriz[i][j].acronimo + " ");
                 } else {
 
                     System.out.print(matriz[0][j].acronimo + " ");
+                    fichero.write(matriz[0][j].acronimo + " ");
                     //System.out.print(equipos.elementAt(rnd.nextInt(equipos.size())).acronimo);
 
                 }
                 if (j % 2 != 1) {
                     System.out.print(" vs ");
+                    fichero.write(" vs ");
                 }
                 if (j % 2 == 1) {
                     System.out.print("|");
-                    System.out.println(" La distancia recorrida fue: " + distancia[7][j] + "Kms");
-                    sum = sum + distancia[7][j];
+                    fichero.write("|");
+                    System.out.println(" La distancia recorrida fue: " + distancia[i][j] + "Kms");
+                    fichero.write(" La distancia recorrida fue: " + distancia[i][j] + "Kms \n");
+                    sum = sum + distancia[i][j];
                     total3 = total3 + sum;
                 }
                 
                 if (j == 19) {
                     System.out.println("El recorrido total fue de: " + sum + " en esta fecha");
+                    fichero.write("El recorrido total fue de: " + sum + " en esta fecha \n");
                     sum = 0;
                 }
                         
             }
             System.out.println();
+            fichero.write("\n");
             fecha++;
         }
         System.out.println("El recorrido total de la primera temporada fue de: " + total3 + " kms");
+        fichero.write("El recorrido total de la primera temporada fue de: " + total3 + " kms \n");
         
         for (int fil = 0; fil < FILAS; fil++) {
             for (int col = 0; col < COLS; col++) {
@@ -1341,78 +1423,100 @@ public class Prototipo {
             }
         }
         System.out.println("SEGUNDA TEMPORADA.");
+        fichero.write("SEGUNDA TEMPORADA. \n");
         fecha2 = 1;
         total3 = 0;
         for (int i = 0; i < FILAS; i++) {
             System.out.print("\n");
+            fichero.write("\n");
             System.out.println("\033[0;1m" + "Fecha " + fecha2);
+            fichero.write("Fecha " + fecha2 + "\n");
             for (int j = 0; j < COLS; j++) {
                 if (j % 2 != 1) {
                     System.out.print(matriz[i][j].acronimo + " ");
+                    fichero.write(matriz[i][j].acronimo + " ");
                 } else {
 
                     System.out.print("@" + matriz[0][j].acronimo + " ");
+                    fichero.write("@" + matriz[0][j].acronimo + " ");
                     //System.out.print("@" + equipos.elementAt(rnd.nextInt(equipos.size())).acronimo);
 
                 }
                 if (j % 2 != 1) {
                     System.out.print(" vs ");
+                    fichero.write(" vs ");
                 }
                 if (j % 2 == 1) {
                     System.out.print("|");
-                    System.out.println(" La distancia recorrida fue: " + distancia[7][j] + "Kms");
-                    sum = sum + distancia[7][j];
+                    fichero.write("|");
+                    System.out.println(" La distancia recorrida fue: " + distancia[i][j] + "Kms");
+                    fichero.write(" La distancia recorrida fue: " + distancia[i][j] + "Kms \n");
+                    sum = sum + distancia[i][j];
                     total3 = total3 + sum;
                 }
                 
                 if (j == 19) {
                     System.out.println("El recorrido total fue de: " + sum + " en esta fecha");
+                    fichero.write("El recorrido total fue de: " + sum + " en esta fecha \n");
                     sum = 0;
                 }
             }
             System.out.println();
+            fichero.write("\n");
             fecha2++;
         }
         System.out.println("El recorrido total de la segunda temporada fue de: " + total3 + " kms");
+        fichero.write("El recorrido total de la segunda temporada fue de: " + total3 + " kms \n");
         
         
         
         
         System.out.println("PRIMERA TEMPORADA.");
+        fichero.write("PRIMERA TEMPORADA. \n");
         fecha = 1;
         total4 = 0;
         for (int i = 0; i < FILAS; i++) {
             System.out.print("\n");
+            fichero.write("\n");
             System.out.println("\033[0;1m" + "Fecha " + fecha);
+            fichero.write("Fecha " + fecha);
             for (int j = 0; j < COLS; j++) {
                 if (j % 2 != 1) {
                     System.out.print("@" + matriz[i][j].acronimo + " ");
+                    fichero.write("@" + matriz[i][j].acronimo + " ");
                 } else {
 
                     System.out.print(matriz[0][j].acronimo + " ");
+                    fichero.write(matriz[0][j].acronimo + " ");
                     //System.out.print(equipos.elementAt(rnd.nextInt(equipos.size())).acronimo);
 
                 }
                 if (j % 2 != 1) {
                     System.out.print(" vs ");
+                    fichero.write(" vs ");
                 }
                 if (j % 2 == 1) {
                     System.out.print("|");
-                    System.out.println(" La distancia recorrida fue: " + distancia[8][j] + "Kms");
-                    sum = sum + distancia[8][j];
+                    fichero.write("|");
+                    System.out.println(" La distancia recorrida fue: " + distancia[i][j] + "Kms");
+                    fichero.write(" La distancia recorrida fue: " + distancia[i][j] + "Kms \n");
+                    sum = sum + distancia[i][j];
                     total4 = total4 + sum;
                 }
                 
                 if (j == 19) {
                     System.out.println("El recorrido total fue de: " + sum + " en esta fecha");
+                    fichero.write("El recorrido total fue de: " + sum + " en esta fecha \n");
                     sum = 0;
                 }
                         
             }
             System.out.println();
+            fichero.write("\n");
             fecha++;
         }
         System.out.println("El recorrido total de la primera temporada fue de: " + total4 + " kms");
+        fichero.write("El recorrido total de la primera temporada fue de: " + total4 + " kms \n");
         
         for (int fil = 0; fil < FILAS; fil++) {
             for (int col = 0; col < COLS; col++) {
@@ -1429,63 +1533,82 @@ public class Prototipo {
             }
         }
         System.out.println("SEGUNDA TEMPORADA.");
+        fichero.write("SEGUNDA TEMPORADA. \n");
         fecha2 = 1;
         total4 = 0;
         for (int i = 0; i < FILAS; i++) {
             System.out.print("\n");
+            fichero.write("\n");
             System.out.println("\033[0;1m" + "Fecha " + fecha2);
+            fichero.write("Fecha " + fecha2 + "\n");
             for (int j = 0; j < COLS; j++) {
                 if (j % 2 != 1) {
                     System.out.print(matriz[i][j].acronimo + " ");
+                    fichero.write(matriz[i][j].acronimo + " ");
                 } else {
 
                     System.out.print("@" + matriz[0][j].acronimo + " ");
+                    fichero.write("@" + matriz[0][j].acronimo + " ");
                     //System.out.print("@" + equipos.elementAt(rnd.nextInt(equipos.size())).acronimo);
 
                 }
                 if (j % 2 != 1) {
                     System.out.print(" vs ");
+                    fichero.write(" vs ");
                 }
                 if (j % 2 == 1) {
                     System.out.print("|");
-                    System.out.println(" La distancia recorrida fue: " + distancia[8][j] + "Kms");
-                    sum = sum + distancia[8][j];
+                    fichero.write("|");
+                    System.out.println(" La distancia recorrida fue: " + distancia[i][j] + "Kms");
+                    fichero.write(" La distancia recorrida fue: " + distancia[i][j] + "Kms \n");
+                    sum = sum + distancia[i][j];
                     total4 = total4 + sum;
                 }
                 
                 if (j == 19) {
                     System.out.println("El recorrido total fue de: " + sum + " en esta fecha");
+                    fichero.write("El recorrido total fue de: " + sum + " en esta fecha \n");
                     sum = 0;
                 }
             }
             System.out.println();
+            fichero.write("\n");
             fecha2++;
         }
         System.out.println("El recorrido total de la segunda temporada fue de: " + total4 + " kms");
+        fichero.write("El recorrido total de la segunda temporada fue de: " + total4 + " kms \n");
         System.out.println();
+        fichero.write("\n");
         
         
         if(total <= total1 && total <= total2 && total <= total3 && total <= total4){
             respuestatotal = total;
             System.out.println("Primer fixture: " + total*2);
+            fichero.write("Primer fixture: " + total*2 + "\n");
         }
-        if(total1 <= total && total1 <= total2 && total1 <= total3 && total1 <= total4){
+        else if(total1 <= total && total1 <= total2 && total1 <= total3 && total1 <= total4){
             respuestatotal = total1;
             System.out.println("Segundo fixture: " + total1*2);
+            fichero.write("Segundo fixture: " + total1*2 + "\n");
         }
-        if(total2 <= total1 && total2 <= total1 && total2 <= total3 && total2 <= total4){
+        else if(total2 <= total1 && total2 <= total1 && total2 <= total3 && total2 <= total4){
             respuestatotal = total2;
             System.out.println("Tercer fixture: " + total2*2);
+            fichero.write("Tercer fixture: " + total2*2 + "\n");
         }
-        if(total3 <= total1 && total3 <= total2 && total3 <= total1 && total3 <= total4){
+        else if(total3 <= total1 && total3 <= total2 && total3 <= total1 && total3 <= total4){
             respuestatotal = total3;
-            System.out.println("Cuarto fixture: " + total3);
+            System.out.println("Cuarto fixture: " + total3*2);
+            fichero.write("Cuarto fixture: " + total3*2 + "\n");
         }
-        if(total4 <= total1 && total4 <= total2 && total4 <= total3 && total4 <= total1){
+        else if(total4 <= total1 && total4 <= total2 && total4 <= total3 && total4 <= total1){
             respuestatotal = total4;
             System.out.println("Quinto fixture: " + total4*2);
+            fichero.write("Quinto fixture: " + total4*2 + "\n");
         }
         
         System.out.println("El mejor valor es el: " + respuestatotal*2);
+        fichero.write("El mejor valor es el: " + respuestatotal*2 + "\n");
+        fichero.close();
     }
 }

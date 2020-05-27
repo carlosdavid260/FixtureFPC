@@ -1,0 +1,2646 @@
+El ganador de la Super Liga es Atlético Nacional
+PRIMERA TEMPORADA. 
+
+Fecha 1
+@NAL  vs MIL |La distancia recorrida fue: 522.73Kms 
+@PAS  vs CAL |La distancia recorrida fue: 125.21Kms 
+@TOL  vs AME |La distancia recorrida fue: 304.87Kms 
+@JUN  vs MAG |La distancia recorrida fue: 727.87Kms 
+@MED  vs ONC |La distancia recorrida fue: 163.05Kms 
+@CUC  vs PAT |La distancia recorrida fue: 127.91Kms 
+@ENV  vs ALI |La distancia recorrida fue: 270.91Kms 
+@JAG  vs EQU |La distancia recorrida fue: 6.88Kms 
+@BUC  vs HUI |La distancia recorrida fue: 232.3Kms 
+@RIO  vs SFE |La distancia recorrida fue: 0.0Kms 
+El recorrido total fue de: 2481.7300000000005 en esta fecha 
+
+
+Fecha 2
+@SFE  vs MIL |La distancia recorrida fue: 0.0Kms 
+@MIL  vs CAL |La distancia recorrida fue: 426.74Kms 
+@CAL  vs AME |La distancia recorrida fue: 261.32Kms 
+@AME  vs MAG |La distancia recorrida fue: 1161.95Kms 
+@MAG  vs ONC |La distancia recorrida fue: 472.76Kms 
+@ONC  vs PAT |La distancia recorrida fue: 650.38Kms 
+@PAT  vs ALI |La distancia recorrida fue: 754.93Kms 
+@ALI  vs EQU |La distancia recorrida fue: 516.56Kms 
+@EQU  vs HUI |La distancia recorrida fue: 294.3Kms 
+@HUI  vs SFE |La distancia recorrida fue: 522.73Kms 
+El recorrido total fue de: 5061.67 en esta fecha 
+
+
+Fecha 3
+@RIO  vs MIL |La distancia recorrida fue: 413.24Kms 
+@NAL  vs CAL |La distancia recorrida fue: 169.16Kms 
+@PAS  vs AME |La distancia recorrida fue: 17.14Kms 
+@TOL  vs MAG |La distancia recorrida fue: 887.09Kms 
+@JUN  vs ONC |La distancia recorrida fue: 199.27Kms 
+@MED  vs PAT |La distancia recorrida fue: 407.17Kms 
+@CUC  vs ALI |La distancia recorrida fue: 485.58Kms 
+@ENV  vs EQU |La distancia recorrida fue: 281.17Kms 
+@JAG  vs HUI |La distancia recorrida fue: 142.01Kms 
+@BUC  vs SFE |La distancia recorrida fue: 288.0Kms 
+El recorrido total fue de: 3289.83 en esta fecha 
+
+
+Fecha 4
+@HUI  vs MIL |La distancia recorrida fue: 640.11Kms 
+@SFE  vs CAL |La distancia recorrida fue: 0.0Kms 
+@MIL  vs AME |La distancia recorrida fue: 186.3Kms 
+@CAL  vs MAG |La distancia recorrida fue: 761.1Kms 
+@AME  vs ONC |La distancia recorrida fue: 79.0Kms 
+@MAG  vs PAT |La distancia recorrida fue: 238.28Kms 
+@ONC  vs ALI |La distancia recorrida fue: 329.83Kms 
+@PAT  vs EQU |La distancia recorrida fue: 121.95Kms 
+@ALI  vs HUI |La distancia recorrida fue: 166.29Kms 
+@EQU  vs SFE |La distancia recorrida fue: 125.21Kms 
+El recorrido total fue de: 2648.07 en esta fecha 
+
+
+Fecha 5
+@BUC  vs MIL |La distancia recorrida fue: 889.28Kms 
+@RIO  vs CAL |La distancia recorrida fue: 314.45Kms 
+@NAL  vs AME |La distancia recorrida fue: 331.53Kms 
+@PAS  vs MAG |La distancia recorrida fue: 569.5Kms 
+@TOL  vs ONC |La distancia recorrida fue: 133.88Kms 
+@JUN  vs PAT |La distancia recorrida fue: 259.85Kms 
+@MED  vs ALI |La distancia recorrida fue: 211.08Kms 
+@CUC  vs EQU |La distancia recorrida fue: 242.74Kms 
+@ENV  vs HUI |La distancia recorrida fue: 370.85Kms 
+@JAG  vs SFE |La distancia recorrida fue: 245.2Kms 
+El recorrido total fue de: 3568.36 en esta fecha 
+
+
+Fecha 6
+@EQU  vs MIL |La distancia recorrida fue: 391.98Kms 
+@HUI  vs CAL |La distancia recorrida fue: 279.45Kms 
+@SFE  vs AME |La distancia recorrida fue: 0.0Kms 
+@MIL  vs MAG |La distancia recorrida fue: 900.72Kms 
+@CAL  vs ONC |La distancia recorrida fue: 215.22Kms 
+@AME  vs PAT |La distancia recorrida fue: 424.29Kms 
+@MAG  vs ALI |La distancia recorrida fue: 501.91Kms 
+@ONC  vs EQU |La distancia recorrida fue: 298.04Kms 
+@PAT  vs HUI |La distancia recorrida fue: 150.39Kms 
+@ALI  vs SFE |La distancia recorrida fue: 304.87Kms 
+El recorrido total fue de: 3466.87 en esta fecha 
+
+
+Fecha 7
+@JAG  vs MIL |La distancia recorrida fue: 1673.81Kms 
+@BUC  vs CAL |La distancia recorrida fue: 1087.88Kms 
+@RIO  vs AME |La distancia recorrida fue: 1283.15Kms 
+@NAL  vs MAG |La distancia recorrida fue: 71.88Kms 
+@PAS  vs ONC |La distancia recorrida fue: 657.11Kms 
+@TOL  vs PAT |La distancia recorrida fue: 619.58Kms 
+@JUN  vs ALI |La distancia recorrida fue: 440.7Kms 
+@MED  vs EQU |La distancia recorrida fue: 704.74Kms 
+@CUC  vs HUI |La distancia recorrida fue: 890.14Kms 
+@ENV  vs SFE |La distancia recorrida fue: 702.95Kms 
+El recorrido total fue de: 8131.94 en esta fecha 
+
+
+Fecha 8
+@ALI  vs MIL |La distancia recorrida fue: 1742.93Kms 
+@EQU  vs CAL |La distancia recorrida fue: 1141.65Kms 
+@HUI  vs AME |La distancia recorrida fue: 1351.08Kms 
+@SFE  vs MAG |La distancia recorrida fue: 0.0Kms 
+@MIL  vs ONC |La distancia recorrida fue: 696.67Kms 
+@CAL  vs PAT |La distancia recorrida fue: 634.95Kms 
+@AME  vs ALI |La distancia recorrida fue: 459.33Kms 
+@MAG  vs EQU |La distancia recorrida fue: 730.28Kms 
+@ONC  vs HUI |La distancia recorrida fue: 925.6Kms 
+@PAT  vs SFE |La distancia recorrida fue: 727.87Kms 
+El recorrido total fue de: 8410.36 en esta fecha 
+
+
+Fecha 9
+@ENV  vs MIL |La distancia recorrida fue: 889.28Kms 
+@JAG  vs CAL |La distancia recorrida fue: 314.45Kms 
+@BUC  vs AME |La distancia recorrida fue: 497.3Kms 
+@RIO  vs MAG |La distancia recorrida fue: 854.25Kms 
+@NAL  vs ONC |La distancia recorrida fue: 133.88Kms 
+@PAS  vs PAT |La distancia recorrida fue: 259.85Kms 
+@TOL  vs ALI |La distancia recorrida fue: 211.08Kms 
+@JUN  vs EQU |La distancia recorrida fue: 242.74Kms 
+@MED  vs HUI |La distancia recorrida fue: 370.85Kms 
+@CUC  vs SFE |La distancia recorrida fue: 245.2Kms 
+El recorrido total fue de: 4018.8799999999997 en esta fecha 
+
+
+Fecha 10
+@PAT  vs MIL |La distancia recorrida fue: 709.14Kms 
+@ALI  vs CAL |La distancia recorrida fue: 118.5Kms 
+@EQU  vs AME |La distancia recorrida fue: 322.83Kms 
+@HUI  vs MAG |La distancia recorrida fue: 1045.01Kms 
+@SFE  vs ONC |La distancia recorrida fue: 0.0Kms 
+@MIL  vs PAT |La distancia recorrida fue: 242.64Kms 
+@CAL  vs ALI |La distancia recorrida fue: 287.32Kms 
+@AME  vs EQU |La distancia recorrida fue: 157.65Kms 
+@MAG  vs HUI |La distancia recorrida fue: 237.0Kms 
+@ONC  vs SFE |La distancia recorrida fue: 163.05Kms 
+El recorrido total fue de: 3283.1400000000003 en esta fecha 
+
+
+Fecha 11
+@CUC  vs MIL |La distancia recorrida fue: 1370.18Kms 
+@ENV  vs CAL |La distancia recorrida fue: 731.0Kms 
+@JAG  vs AME |La distancia recorrida fue: 1001.9Kms 
+@BUC  vs MAG |La distancia recorrida fue: 492.45Kms 
+@RIO  vs ONC |La distancia recorrida fue: 684.98Kms 
+@NAL  vs PAT |La distancia recorrida fue: 277.99Kms 
+@PAS  vs ALI |La distancia recorrida fue: 175.82Kms 
+@TOL  vs EQU |La distancia recorrida fue: 406.08Kms 
+@JUN  vs HUI |La distancia recorrida fue: 631.32Kms 
+@MED  vs SFE |La distancia recorrida fue: 401.2Kms 
+El recorrido total fue de: 6172.919999999999 en esta fecha 
+
+
+Fecha 12
+@ONC  vs MIL |La distancia recorrida fue: 975.57Kms 
+@PAT  vs CAL |La distancia recorrida fue: 357.42Kms 
+@ALI  vs AME |La distancia recorrida fue: 636.44Kms 
+@EQU  vs MAG |La distancia recorrida fue: 952.43Kms 
+@HUI  vs ONC |La distancia recorrida fue: 363.96Kms 
+@SFE  vs PAT |La distancia recorrida fue: 0.0Kms 
+@MIL  vs ALI |La distancia recorrida fue: 179.36Kms 
+@CAL  vs EQU |La distancia recorrida fue: 133.92Kms 
+@AME  vs HUI |La distancia recorrida fue: 360.03Kms 
+@MAG  vs SFE |La distancia recorrida fue: 127.91Kms 
+El recorrido total fue de: 4087.04 en esta fecha 
+
+
+Fecha 13
+@MED  vs MIL |La distancia recorrida fue: 874.19Kms 
+@CUC  vs CAL |La distancia recorrida fue: 299.76Kms 
+@ENV  vs AME |La distancia recorrida fue: 481.86Kms 
+@JAG  vs MAG |La distancia recorrida fue: 869.52Kms 
+@BUC  vs ONC |La distancia recorrida fue: 185.61Kms 
+@RIO  vs PAT |La distancia recorrida fue: 386.85Kms 
+@NAL  vs ALI |La distancia recorrida fue: 216.6Kms 
+@PAS  vs EQU |La distancia recorrida fue: 235.86Kms 
+@TOL  vs HUI |La distancia recorrida fue: 360.74Kms 
+@JUN  vs SFE |La distancia recorrida fue: 238.54Kms 
+El recorrido total fue de: 4149.53 en esta fecha 
+
+
+Fecha 14
+@MAG  vs MIL |La distancia recorrida fue: 1132.4Kms 
+@ONC  vs CAL |La distancia recorrida fue: 494.75Kms 
+@PAT  vs AME |La distancia recorrida fue: 752.87Kms 
+@ALI  vs MAG |La distancia recorrida fue: 689.0Kms 
+@EQU  vs ONC |La distancia recorrida fue: 430.98Kms 
+@HUI  vs PAT |La distancia recorrida fue: 269.04Kms 
+@SFE  vs ALI |La distancia recorrida fue: 0.0Kms 
+@MIL  vs EQU |La distancia recorrida fue: 274.02Kms 
+@CAL  vs HUI |La distancia recorrida fue: 486.01Kms 
+@AME  vs SFE |La distancia recorrida fue: 270.91Kms 
+El recorrido total fue de: 4799.98 en esta fecha 
+
+
+Fecha 15
+@JUN  vs MIL |La distancia recorrida fue: 1275.62Kms 
+@MED  vs CAL |La distancia recorrida fue: 570.42Kms 
+@CUC  vs AME |La distancia recorrida fue: 888.87Kms 
+@ENV  vs MAG |La distancia recorrida fue: 0.0Kms 
+@JAG  vs ONC |La distancia recorrida fue: 612.21Kms 
+@BUC  vs PAT |La distancia recorrida fue: 668.79Kms 
+@RIO  vs ALI |La distancia recorrida fue: 424.25Kms 
+@NAL  vs EQU |La distancia recorrida fue: 491.57Kms 
+@PAS  vs HUI |La distancia recorrida fue: 645.11Kms 
+@TOL  vs SFE |La distancia recorrida fue: 491.48Kms 
+El recorrido total fue de: 6068.32 en esta fecha 
+
+
+Fecha 16
+@AME  vs MIL |La distancia recorrida fue: 774.84Kms 
+@MAG  vs CAL |La distancia recorrida fue: 182.93Kms 
+@ONC  vs AME |La distancia recorrida fue: 447.06Kms 
+@PAT  vs MAG |La distancia recorrida fue: 1095.42Kms 
+@ALI  vs ONC |La distancia recorrida fue: 236.48Kms 
+@EQU  vs PAT |La distancia recorrida fue: 200.88Kms 
+@HUI  vs ALI |La distancia recorrida fue: 411.03Kms 
+@SFE  vs EQU |La distancia recorrida fue: 0.0Kms 
+@MIL  vs HUI |La distancia recorrida fue: 226.61Kms 
+@CAL  vs SFE |La distancia recorrida fue: 6.88Kms 
+El recorrido total fue de: 3582.1300000000006 en esta fecha 
+
+
+Fecha 17
+@TOL  vs MIL |La distancia recorrida fue: 1208.25Kms 
+@JUN  vs CAL |La distancia recorrida fue: 0.0Kms 
+@MED  vs AME |La distancia recorrida fue: 840.0Kms 
+@CUC  vs MAG |La distancia recorrida fue: 699.29Kms 
+@ENV  vs ONC |La distancia recorrida fue: 524.63Kms 
+@JAG  vs PAT |La distancia recorrida fue: 268.86Kms 
+@BUC  vs ALI |La distancia recorrida fue: 124.26Kms 
+@RIO  vs EQU |La distancia recorrida fue: 451.97Kms 
+@NAL  vs HUI |La distancia recorrida fue: 524.96Kms 
+@PAS  vs SFE |La distancia recorrida fue: 296.63Kms 
+El recorrido total fue de: 4938.85 en esta fecha 
+
+
+Fecha 18
+@CAL  vs MIL |La distancia recorrida fue: 441.45Kms 
+@AME  vs CAL |La distancia recorrida fue: 249.44Kms 
+@MAG  vs AME |La distancia recorrida fue: 225.59Kms 
+@ONC  vs MAG |La distancia recorrida fue: 1388.4Kms 
+@PAT  vs ONC |La distancia recorrida fue: 355.5Kms 
+@ALI  vs PAT |La distancia recorrida fue: 540.05Kms 
+@EQU  vs ALI |La distancia recorrida fue: 729.02Kms 
+@HUI  vs EQU |La distancia recorrida fue: 339.92Kms 
+@SFE  vs HUI |La distancia recorrida fue: 0.0Kms 
+@MIL  vs SFE |La distancia recorrida fue: 232.3Kms 
+El recorrido total fue de: 4501.67 en esta fecha 
+
+
+Fecha 19
+@PAS  vs MIL |La distancia recorrida fue: 884.18Kms 
+@TOL  vs CAL |La distancia recorrida fue: 287.48Kms 
+@JUN  vs AME |La distancia recorrida fue: 492.99Kms 
+@MED  vs MAG |La distancia recorrida fue: 863.25Kms 
+@CUC  vs ONC |La distancia recorrida fue: 182.79Kms 
+@ENV  vs PAT |La distancia recorrida fue: 349.92Kms 
+@JAG  vs ALI |La distancia recorrida fue: 293.79Kms 
+@BUC  vs EQU |La distancia recorrida fue: 326.76Kms 
+@RIO  vs HUI |La distancia recorrida fue: 535.76Kms 
+@NAL  vs SFE |La distancia recorrida fue: 220.03Kms 
+El recorrido total fue de: 4436.95 en esta fecha 
+
+El recorrido total de la primera temporada fue de: 549968.2499999999 kms 
+SEGUNDA TEMPORADA. 
+
+Fecha 1
+NAL  vs @MIL | La distancia recorrida fue: 522.73Kms 
+PAS  vs @CAL | La distancia recorrida fue: 125.21Kms 
+TOL  vs @AME | La distancia recorrida fue: 304.87Kms 
+JUN  vs @MAG | La distancia recorrida fue: 727.87Kms 
+MED  vs @ONC | La distancia recorrida fue: 163.05Kms 
+CUC  vs @PAT | La distancia recorrida fue: 127.91Kms 
+ENV  vs @ALI | La distancia recorrida fue: 270.91Kms 
+JAG  vs @EQU | La distancia recorrida fue: 6.88Kms 
+BUC  vs @HUI | La distancia recorrida fue: 232.3Kms 
+RIO  vs @SFE | La distancia recorrida fue: 0.0Kms 
+El recorrido total fue de: 2481.7300000000005 en esta fecha 
+
+
+Fecha 2
+SFE  vs @MIL | La distancia recorrida fue: 0.0Kms 
+MIL  vs @CAL | La distancia recorrida fue: 426.74Kms 
+CAL  vs @AME | La distancia recorrida fue: 261.32Kms 
+AME  vs @MAG | La distancia recorrida fue: 1161.95Kms 
+MAG  vs @ONC | La distancia recorrida fue: 472.76Kms 
+ONC  vs @PAT | La distancia recorrida fue: 650.38Kms 
+PAT  vs @ALI | La distancia recorrida fue: 754.93Kms 
+ALI  vs @EQU | La distancia recorrida fue: 516.56Kms 
+EQU  vs @HUI | La distancia recorrida fue: 294.3Kms 
+HUI  vs @SFE | La distancia recorrida fue: 522.73Kms 
+El recorrido total fue de: 5061.67 en esta fecha 
+
+
+Fecha 3
+RIO  vs @MIL | La distancia recorrida fue: 413.24Kms 
+NAL  vs @CAL | La distancia recorrida fue: 169.16Kms 
+PAS  vs @AME | La distancia recorrida fue: 17.14Kms 
+TOL  vs @MAG | La distancia recorrida fue: 887.09Kms 
+JUN  vs @ONC | La distancia recorrida fue: 199.27Kms 
+MED  vs @PAT | La distancia recorrida fue: 407.17Kms 
+CUC  vs @ALI | La distancia recorrida fue: 485.58Kms 
+ENV  vs @EQU | La distancia recorrida fue: 281.17Kms 
+JAG  vs @HUI | La distancia recorrida fue: 142.01Kms 
+BUC  vs @SFE | La distancia recorrida fue: 288.0Kms 
+El recorrido total fue de: 3289.83 en esta fecha 
+
+
+Fecha 4
+HUI  vs @MIL | La distancia recorrida fue: 640.11Kms 
+SFE  vs @CAL | La distancia recorrida fue: 0.0Kms 
+MIL  vs @AME | La distancia recorrida fue: 186.3Kms 
+CAL  vs @MAG | La distancia recorrida fue: 761.1Kms 
+AME  vs @ONC | La distancia recorrida fue: 79.0Kms 
+MAG  vs @PAT | La distancia recorrida fue: 238.28Kms 
+ONC  vs @ALI | La distancia recorrida fue: 329.83Kms 
+PAT  vs @EQU | La distancia recorrida fue: 121.95Kms 
+ALI  vs @HUI | La distancia recorrida fue: 166.29Kms 
+EQU  vs @SFE | La distancia recorrida fue: 125.21Kms 
+El recorrido total fue de: 2648.07 en esta fecha 
+
+
+Fecha 5
+BUC  vs @MIL | La distancia recorrida fue: 889.28Kms 
+RIO  vs @CAL | La distancia recorrida fue: 314.45Kms 
+NAL  vs @AME | La distancia recorrida fue: 331.53Kms 
+PAS  vs @MAG | La distancia recorrida fue: 569.5Kms 
+TOL  vs @ONC | La distancia recorrida fue: 133.88Kms 
+JUN  vs @PAT | La distancia recorrida fue: 259.85Kms 
+MED  vs @ALI | La distancia recorrida fue: 211.08Kms 
+CUC  vs @EQU | La distancia recorrida fue: 242.74Kms 
+ENV  vs @HUI | La distancia recorrida fue: 370.85Kms 
+JAG  vs @SFE | La distancia recorrida fue: 245.2Kms 
+El recorrido total fue de: 3568.36 en esta fecha 
+
+
+Fecha 6
+EQU  vs @MIL | La distancia recorrida fue: 391.98Kms 
+HUI  vs @CAL | La distancia recorrida fue: 279.45Kms 
+SFE  vs @AME | La distancia recorrida fue: 0.0Kms 
+MIL  vs @MAG | La distancia recorrida fue: 900.72Kms 
+CAL  vs @ONC | La distancia recorrida fue: 215.22Kms 
+AME  vs @PAT | La distancia recorrida fue: 424.29Kms 
+MAG  vs @ALI | La distancia recorrida fue: 501.91Kms 
+ONC  vs @EQU | La distancia recorrida fue: 298.04Kms 
+PAT  vs @HUI | La distancia recorrida fue: 150.39Kms 
+ALI  vs @SFE | La distancia recorrida fue: 304.87Kms 
+El recorrido total fue de: 3466.87 en esta fecha 
+
+
+Fecha 7
+JAG  vs @MIL | La distancia recorrida fue: 1673.81Kms 
+BUC  vs @CAL | La distancia recorrida fue: 1087.88Kms 
+RIO  vs @AME | La distancia recorrida fue: 1283.15Kms 
+NAL  vs @MAG | La distancia recorrida fue: 71.88Kms 
+PAS  vs @ONC | La distancia recorrida fue: 657.11Kms 
+TOL  vs @PAT | La distancia recorrida fue: 619.58Kms 
+JUN  vs @ALI | La distancia recorrida fue: 440.7Kms 
+MED  vs @EQU | La distancia recorrida fue: 704.74Kms 
+CUC  vs @HUI | La distancia recorrida fue: 890.14Kms 
+ENV  vs @SFE | La distancia recorrida fue: 702.95Kms 
+El recorrido total fue de: 8131.94 en esta fecha 
+
+
+Fecha 8
+ALI  vs @MIL | La distancia recorrida fue: 1742.93Kms 
+EQU  vs @CAL | La distancia recorrida fue: 1141.65Kms 
+HUI  vs @AME | La distancia recorrida fue: 1351.08Kms 
+SFE  vs @MAG | La distancia recorrida fue: 0.0Kms 
+MIL  vs @ONC | La distancia recorrida fue: 696.67Kms 
+CAL  vs @PAT | La distancia recorrida fue: 634.95Kms 
+AME  vs @ALI | La distancia recorrida fue: 459.33Kms 
+MAG  vs @EQU | La distancia recorrida fue: 730.28Kms 
+ONC  vs @HUI | La distancia recorrida fue: 925.6Kms 
+PAT  vs @SFE | La distancia recorrida fue: 727.87Kms 
+El recorrido total fue de: 8410.36 en esta fecha 
+
+
+Fecha 9
+ENV  vs @MIL | La distancia recorrida fue: 889.28Kms 
+JAG  vs @CAL | La distancia recorrida fue: 314.45Kms 
+BUC  vs @AME | La distancia recorrida fue: 497.3Kms 
+RIO  vs @MAG | La distancia recorrida fue: 854.25Kms 
+NAL  vs @ONC | La distancia recorrida fue: 133.88Kms 
+PAS  vs @PAT | La distancia recorrida fue: 259.85Kms 
+TOL  vs @ALI | La distancia recorrida fue: 211.08Kms 
+JUN  vs @EQU | La distancia recorrida fue: 242.74Kms 
+MED  vs @HUI | La distancia recorrida fue: 370.85Kms 
+CUC  vs @SFE | La distancia recorrida fue: 245.2Kms 
+El recorrido total fue de: 4018.8799999999997 en esta fecha 
+
+
+Fecha 10
+PAT  vs @MIL | La distancia recorrida fue: 709.14Kms 
+ALI  vs @CAL | La distancia recorrida fue: 118.5Kms 
+EQU  vs @AME | La distancia recorrida fue: 322.83Kms 
+HUI  vs @MAG | La distancia recorrida fue: 1045.01Kms 
+SFE  vs @ONC | La distancia recorrida fue: 0.0Kms 
+MIL  vs @PAT | La distancia recorrida fue: 242.64Kms 
+CAL  vs @ALI | La distancia recorrida fue: 287.32Kms 
+AME  vs @EQU | La distancia recorrida fue: 157.65Kms 
+MAG  vs @HUI | La distancia recorrida fue: 237.0Kms 
+ONC  vs @SFE | La distancia recorrida fue: 163.05Kms 
+El recorrido total fue de: 3283.1400000000003 en esta fecha 
+
+
+Fecha 11
+CUC  vs @MIL | La distancia recorrida fue: 1370.18Kms 
+ENV  vs @CAL | La distancia recorrida fue: 731.0Kms 
+JAG  vs @AME | La distancia recorrida fue: 1001.9Kms 
+BUC  vs @MAG | La distancia recorrida fue: 492.45Kms 
+RIO  vs @ONC | La distancia recorrida fue: 684.98Kms 
+NAL  vs @PAT | La distancia recorrida fue: 277.99Kms 
+PAS  vs @ALI | La distancia recorrida fue: 175.82Kms 
+TOL  vs @EQU | La distancia recorrida fue: 406.08Kms 
+JUN  vs @HUI | La distancia recorrida fue: 631.32Kms 
+MED  vs @SFE | La distancia recorrida fue: 401.2Kms 
+El recorrido total fue de: 6172.919999999999 en esta fecha 
+
+
+Fecha 12
+ONC  vs @MIL | La distancia recorrida fue: 975.57Kms 
+PAT  vs @CAL | La distancia recorrida fue: 357.42Kms 
+ALI  vs @AME | La distancia recorrida fue: 636.44Kms 
+EQU  vs @MAG | La distancia recorrida fue: 952.43Kms 
+HUI  vs @ONC | La distancia recorrida fue: 363.96Kms 
+SFE  vs @PAT | La distancia recorrida fue: 0.0Kms 
+MIL  vs @ALI | La distancia recorrida fue: 179.36Kms 
+CAL  vs @EQU | La distancia recorrida fue: 133.92Kms 
+AME  vs @HUI | La distancia recorrida fue: 360.03Kms 
+MAG  vs @SFE | La distancia recorrida fue: 127.91Kms 
+El recorrido total fue de: 4087.04 en esta fecha 
+
+
+Fecha 13
+MED  vs @MIL | La distancia recorrida fue: 874.19Kms 
+CUC  vs @CAL | La distancia recorrida fue: 299.76Kms 
+ENV  vs @AME | La distancia recorrida fue: 481.86Kms 
+JAG  vs @MAG | La distancia recorrida fue: 869.52Kms 
+BUC  vs @ONC | La distancia recorrida fue: 185.61Kms 
+RIO  vs @PAT | La distancia recorrida fue: 386.85Kms 
+NAL  vs @ALI | La distancia recorrida fue: 216.6Kms 
+PAS  vs @EQU | La distancia recorrida fue: 235.86Kms 
+TOL  vs @HUI | La distancia recorrida fue: 360.74Kms 
+JUN  vs @SFE | La distancia recorrida fue: 238.54Kms 
+El recorrido total fue de: 4149.53 en esta fecha 
+
+
+Fecha 14
+MAG  vs @MIL | La distancia recorrida fue: 1132.4Kms 
+ONC  vs @CAL | La distancia recorrida fue: 494.75Kms 
+PAT  vs @AME | La distancia recorrida fue: 752.87Kms 
+ALI  vs @MAG | La distancia recorrida fue: 689.0Kms 
+EQU  vs @ONC | La distancia recorrida fue: 430.98Kms 
+HUI  vs @PAT | La distancia recorrida fue: 269.04Kms 
+SFE  vs @ALI | La distancia recorrida fue: 0.0Kms 
+MIL  vs @EQU | La distancia recorrida fue: 274.02Kms 
+CAL  vs @HUI | La distancia recorrida fue: 486.01Kms 
+AME  vs @SFE | La distancia recorrida fue: 270.91Kms 
+El recorrido total fue de: 4799.98 en esta fecha 
+
+
+Fecha 15
+JUN  vs @MIL | La distancia recorrida fue: 1275.62Kms 
+MED  vs @CAL | La distancia recorrida fue: 570.42Kms 
+CUC  vs @AME | La distancia recorrida fue: 888.87Kms 
+ENV  vs @MAG | La distancia recorrida fue: 0.0Kms 
+JAG  vs @ONC | La distancia recorrida fue: 612.21Kms 
+BUC  vs @PAT | La distancia recorrida fue: 668.79Kms 
+RIO  vs @ALI | La distancia recorrida fue: 424.25Kms 
+NAL  vs @EQU | La distancia recorrida fue: 491.57Kms 
+PAS  vs @HUI | La distancia recorrida fue: 645.11Kms 
+TOL  vs @SFE | La distancia recorrida fue: 491.48Kms 
+El recorrido total fue de: 6068.32 en esta fecha 
+
+
+Fecha 16
+AME  vs @MIL | La distancia recorrida fue: 774.84Kms 
+MAG  vs @CAL | La distancia recorrida fue: 182.93Kms 
+ONC  vs @AME | La distancia recorrida fue: 447.06Kms 
+PAT  vs @MAG | La distancia recorrida fue: 1095.42Kms 
+ALI  vs @ONC | La distancia recorrida fue: 236.48Kms 
+EQU  vs @PAT | La distancia recorrida fue: 200.88Kms 
+HUI  vs @ALI | La distancia recorrida fue: 411.03Kms 
+SFE  vs @EQU | La distancia recorrida fue: 0.0Kms 
+MIL  vs @HUI | La distancia recorrida fue: 226.61Kms 
+CAL  vs @SFE | La distancia recorrida fue: 6.88Kms 
+El recorrido total fue de: 3582.1300000000006 en esta fecha 
+
+
+Fecha 17
+TOL  vs @MIL | La distancia recorrida fue: 1208.25Kms 
+JUN  vs @CAL | La distancia recorrida fue: 0.0Kms 
+MED  vs @AME | La distancia recorrida fue: 840.0Kms 
+CUC  vs @MAG | La distancia recorrida fue: 699.29Kms 
+ENV  vs @ONC | La distancia recorrida fue: 524.63Kms 
+JAG  vs @PAT | La distancia recorrida fue: 268.86Kms 
+BUC  vs @ALI | La distancia recorrida fue: 124.26Kms 
+RIO  vs @EQU | La distancia recorrida fue: 451.97Kms 
+NAL  vs @HUI | La distancia recorrida fue: 524.96Kms 
+PAS  vs @SFE | La distancia recorrida fue: 296.63Kms 
+El recorrido total fue de: 4938.85 en esta fecha 
+
+
+Fecha 18
+CAL  vs @MIL | La distancia recorrida fue: 441.45Kms 
+AME  vs @CAL | La distancia recorrida fue: 249.44Kms 
+MAG  vs @AME | La distancia recorrida fue: 225.59Kms 
+ONC  vs @MAG | La distancia recorrida fue: 1388.4Kms 
+PAT  vs @ONC | La distancia recorrida fue: 355.5Kms 
+ALI  vs @PAT | La distancia recorrida fue: 540.05Kms 
+EQU  vs @ALI | La distancia recorrida fue: 729.02Kms 
+HUI  vs @EQU | La distancia recorrida fue: 339.92Kms 
+SFE  vs @HUI | La distancia recorrida fue: 0.0Kms 
+MIL  vs @SFE | La distancia recorrida fue: 232.3Kms 
+El recorrido total fue de: 4501.67 en esta fecha 
+
+
+Fecha 19
+PAS  vs @MIL | La distancia recorrida fue: 884.18Kms 
+TOL  vs @CAL | La distancia recorrida fue: 287.48Kms 
+JUN  vs @AME | La distancia recorrida fue: 492.99Kms 
+MED  vs @MAG | La distancia recorrida fue: 863.25Kms 
+CUC  vs @ONC | La distancia recorrida fue: 182.79Kms 
+ENV  vs @PAT | La distancia recorrida fue: 349.92Kms 
+JAG  vs @ALI | La distancia recorrida fue: 293.79Kms 
+BUC  vs @EQU | La distancia recorrida fue: 326.76Kms 
+RIO  vs @HUI | La distancia recorrida fue: 535.76Kms 
+NAL  vs @SFE | La distancia recorrida fue: 220.03Kms 
+El recorrido total fue de: 4436.95 en esta fecha 
+
+El recorrido total de la segunda temporada fue de: 549969.2499999999 kms 
+PRIMERA TEMPORADA. 
+
+Fecha 1
+@NAL  vs MIL | La distancia recorrida fue: 522.73Kms 
+@PAS  vs CAL | La distancia recorrida fue: 125.21Kms 
+@TOL  vs AME | La distancia recorrida fue: 304.87Kms 
+@JUN  vs MAG | La distancia recorrida fue: 727.87Kms 
+@MED  vs ONC | La distancia recorrida fue: 163.05Kms 
+@CUC  vs PAT | La distancia recorrida fue: 127.91Kms 
+@ENV  vs ALI | La distancia recorrida fue: 270.91Kms 
+@JAG  vs EQU | La distancia recorrida fue: 6.88Kms 
+@BUC  vs HUI | La distancia recorrida fue: 232.3Kms 
+@RIO  vs SFE | La distancia recorrida fue: 0.0Kms 
+El recorrido total fue de: 2481.7300000000005 en esta fecha 
+
+
+Fecha 2
+@SFE  vs MIL | La distancia recorrida fue: 0.0Kms 
+@MIL  vs CAL | La distancia recorrida fue: 426.74Kms 
+@CAL  vs AME | La distancia recorrida fue: 261.32Kms 
+@AME  vs MAG | La distancia recorrida fue: 1161.95Kms 
+@MAG  vs ONC | La distancia recorrida fue: 472.76Kms 
+@ONC  vs PAT | La distancia recorrida fue: 650.38Kms 
+@PAT  vs ALI | La distancia recorrida fue: 754.93Kms 
+@ALI  vs EQU | La distancia recorrida fue: 516.56Kms 
+@EQU  vs HUI | La distancia recorrida fue: 294.3Kms 
+@HUI  vs SFE | La distancia recorrida fue: 522.73Kms 
+El recorrido total fue de: 5061.67 en esta fecha 
+
+
+Fecha 3
+@RIO  vs MIL | La distancia recorrida fue: 413.24Kms 
+@NAL  vs CAL | La distancia recorrida fue: 169.16Kms 
+@PAS  vs AME | La distancia recorrida fue: 17.14Kms 
+@TOL  vs MAG | La distancia recorrida fue: 887.09Kms 
+@JUN  vs ONC | La distancia recorrida fue: 199.27Kms 
+@MED  vs PAT | La distancia recorrida fue: 407.17Kms 
+@CUC  vs ALI | La distancia recorrida fue: 485.58Kms 
+@ENV  vs EQU | La distancia recorrida fue: 281.17Kms 
+@JAG  vs HUI | La distancia recorrida fue: 142.01Kms 
+@BUC  vs SFE | La distancia recorrida fue: 288.0Kms 
+El recorrido total fue de: 3289.83 en esta fecha 
+
+
+Fecha 4
+@HUI  vs MIL | La distancia recorrida fue: 640.11Kms 
+@SFE  vs CAL | La distancia recorrida fue: 0.0Kms 
+@MIL  vs AME | La distancia recorrida fue: 186.3Kms 
+@CAL  vs MAG | La distancia recorrida fue: 761.1Kms 
+@AME  vs ONC | La distancia recorrida fue: 79.0Kms 
+@MAG  vs PAT | La distancia recorrida fue: 238.28Kms 
+@ONC  vs ALI | La distancia recorrida fue: 329.83Kms 
+@PAT  vs EQU | La distancia recorrida fue: 121.95Kms 
+@ALI  vs HUI | La distancia recorrida fue: 166.29Kms 
+@EQU  vs SFE | La distancia recorrida fue: 125.21Kms 
+El recorrido total fue de: 2648.07 en esta fecha 
+
+
+Fecha 5
+@BUC  vs MIL | La distancia recorrida fue: 889.28Kms 
+@RIO  vs CAL | La distancia recorrida fue: 314.45Kms 
+@NAL  vs AME | La distancia recorrida fue: 331.53Kms 
+@PAS  vs MAG | La distancia recorrida fue: 569.5Kms 
+@TOL  vs ONC | La distancia recorrida fue: 133.88Kms 
+@JUN  vs PAT | La distancia recorrida fue: 259.85Kms 
+@MED  vs ALI | La distancia recorrida fue: 211.08Kms 
+@CUC  vs EQU | La distancia recorrida fue: 242.74Kms 
+@ENV  vs HUI | La distancia recorrida fue: 370.85Kms 
+@JAG  vs SFE | La distancia recorrida fue: 245.2Kms 
+El recorrido total fue de: 3568.36 en esta fecha 
+
+
+Fecha 6
+@EQU  vs MIL | La distancia recorrida fue: 391.98Kms 
+@HUI  vs CAL | La distancia recorrida fue: 279.45Kms 
+@SFE  vs AME | La distancia recorrida fue: 0.0Kms 
+@MIL  vs MAG | La distancia recorrida fue: 900.72Kms 
+@CAL  vs ONC | La distancia recorrida fue: 215.22Kms 
+@AME  vs PAT | La distancia recorrida fue: 424.29Kms 
+@MAG  vs ALI | La distancia recorrida fue: 501.91Kms 
+@ONC  vs EQU | La distancia recorrida fue: 298.04Kms 
+@PAT  vs HUI | La distancia recorrida fue: 150.39Kms 
+@ALI  vs SFE | La distancia recorrida fue: 304.87Kms 
+El recorrido total fue de: 3466.87 en esta fecha 
+
+
+Fecha 7
+@JAG  vs MIL | La distancia recorrida fue: 1673.81Kms 
+@BUC  vs CAL | La distancia recorrida fue: 1087.88Kms 
+@RIO  vs AME | La distancia recorrida fue: 1283.15Kms 
+@NAL  vs MAG | La distancia recorrida fue: 71.88Kms 
+@PAS  vs ONC | La distancia recorrida fue: 657.11Kms 
+@TOL  vs PAT | La distancia recorrida fue: 619.58Kms 
+@JUN  vs ALI | La distancia recorrida fue: 440.7Kms 
+@MED  vs EQU | La distancia recorrida fue: 704.74Kms 
+@CUC  vs HUI | La distancia recorrida fue: 890.14Kms 
+@ENV  vs SFE | La distancia recorrida fue: 702.95Kms 
+El recorrido total fue de: 8131.94 en esta fecha 
+
+
+Fecha 8
+@ALI  vs MIL | La distancia recorrida fue: 1742.93Kms 
+@EQU  vs CAL | La distancia recorrida fue: 1141.65Kms 
+@HUI  vs AME | La distancia recorrida fue: 1351.08Kms 
+@SFE  vs MAG | La distancia recorrida fue: 0.0Kms 
+@MIL  vs ONC | La distancia recorrida fue: 696.67Kms 
+@CAL  vs PAT | La distancia recorrida fue: 634.95Kms 
+@AME  vs ALI | La distancia recorrida fue: 459.33Kms 
+@MAG  vs EQU | La distancia recorrida fue: 730.28Kms 
+@ONC  vs HUI | La distancia recorrida fue: 925.6Kms 
+@PAT  vs SFE | La distancia recorrida fue: 727.87Kms 
+El recorrido total fue de: 8410.36 en esta fecha 
+
+
+Fecha 9
+@ENV  vs MIL | La distancia recorrida fue: 889.28Kms 
+@JAG  vs CAL | La distancia recorrida fue: 314.45Kms 
+@BUC  vs AME | La distancia recorrida fue: 497.3Kms 
+@RIO  vs MAG | La distancia recorrida fue: 854.25Kms 
+@NAL  vs ONC | La distancia recorrida fue: 133.88Kms 
+@PAS  vs PAT | La distancia recorrida fue: 259.85Kms 
+@TOL  vs ALI | La distancia recorrida fue: 211.08Kms 
+@JUN  vs EQU | La distancia recorrida fue: 242.74Kms 
+@MED  vs HUI | La distancia recorrida fue: 370.85Kms 
+@CUC  vs SFE | La distancia recorrida fue: 245.2Kms 
+El recorrido total fue de: 4018.8799999999997 en esta fecha 
+
+
+Fecha 10
+@PAT  vs MIL | La distancia recorrida fue: 709.14Kms 
+@ALI  vs CAL | La distancia recorrida fue: 118.5Kms 
+@EQU  vs AME | La distancia recorrida fue: 322.83Kms 
+@HUI  vs MAG | La distancia recorrida fue: 1045.01Kms 
+@SFE  vs ONC | La distancia recorrida fue: 0.0Kms 
+@MIL  vs PAT | La distancia recorrida fue: 242.64Kms 
+@CAL  vs ALI | La distancia recorrida fue: 287.32Kms 
+@AME  vs EQU | La distancia recorrida fue: 157.65Kms 
+@MAG  vs HUI | La distancia recorrida fue: 237.0Kms 
+@ONC  vs SFE | La distancia recorrida fue: 163.05Kms 
+El recorrido total fue de: 3283.1400000000003 en esta fecha 
+
+
+Fecha 11
+@CUC  vs MIL | La distancia recorrida fue: 1370.18Kms 
+@ENV  vs CAL | La distancia recorrida fue: 731.0Kms 
+@JAG  vs AME | La distancia recorrida fue: 1001.9Kms 
+@BUC  vs MAG | La distancia recorrida fue: 492.45Kms 
+@RIO  vs ONC | La distancia recorrida fue: 684.98Kms 
+@NAL  vs PAT | La distancia recorrida fue: 277.99Kms 
+@PAS  vs ALI | La distancia recorrida fue: 175.82Kms 
+@TOL  vs EQU | La distancia recorrida fue: 406.08Kms 
+@JUN  vs HUI | La distancia recorrida fue: 631.32Kms 
+@MED  vs SFE | La distancia recorrida fue: 401.2Kms 
+El recorrido total fue de: 6172.919999999999 en esta fecha 
+
+
+Fecha 12
+@ONC  vs MIL | La distancia recorrida fue: 975.57Kms 
+@PAT  vs CAL | La distancia recorrida fue: 357.42Kms 
+@ALI  vs AME | La distancia recorrida fue: 636.44Kms 
+@EQU  vs MAG | La distancia recorrida fue: 952.43Kms 
+@HUI  vs ONC | La distancia recorrida fue: 363.96Kms 
+@SFE  vs PAT | La distancia recorrida fue: 0.0Kms 
+@MIL  vs ALI | La distancia recorrida fue: 179.36Kms 
+@CAL  vs EQU | La distancia recorrida fue: 133.92Kms 
+@AME  vs HUI | La distancia recorrida fue: 360.03Kms 
+@MAG  vs SFE | La distancia recorrida fue: 127.91Kms 
+El recorrido total fue de: 4087.04 en esta fecha 
+
+
+Fecha 13
+@MED  vs MIL | La distancia recorrida fue: 874.19Kms 
+@CUC  vs CAL | La distancia recorrida fue: 299.76Kms 
+@ENV  vs AME | La distancia recorrida fue: 481.86Kms 
+@JAG  vs MAG | La distancia recorrida fue: 869.52Kms 
+@BUC  vs ONC | La distancia recorrida fue: 185.61Kms 
+@RIO  vs PAT | La distancia recorrida fue: 386.85Kms 
+@NAL  vs ALI | La distancia recorrida fue: 216.6Kms 
+@PAS  vs EQU | La distancia recorrida fue: 235.86Kms 
+@TOL  vs HUI | La distancia recorrida fue: 360.74Kms 
+@JUN  vs SFE | La distancia recorrida fue: 238.54Kms 
+El recorrido total fue de: 4149.53 en esta fecha 
+
+
+Fecha 14
+@MAG  vs MIL | La distancia recorrida fue: 1132.4Kms 
+@ONC  vs CAL | La distancia recorrida fue: 494.75Kms 
+@PAT  vs AME | La distancia recorrida fue: 752.87Kms 
+@ALI  vs MAG | La distancia recorrida fue: 689.0Kms 
+@EQU  vs ONC | La distancia recorrida fue: 430.98Kms 
+@HUI  vs PAT | La distancia recorrida fue: 269.04Kms 
+@SFE  vs ALI | La distancia recorrida fue: 0.0Kms 
+@MIL  vs EQU | La distancia recorrida fue: 274.02Kms 
+@CAL  vs HUI | La distancia recorrida fue: 486.01Kms 
+@AME  vs SFE | La distancia recorrida fue: 270.91Kms 
+El recorrido total fue de: 4799.98 en esta fecha 
+
+
+Fecha 15
+@JUN  vs MIL | La distancia recorrida fue: 1275.62Kms 
+@MED  vs CAL | La distancia recorrida fue: 570.42Kms 
+@CUC  vs AME | La distancia recorrida fue: 888.87Kms 
+@ENV  vs MAG | La distancia recorrida fue: 0.0Kms 
+@JAG  vs ONC | La distancia recorrida fue: 612.21Kms 
+@BUC  vs PAT | La distancia recorrida fue: 668.79Kms 
+@RIO  vs ALI | La distancia recorrida fue: 424.25Kms 
+@NAL  vs EQU | La distancia recorrida fue: 491.57Kms 
+@PAS  vs HUI | La distancia recorrida fue: 645.11Kms 
+@TOL  vs SFE | La distancia recorrida fue: 491.48Kms 
+El recorrido total fue de: 6068.32 en esta fecha 
+
+
+Fecha 16
+@AME  vs MIL | La distancia recorrida fue: 774.84Kms 
+@MAG  vs CAL | La distancia recorrida fue: 182.93Kms 
+@ONC  vs AME | La distancia recorrida fue: 447.06Kms 
+@PAT  vs MAG | La distancia recorrida fue: 1095.42Kms 
+@ALI  vs ONC | La distancia recorrida fue: 236.48Kms 
+@EQU  vs PAT | La distancia recorrida fue: 200.88Kms 
+@HUI  vs ALI | La distancia recorrida fue: 411.03Kms 
+@SFE  vs EQU | La distancia recorrida fue: 0.0Kms 
+@MIL  vs HUI | La distancia recorrida fue: 226.61Kms 
+@CAL  vs SFE | La distancia recorrida fue: 6.88Kms 
+El recorrido total fue de: 3582.1300000000006 en esta fecha 
+
+
+Fecha 17
+@TOL  vs MIL | La distancia recorrida fue: 1208.25Kms 
+@JUN  vs CAL | La distancia recorrida fue: 0.0Kms 
+@MED  vs AME | La distancia recorrida fue: 840.0Kms 
+@CUC  vs MAG | La distancia recorrida fue: 699.29Kms 
+@ENV  vs ONC | La distancia recorrida fue: 524.63Kms 
+@JAG  vs PAT | La distancia recorrida fue: 268.86Kms 
+@BUC  vs ALI | La distancia recorrida fue: 124.26Kms 
+@RIO  vs EQU | La distancia recorrida fue: 451.97Kms 
+@NAL  vs HUI | La distancia recorrida fue: 524.96Kms 
+@PAS  vs SFE | La distancia recorrida fue: 296.63Kms 
+El recorrido total fue de: 4938.85 en esta fecha 
+
+
+Fecha 18
+@CAL  vs MIL | La distancia recorrida fue: 441.45Kms 
+@AME  vs CAL | La distancia recorrida fue: 249.44Kms 
+@MAG  vs AME | La distancia recorrida fue: 225.59Kms 
+@ONC  vs MAG | La distancia recorrida fue: 1388.4Kms 
+@PAT  vs ONC | La distancia recorrida fue: 355.5Kms 
+@ALI  vs PAT | La distancia recorrida fue: 540.05Kms 
+@EQU  vs ALI | La distancia recorrida fue: 729.02Kms 
+@HUI  vs EQU | La distancia recorrida fue: 339.92Kms 
+@SFE  vs HUI | La distancia recorrida fue: 0.0Kms 
+@MIL  vs SFE | La distancia recorrida fue: 232.3Kms 
+El recorrido total fue de: 4501.67 en esta fecha 
+
+
+Fecha 19
+@PAS  vs MIL | La distancia recorrida fue: 884.18Kms 
+@TOL  vs CAL | La distancia recorrida fue: 287.48Kms 
+@JUN  vs AME | La distancia recorrida fue: 492.99Kms 
+@MED  vs MAG | La distancia recorrida fue: 863.25Kms 
+@CUC  vs ONC | La distancia recorrida fue: 182.79Kms 
+@ENV  vs PAT | La distancia recorrida fue: 349.92Kms 
+@JAG  vs ALI | La distancia recorrida fue: 293.79Kms 
+@BUC  vs EQU | La distancia recorrida fue: 326.76Kms 
+@RIO  vs HUI | La distancia recorrida fue: 535.76Kms 
+@NAL  vs SFE | La distancia recorrida fue: 220.03Kms 
+El recorrido total fue de: 4436.95 en esta fecha 
+
+El recorrido total de la primera temporada fue de: 549968.2499999999 kms 
+SEGUNDA TEMPORADA. 
+
+Fecha 1
+NAL  vs @MIL | La distancia recorrida fue: 522.73Kms 
+PAS  vs @CAL | La distancia recorrida fue: 125.21Kms 
+TOL  vs @AME | La distancia recorrida fue: 304.87Kms 
+JUN  vs @MAG | La distancia recorrida fue: 727.87Kms 
+MED  vs @ONC | La distancia recorrida fue: 163.05Kms 
+CUC  vs @PAT | La distancia recorrida fue: 127.91Kms 
+ENV  vs @ALI | La distancia recorrida fue: 270.91Kms 
+JAG  vs @EQU | La distancia recorrida fue: 6.88Kms 
+BUC  vs @HUI | La distancia recorrida fue: 232.3Kms 
+RIO  vs @SFE | La distancia recorrida fue: 0.0Kms 
+El recorrido total fue de: 2481.7300000000005 en esta fecha 
+
+
+Fecha 2
+SFE  vs @MIL | La distancia recorrida fue: 0.0Kms 
+MIL  vs @CAL | La distancia recorrida fue: 426.74Kms 
+CAL  vs @AME | La distancia recorrida fue: 261.32Kms 
+AME  vs @MAG | La distancia recorrida fue: 1161.95Kms 
+MAG  vs @ONC | La distancia recorrida fue: 472.76Kms 
+ONC  vs @PAT | La distancia recorrida fue: 650.38Kms 
+PAT  vs @ALI | La distancia recorrida fue: 754.93Kms 
+ALI  vs @EQU | La distancia recorrida fue: 516.56Kms 
+EQU  vs @HUI | La distancia recorrida fue: 294.3Kms 
+HUI  vs @SFE | La distancia recorrida fue: 522.73Kms 
+El recorrido total fue de: 5061.67 en esta fecha 
+
+
+Fecha 3
+RIO  vs @MIL | La distancia recorrida fue: 413.24Kms 
+NAL  vs @CAL | La distancia recorrida fue: 169.16Kms 
+PAS  vs @AME | La distancia recorrida fue: 17.14Kms 
+TOL  vs @MAG | La distancia recorrida fue: 887.09Kms 
+JUN  vs @ONC | La distancia recorrida fue: 199.27Kms 
+MED  vs @PAT | La distancia recorrida fue: 407.17Kms 
+CUC  vs @ALI | La distancia recorrida fue: 485.58Kms 
+ENV  vs @EQU | La distancia recorrida fue: 281.17Kms 
+JAG  vs @HUI | La distancia recorrida fue: 142.01Kms 
+BUC  vs @SFE | La distancia recorrida fue: 288.0Kms 
+El recorrido total fue de: 3289.83 en esta fecha 
+
+
+Fecha 4
+HUI  vs @MIL | La distancia recorrida fue: 640.11Kms 
+SFE  vs @CAL | La distancia recorrida fue: 0.0Kms 
+MIL  vs @AME | La distancia recorrida fue: 186.3Kms 
+CAL  vs @MAG | La distancia recorrida fue: 761.1Kms 
+AME  vs @ONC | La distancia recorrida fue: 79.0Kms 
+MAG  vs @PAT | La distancia recorrida fue: 238.28Kms 
+ONC  vs @ALI | La distancia recorrida fue: 329.83Kms 
+PAT  vs @EQU | La distancia recorrida fue: 121.95Kms 
+ALI  vs @HUI | La distancia recorrida fue: 166.29Kms 
+EQU  vs @SFE | La distancia recorrida fue: 125.21Kms 
+El recorrido total fue de: 2648.07 en esta fecha 
+
+
+Fecha 5
+BUC  vs @MIL | La distancia recorrida fue: 889.28Kms 
+RIO  vs @CAL | La distancia recorrida fue: 314.45Kms 
+NAL  vs @AME | La distancia recorrida fue: 331.53Kms 
+PAS  vs @MAG | La distancia recorrida fue: 569.5Kms 
+TOL  vs @ONC | La distancia recorrida fue: 133.88Kms 
+JUN  vs @PAT | La distancia recorrida fue: 259.85Kms 
+MED  vs @ALI | La distancia recorrida fue: 211.08Kms 
+CUC  vs @EQU | La distancia recorrida fue: 242.74Kms 
+ENV  vs @HUI | La distancia recorrida fue: 370.85Kms 
+JAG  vs @SFE | La distancia recorrida fue: 245.2Kms 
+El recorrido total fue de: 3568.36 en esta fecha 
+
+
+Fecha 6
+EQU  vs @MIL | La distancia recorrida fue: 391.98Kms 
+HUI  vs @CAL | La distancia recorrida fue: 279.45Kms 
+SFE  vs @AME | La distancia recorrida fue: 0.0Kms 
+MIL  vs @MAG | La distancia recorrida fue: 900.72Kms 
+CAL  vs @ONC | La distancia recorrida fue: 215.22Kms 
+AME  vs @PAT | La distancia recorrida fue: 424.29Kms 
+MAG  vs @ALI | La distancia recorrida fue: 501.91Kms 
+ONC  vs @EQU | La distancia recorrida fue: 298.04Kms 
+PAT  vs @HUI | La distancia recorrida fue: 150.39Kms 
+ALI  vs @SFE | La distancia recorrida fue: 304.87Kms 
+El recorrido total fue de: 3466.87 en esta fecha 
+
+
+Fecha 7
+JAG  vs @MIL | La distancia recorrida fue: 1673.81Kms 
+BUC  vs @CAL | La distancia recorrida fue: 1087.88Kms 
+RIO  vs @AME | La distancia recorrida fue: 1283.15Kms 
+NAL  vs @MAG | La distancia recorrida fue: 71.88Kms 
+PAS  vs @ONC | La distancia recorrida fue: 657.11Kms 
+TOL  vs @PAT | La distancia recorrida fue: 619.58Kms 
+JUN  vs @ALI | La distancia recorrida fue: 440.7Kms 
+MED  vs @EQU | La distancia recorrida fue: 704.74Kms 
+CUC  vs @HUI | La distancia recorrida fue: 890.14Kms 
+ENV  vs @SFE | La distancia recorrida fue: 702.95Kms 
+El recorrido total fue de: 8131.94 en esta fecha 
+
+
+Fecha 8
+ALI  vs @MIL | La distancia recorrida fue: 1742.93Kms 
+EQU  vs @CAL | La distancia recorrida fue: 1141.65Kms 
+HUI  vs @AME | La distancia recorrida fue: 1351.08Kms 
+SFE  vs @MAG | La distancia recorrida fue: 0.0Kms 
+MIL  vs @ONC | La distancia recorrida fue: 696.67Kms 
+CAL  vs @PAT | La distancia recorrida fue: 634.95Kms 
+AME  vs @ALI | La distancia recorrida fue: 459.33Kms 
+MAG  vs @EQU | La distancia recorrida fue: 730.28Kms 
+ONC  vs @HUI | La distancia recorrida fue: 925.6Kms 
+PAT  vs @SFE | La distancia recorrida fue: 727.87Kms 
+El recorrido total fue de: 8410.36 en esta fecha 
+
+
+Fecha 9
+ENV  vs @MIL | La distancia recorrida fue: 889.28Kms 
+JAG  vs @CAL | La distancia recorrida fue: 314.45Kms 
+BUC  vs @AME | La distancia recorrida fue: 497.3Kms 
+RIO  vs @MAG | La distancia recorrida fue: 854.25Kms 
+NAL  vs @ONC | La distancia recorrida fue: 133.88Kms 
+PAS  vs @PAT | La distancia recorrida fue: 259.85Kms 
+TOL  vs @ALI | La distancia recorrida fue: 211.08Kms 
+JUN  vs @EQU | La distancia recorrida fue: 242.74Kms 
+MED  vs @HUI | La distancia recorrida fue: 370.85Kms 
+CUC  vs @SFE | La distancia recorrida fue: 245.2Kms 
+El recorrido total fue de: 4018.8799999999997 en esta fecha 
+
+
+Fecha 10
+PAT  vs @MIL | La distancia recorrida fue: 709.14Kms 
+ALI  vs @CAL | La distancia recorrida fue: 118.5Kms 
+EQU  vs @AME | La distancia recorrida fue: 322.83Kms 
+HUI  vs @MAG | La distancia recorrida fue: 1045.01Kms 
+SFE  vs @ONC | La distancia recorrida fue: 0.0Kms 
+MIL  vs @PAT | La distancia recorrida fue: 242.64Kms 
+CAL  vs @ALI | La distancia recorrida fue: 287.32Kms 
+AME  vs @EQU | La distancia recorrida fue: 157.65Kms 
+MAG  vs @HUI | La distancia recorrida fue: 237.0Kms 
+ONC  vs @SFE | La distancia recorrida fue: 163.05Kms 
+El recorrido total fue de: 3283.1400000000003 en esta fecha 
+
+
+Fecha 11
+CUC  vs @MIL | La distancia recorrida fue: 1370.18Kms 
+ENV  vs @CAL | La distancia recorrida fue: 731.0Kms 
+JAG  vs @AME | La distancia recorrida fue: 1001.9Kms 
+BUC  vs @MAG | La distancia recorrida fue: 492.45Kms 
+RIO  vs @ONC | La distancia recorrida fue: 684.98Kms 
+NAL  vs @PAT | La distancia recorrida fue: 277.99Kms 
+PAS  vs @ALI | La distancia recorrida fue: 175.82Kms 
+TOL  vs @EQU | La distancia recorrida fue: 406.08Kms 
+JUN  vs @HUI | La distancia recorrida fue: 631.32Kms 
+MED  vs @SFE | La distancia recorrida fue: 401.2Kms 
+El recorrido total fue de: 6172.919999999999 en esta fecha 
+
+
+Fecha 12
+ONC  vs @MIL | La distancia recorrida fue: 975.57Kms 
+PAT  vs @CAL | La distancia recorrida fue: 357.42Kms 
+ALI  vs @AME | La distancia recorrida fue: 636.44Kms 
+EQU  vs @MAG | La distancia recorrida fue: 952.43Kms 
+HUI  vs @ONC | La distancia recorrida fue: 363.96Kms 
+SFE  vs @PAT | La distancia recorrida fue: 0.0Kms 
+MIL  vs @ALI | La distancia recorrida fue: 179.36Kms 
+CAL  vs @EQU | La distancia recorrida fue: 133.92Kms 
+AME  vs @HUI | La distancia recorrida fue: 360.03Kms 
+MAG  vs @SFE | La distancia recorrida fue: 127.91Kms 
+El recorrido total fue de: 4087.04 en esta fecha 
+
+
+Fecha 13
+MED  vs @MIL | La distancia recorrida fue: 874.19Kms 
+CUC  vs @CAL | La distancia recorrida fue: 299.76Kms 
+ENV  vs @AME | La distancia recorrida fue: 481.86Kms 
+JAG  vs @MAG | La distancia recorrida fue: 869.52Kms 
+BUC  vs @ONC | La distancia recorrida fue: 185.61Kms 
+RIO  vs @PAT | La distancia recorrida fue: 386.85Kms 
+NAL  vs @ALI | La distancia recorrida fue: 216.6Kms 
+PAS  vs @EQU | La distancia recorrida fue: 235.86Kms 
+TOL  vs @HUI | La distancia recorrida fue: 360.74Kms 
+JUN  vs @SFE | La distancia recorrida fue: 238.54Kms 
+El recorrido total fue de: 4149.53 en esta fecha 
+
+
+Fecha 14
+MAG  vs @MIL | La distancia recorrida fue: 1132.4Kms 
+ONC  vs @CAL | La distancia recorrida fue: 494.75Kms 
+PAT  vs @AME | La distancia recorrida fue: 752.87Kms 
+ALI  vs @MAG | La distancia recorrida fue: 689.0Kms 
+EQU  vs @ONC | La distancia recorrida fue: 430.98Kms 
+HUI  vs @PAT | La distancia recorrida fue: 269.04Kms 
+SFE  vs @ALI | La distancia recorrida fue: 0.0Kms 
+MIL  vs @EQU | La distancia recorrida fue: 274.02Kms 
+CAL  vs @HUI | La distancia recorrida fue: 486.01Kms 
+AME  vs @SFE | La distancia recorrida fue: 270.91Kms 
+El recorrido total fue de: 4799.98 en esta fecha 
+
+
+Fecha 15
+JUN  vs @MIL | La distancia recorrida fue: 1275.62Kms 
+MED  vs @CAL | La distancia recorrida fue: 570.42Kms 
+CUC  vs @AME | La distancia recorrida fue: 888.87Kms 
+ENV  vs @MAG | La distancia recorrida fue: 0.0Kms 
+JAG  vs @ONC | La distancia recorrida fue: 612.21Kms 
+BUC  vs @PAT | La distancia recorrida fue: 668.79Kms 
+RIO  vs @ALI | La distancia recorrida fue: 424.25Kms 
+NAL  vs @EQU | La distancia recorrida fue: 491.57Kms 
+PAS  vs @HUI | La distancia recorrida fue: 645.11Kms 
+TOL  vs @SFE | La distancia recorrida fue: 491.48Kms 
+El recorrido total fue de: 6068.32 en esta fecha 
+
+
+Fecha 16
+AME  vs @MIL | La distancia recorrida fue: 774.84Kms 
+MAG  vs @CAL | La distancia recorrida fue: 182.93Kms 
+ONC  vs @AME | La distancia recorrida fue: 447.06Kms 
+PAT  vs @MAG | La distancia recorrida fue: 1095.42Kms 
+ALI  vs @ONC | La distancia recorrida fue: 236.48Kms 
+EQU  vs @PAT | La distancia recorrida fue: 200.88Kms 
+HUI  vs @ALI | La distancia recorrida fue: 411.03Kms 
+SFE  vs @EQU | La distancia recorrida fue: 0.0Kms 
+MIL  vs @HUI | La distancia recorrida fue: 226.61Kms 
+CAL  vs @SFE | La distancia recorrida fue: 6.88Kms 
+El recorrido total fue de: 3582.1300000000006 en esta fecha 
+
+
+Fecha 17
+TOL  vs @MIL | La distancia recorrida fue: 1208.25Kms 
+JUN  vs @CAL | La distancia recorrida fue: 0.0Kms 
+MED  vs @AME | La distancia recorrida fue: 840.0Kms 
+CUC  vs @MAG | La distancia recorrida fue: 699.29Kms 
+ENV  vs @ONC | La distancia recorrida fue: 524.63Kms 
+JAG  vs @PAT | La distancia recorrida fue: 268.86Kms 
+BUC  vs @ALI | La distancia recorrida fue: 124.26Kms 
+RIO  vs @EQU | La distancia recorrida fue: 451.97Kms 
+NAL  vs @HUI | La distancia recorrida fue: 524.96Kms 
+PAS  vs @SFE | La distancia recorrida fue: 296.63Kms 
+El recorrido total fue de: 4938.85 en esta fecha 
+
+
+Fecha 18
+CAL  vs @MIL | La distancia recorrida fue: 441.45Kms 
+AME  vs @CAL | La distancia recorrida fue: 249.44Kms 
+MAG  vs @AME | La distancia recorrida fue: 225.59Kms 
+ONC  vs @MAG | La distancia recorrida fue: 1388.4Kms 
+PAT  vs @ONC | La distancia recorrida fue: 355.5Kms 
+ALI  vs @PAT | La distancia recorrida fue: 540.05Kms 
+EQU  vs @ALI | La distancia recorrida fue: 729.02Kms 
+HUI  vs @EQU | La distancia recorrida fue: 339.92Kms 
+SFE  vs @HUI | La distancia recorrida fue: 0.0Kms 
+MIL  vs @SFE | La distancia recorrida fue: 232.3Kms 
+El recorrido total fue de: 4501.67 en esta fecha 
+
+
+Fecha 19
+PAS  vs @MIL | La distancia recorrida fue: 884.18Kms 
+TOL  vs @CAL | La distancia recorrida fue: 287.48Kms 
+JUN  vs @AME | La distancia recorrida fue: 492.99Kms 
+MED  vs @MAG | La distancia recorrida fue: 863.25Kms 
+CUC  vs @ONC | La distancia recorrida fue: 182.79Kms 
+ENV  vs @PAT | La distancia recorrida fue: 349.92Kms 
+JAG  vs @ALI | La distancia recorrida fue: 293.79Kms 
+BUC  vs @EQU | La distancia recorrida fue: 326.76Kms 
+RIO  vs @HUI | La distancia recorrida fue: 535.76Kms 
+NAL  vs @SFE | La distancia recorrida fue: 220.03Kms 
+El recorrido total fue de: 4436.95 en esta fecha 
+
+El recorrido total de la segunda temporada fue de: 549968.2499999999 kms 
+PRIMERA TEMPORADA. 
+
+Fecha 1
+@NAL  vs MIL | La distancia recorrida fue: 522.73Kms 
+@PAS  vs CAL | La distancia recorrida fue: 125.21Kms 
+@TOL  vs AME | La distancia recorrida fue: 304.87Kms 
+@JUN  vs MAG | La distancia recorrida fue: 727.87Kms 
+@MED  vs ONC | La distancia recorrida fue: 163.05Kms 
+@CUC  vs PAT | La distancia recorrida fue: 127.91Kms 
+@ENV  vs ALI | La distancia recorrida fue: 270.91Kms 
+@JAG  vs EQU | La distancia recorrida fue: 6.88Kms 
+@BUC  vs HUI | La distancia recorrida fue: 232.3Kms 
+@RIO  vs SFE | La distancia recorrida fue: 0.0Kms 
+El recorrido total fue de: 2481.7300000000005 en esta fecha 
+
+
+Fecha 2
+@SFE  vs MIL | La distancia recorrida fue: 0.0Kms 
+@MIL  vs CAL | La distancia recorrida fue: 426.74Kms 
+@CAL  vs AME | La distancia recorrida fue: 261.32Kms 
+@AME  vs MAG | La distancia recorrida fue: 1161.95Kms 
+@MAG  vs ONC | La distancia recorrida fue: 472.76Kms 
+@ONC  vs PAT | La distancia recorrida fue: 650.38Kms 
+@PAT  vs ALI | La distancia recorrida fue: 754.93Kms 
+@ALI  vs EQU | La distancia recorrida fue: 516.56Kms 
+@EQU  vs HUI | La distancia recorrida fue: 294.3Kms 
+@HUI  vs SFE | La distancia recorrida fue: 522.73Kms 
+El recorrido total fue de: 5061.67 en esta fecha 
+
+
+Fecha 3
+@RIO  vs MIL | La distancia recorrida fue: 413.24Kms 
+@NAL  vs CAL | La distancia recorrida fue: 169.16Kms 
+@PAS  vs AME | La distancia recorrida fue: 17.14Kms 
+@TOL  vs MAG | La distancia recorrida fue: 887.09Kms 
+@JUN  vs ONC | La distancia recorrida fue: 199.27Kms 
+@MED  vs PAT | La distancia recorrida fue: 407.17Kms 
+@CUC  vs ALI | La distancia recorrida fue: 485.58Kms 
+@ENV  vs EQU | La distancia recorrida fue: 281.17Kms 
+@JAG  vs HUI | La distancia recorrida fue: 142.01Kms 
+@BUC  vs SFE | La distancia recorrida fue: 288.0Kms 
+El recorrido total fue de: 3289.83 en esta fecha 
+
+
+Fecha 4
+@HUI  vs MIL | La distancia recorrida fue: 640.11Kms 
+@SFE  vs CAL | La distancia recorrida fue: 0.0Kms 
+@MIL  vs AME | La distancia recorrida fue: 186.3Kms 
+@CAL  vs MAG | La distancia recorrida fue: 761.1Kms 
+@AME  vs ONC | La distancia recorrida fue: 79.0Kms 
+@MAG  vs PAT | La distancia recorrida fue: 238.28Kms 
+@ONC  vs ALI | La distancia recorrida fue: 329.83Kms 
+@PAT  vs EQU | La distancia recorrida fue: 121.95Kms 
+@ALI  vs HUI | La distancia recorrida fue: 166.29Kms 
+@EQU  vs SFE | La distancia recorrida fue: 125.21Kms 
+El recorrido total fue de: 2648.07 en esta fecha 
+
+
+Fecha 5
+@BUC  vs MIL | La distancia recorrida fue: 889.28Kms 
+@RIO  vs CAL | La distancia recorrida fue: 314.45Kms 
+@NAL  vs AME | La distancia recorrida fue: 331.53Kms 
+@PAS  vs MAG | La distancia recorrida fue: 569.5Kms 
+@TOL  vs ONC | La distancia recorrida fue: 133.88Kms 
+@JUN  vs PAT | La distancia recorrida fue: 259.85Kms 
+@MED  vs ALI | La distancia recorrida fue: 211.08Kms 
+@CUC  vs EQU | La distancia recorrida fue: 242.74Kms 
+@ENV  vs HUI | La distancia recorrida fue: 370.85Kms 
+@JAG  vs SFE | La distancia recorrida fue: 245.2Kms 
+El recorrido total fue de: 3568.36 en esta fecha 
+
+
+Fecha 6
+@EQU  vs MIL | La distancia recorrida fue: 391.98Kms 
+@HUI  vs CAL | La distancia recorrida fue: 279.45Kms 
+@SFE  vs AME | La distancia recorrida fue: 0.0Kms 
+@MIL  vs MAG | La distancia recorrida fue: 900.72Kms 
+@CAL  vs ONC | La distancia recorrida fue: 215.22Kms 
+@AME  vs PAT | La distancia recorrida fue: 424.29Kms 
+@MAG  vs ALI | La distancia recorrida fue: 501.91Kms 
+@ONC  vs EQU | La distancia recorrida fue: 298.04Kms 
+@PAT  vs HUI | La distancia recorrida fue: 150.39Kms 
+@ALI  vs SFE | La distancia recorrida fue: 304.87Kms 
+El recorrido total fue de: 3466.87 en esta fecha 
+
+
+Fecha 7
+@JAG  vs MIL | La distancia recorrida fue: 1673.81Kms 
+@BUC  vs CAL | La distancia recorrida fue: 1087.88Kms 
+@RIO  vs AME | La distancia recorrida fue: 1283.15Kms 
+@NAL  vs MAG | La distancia recorrida fue: 71.88Kms 
+@PAS  vs ONC | La distancia recorrida fue: 657.11Kms 
+@TOL  vs PAT | La distancia recorrida fue: 619.58Kms 
+@JUN  vs ALI | La distancia recorrida fue: 440.7Kms 
+@MED  vs EQU | La distancia recorrida fue: 704.74Kms 
+@CUC  vs HUI | La distancia recorrida fue: 890.14Kms 
+@ENV  vs SFE | La distancia recorrida fue: 702.95Kms 
+El recorrido total fue de: 8131.94 en esta fecha 
+
+
+Fecha 8
+@ALI  vs MIL | La distancia recorrida fue: 1742.93Kms 
+@EQU  vs CAL | La distancia recorrida fue: 1141.65Kms 
+@HUI  vs AME | La distancia recorrida fue: 1351.08Kms 
+@SFE  vs MAG | La distancia recorrida fue: 0.0Kms 
+@MIL  vs ONC | La distancia recorrida fue: 696.67Kms 
+@CAL  vs PAT | La distancia recorrida fue: 634.95Kms 
+@AME  vs ALI | La distancia recorrida fue: 459.33Kms 
+@MAG  vs EQU | La distancia recorrida fue: 730.28Kms 
+@ONC  vs HUI | La distancia recorrida fue: 925.6Kms 
+@PAT  vs SFE | La distancia recorrida fue: 727.87Kms 
+El recorrido total fue de: 8410.36 en esta fecha 
+
+
+Fecha 9
+@ENV  vs MIL | La distancia recorrida fue: 889.28Kms 
+@JAG  vs CAL | La distancia recorrida fue: 314.45Kms 
+@BUC  vs AME | La distancia recorrida fue: 497.3Kms 
+@RIO  vs MAG | La distancia recorrida fue: 854.25Kms 
+@NAL  vs ONC | La distancia recorrida fue: 133.88Kms 
+@PAS  vs PAT | La distancia recorrida fue: 259.85Kms 
+@TOL  vs ALI | La distancia recorrida fue: 211.08Kms 
+@JUN  vs EQU | La distancia recorrida fue: 242.74Kms 
+@MED  vs HUI | La distancia recorrida fue: 370.85Kms 
+@CUC  vs SFE | La distancia recorrida fue: 245.2Kms 
+El recorrido total fue de: 4018.8799999999997 en esta fecha 
+
+
+Fecha 10
+@PAT  vs MIL | La distancia recorrida fue: 709.14Kms 
+@ALI  vs CAL | La distancia recorrida fue: 118.5Kms 
+@EQU  vs AME | La distancia recorrida fue: 322.83Kms 
+@HUI  vs MAG | La distancia recorrida fue: 1045.01Kms 
+@SFE  vs ONC | La distancia recorrida fue: 0.0Kms 
+@MIL  vs PAT | La distancia recorrida fue: 242.64Kms 
+@CAL  vs ALI | La distancia recorrida fue: 287.32Kms 
+@AME  vs EQU | La distancia recorrida fue: 157.65Kms 
+@MAG  vs HUI | La distancia recorrida fue: 237.0Kms 
+@ONC  vs SFE | La distancia recorrida fue: 163.05Kms 
+El recorrido total fue de: 3283.1400000000003 en esta fecha 
+
+
+Fecha 11
+@CUC  vs MIL | La distancia recorrida fue: 1370.18Kms 
+@ENV  vs CAL | La distancia recorrida fue: 731.0Kms 
+@JAG  vs AME | La distancia recorrida fue: 1001.9Kms 
+@BUC  vs MAG | La distancia recorrida fue: 492.45Kms 
+@RIO  vs ONC | La distancia recorrida fue: 684.98Kms 
+@NAL  vs PAT | La distancia recorrida fue: 277.99Kms 
+@PAS  vs ALI | La distancia recorrida fue: 175.82Kms 
+@TOL  vs EQU | La distancia recorrida fue: 406.08Kms 
+@JUN  vs HUI | La distancia recorrida fue: 631.32Kms 
+@MED  vs SFE | La distancia recorrida fue: 401.2Kms 
+El recorrido total fue de: 6172.919999999999 en esta fecha 
+
+
+Fecha 12
+@ONC  vs MIL | La distancia recorrida fue: 975.57Kms 
+@PAT  vs CAL | La distancia recorrida fue: 357.42Kms 
+@ALI  vs AME | La distancia recorrida fue: 636.44Kms 
+@EQU  vs MAG | La distancia recorrida fue: 952.43Kms 
+@HUI  vs ONC | La distancia recorrida fue: 363.96Kms 
+@SFE  vs PAT | La distancia recorrida fue: 0.0Kms 
+@MIL  vs ALI | La distancia recorrida fue: 179.36Kms 
+@CAL  vs EQU | La distancia recorrida fue: 133.92Kms 
+@AME  vs HUI | La distancia recorrida fue: 360.03Kms 
+@MAG  vs SFE | La distancia recorrida fue: 127.91Kms 
+El recorrido total fue de: 4087.04 en esta fecha 
+
+
+Fecha 13
+@MED  vs MIL | La distancia recorrida fue: 874.19Kms 
+@CUC  vs CAL | La distancia recorrida fue: 299.76Kms 
+@ENV  vs AME | La distancia recorrida fue: 481.86Kms 
+@JAG  vs MAG | La distancia recorrida fue: 869.52Kms 
+@BUC  vs ONC | La distancia recorrida fue: 185.61Kms 
+@RIO  vs PAT | La distancia recorrida fue: 386.85Kms 
+@NAL  vs ALI | La distancia recorrida fue: 216.6Kms 
+@PAS  vs EQU | La distancia recorrida fue: 235.86Kms 
+@TOL  vs HUI | La distancia recorrida fue: 360.74Kms 
+@JUN  vs SFE | La distancia recorrida fue: 238.54Kms 
+El recorrido total fue de: 4149.53 en esta fecha 
+
+
+Fecha 14
+@MAG  vs MIL | La distancia recorrida fue: 1132.4Kms 
+@ONC  vs CAL | La distancia recorrida fue: 494.75Kms 
+@PAT  vs AME | La distancia recorrida fue: 752.87Kms 
+@ALI  vs MAG | La distancia recorrida fue: 689.0Kms 
+@EQU  vs ONC | La distancia recorrida fue: 430.98Kms 
+@HUI  vs PAT | La distancia recorrida fue: 269.04Kms 
+@SFE  vs ALI | La distancia recorrida fue: 0.0Kms 
+@MIL  vs EQU | La distancia recorrida fue: 274.02Kms 
+@CAL  vs HUI | La distancia recorrida fue: 486.01Kms 
+@AME  vs SFE | La distancia recorrida fue: 270.91Kms 
+El recorrido total fue de: 4799.98 en esta fecha 
+
+
+Fecha 15
+@JUN  vs MIL | La distancia recorrida fue: 1275.62Kms 
+@MED  vs CAL | La distancia recorrida fue: 570.42Kms 
+@CUC  vs AME | La distancia recorrida fue: 888.87Kms 
+@ENV  vs MAG | La distancia recorrida fue: 0.0Kms 
+@JAG  vs ONC | La distancia recorrida fue: 612.21Kms 
+@BUC  vs PAT | La distancia recorrida fue: 668.79Kms 
+@RIO  vs ALI | La distancia recorrida fue: 424.25Kms 
+@NAL  vs EQU | La distancia recorrida fue: 491.57Kms 
+@PAS  vs HUI | La distancia recorrida fue: 645.11Kms 
+@TOL  vs SFE | La distancia recorrida fue: 491.48Kms 
+El recorrido total fue de: 6068.32 en esta fecha 
+
+
+Fecha 16
+@AME  vs MIL | La distancia recorrida fue: 774.84Kms 
+@MAG  vs CAL | La distancia recorrida fue: 182.93Kms 
+@ONC  vs AME | La distancia recorrida fue: 447.06Kms 
+@PAT  vs MAG | La distancia recorrida fue: 1095.42Kms 
+@ALI  vs ONC | La distancia recorrida fue: 236.48Kms 
+@EQU  vs PAT | La distancia recorrida fue: 200.88Kms 
+@HUI  vs ALI | La distancia recorrida fue: 411.03Kms 
+@SFE  vs EQU | La distancia recorrida fue: 0.0Kms 
+@MIL  vs HUI | La distancia recorrida fue: 226.61Kms 
+@CAL  vs SFE | La distancia recorrida fue: 6.88Kms 
+El recorrido total fue de: 3582.1300000000006 en esta fecha 
+
+
+Fecha 17
+@TOL  vs MIL | La distancia recorrida fue: 1208.25Kms 
+@JUN  vs CAL | La distancia recorrida fue: 0.0Kms 
+@MED  vs AME | La distancia recorrida fue: 840.0Kms 
+@CUC  vs MAG | La distancia recorrida fue: 699.29Kms 
+@ENV  vs ONC | La distancia recorrida fue: 524.63Kms 
+@JAG  vs PAT | La distancia recorrida fue: 268.86Kms 
+@BUC  vs ALI | La distancia recorrida fue: 124.26Kms 
+@RIO  vs EQU | La distancia recorrida fue: 451.97Kms 
+@NAL  vs HUI | La distancia recorrida fue: 524.96Kms 
+@PAS  vs SFE | La distancia recorrida fue: 296.63Kms 
+El recorrido total fue de: 4938.85 en esta fecha 
+
+
+Fecha 18
+@CAL  vs MIL | La distancia recorrida fue: 441.45Kms 
+@AME  vs CAL | La distancia recorrida fue: 249.44Kms 
+@MAG  vs AME | La distancia recorrida fue: 225.59Kms 
+@ONC  vs MAG | La distancia recorrida fue: 1388.4Kms 
+@PAT  vs ONC | La distancia recorrida fue: 355.5Kms 
+@ALI  vs PAT | La distancia recorrida fue: 540.05Kms 
+@EQU  vs ALI | La distancia recorrida fue: 729.02Kms 
+@HUI  vs EQU | La distancia recorrida fue: 339.92Kms 
+@SFE  vs HUI | La distancia recorrida fue: 0.0Kms 
+@MIL  vs SFE | La distancia recorrida fue: 232.3Kms 
+El recorrido total fue de: 4501.67 en esta fecha 
+
+
+Fecha 19
+@PAS  vs MIL | La distancia recorrida fue: 884.18Kms 
+@TOL  vs CAL | La distancia recorrida fue: 287.48Kms 
+@JUN  vs AME | La distancia recorrida fue: 492.99Kms 
+@MED  vs MAG | La distancia recorrida fue: 863.25Kms 
+@CUC  vs ONC | La distancia recorrida fue: 182.79Kms 
+@ENV  vs PAT | La distancia recorrida fue: 349.92Kms 
+@JAG  vs ALI | La distancia recorrida fue: 293.79Kms 
+@BUC  vs EQU | La distancia recorrida fue: 326.76Kms 
+@RIO  vs HUI | La distancia recorrida fue: 535.76Kms 
+@NAL  vs SFE | La distancia recorrida fue: 220.03Kms 
+El recorrido total fue de: 4436.95 en esta fecha 
+
+El recorrido total de la primera temporada fue de: 549968.2499999999 kms 
+SEGUNDA TEMPORADA. 
+
+Fecha 1
+NAL  vs @MIL | La distancia recorrida fue: 522.73Kms 
+PAS  vs @CAL | La distancia recorrida fue: 125.21Kms 
+TOL  vs @AME | La distancia recorrida fue: 304.87Kms 
+JUN  vs @MAG | La distancia recorrida fue: 727.87Kms 
+MED  vs @ONC | La distancia recorrida fue: 163.05Kms 
+CUC  vs @PAT | La distancia recorrida fue: 127.91Kms 
+ENV  vs @ALI | La distancia recorrida fue: 270.91Kms 
+JAG  vs @EQU | La distancia recorrida fue: 6.88Kms 
+BUC  vs @HUI | La distancia recorrida fue: 232.3Kms 
+RIO  vs @SFE | La distancia recorrida fue: 0.0Kms 
+El recorrido total fue de: 2481.7300000000005 en esta fecha 
+
+
+Fecha 2
+SFE  vs @MIL | La distancia recorrida fue: 0.0Kms 
+MIL  vs @CAL | La distancia recorrida fue: 426.74Kms 
+CAL  vs @AME | La distancia recorrida fue: 261.32Kms 
+AME  vs @MAG | La distancia recorrida fue: 1161.95Kms 
+MAG  vs @ONC | La distancia recorrida fue: 472.76Kms 
+ONC  vs @PAT | La distancia recorrida fue: 650.38Kms 
+PAT  vs @ALI | La distancia recorrida fue: 754.93Kms 
+ALI  vs @EQU | La distancia recorrida fue: 516.56Kms 
+EQU  vs @HUI | La distancia recorrida fue: 294.3Kms 
+HUI  vs @SFE | La distancia recorrida fue: 522.73Kms 
+El recorrido total fue de: 5061.67 en esta fecha 
+
+
+Fecha 3
+RIO  vs @MIL | La distancia recorrida fue: 413.24Kms 
+NAL  vs @CAL | La distancia recorrida fue: 169.16Kms 
+PAS  vs @AME | La distancia recorrida fue: 17.14Kms 
+TOL  vs @MAG | La distancia recorrida fue: 887.09Kms 
+JUN  vs @ONC | La distancia recorrida fue: 199.27Kms 
+MED  vs @PAT | La distancia recorrida fue: 407.17Kms 
+CUC  vs @ALI | La distancia recorrida fue: 485.58Kms 
+ENV  vs @EQU | La distancia recorrida fue: 281.17Kms 
+JAG  vs @HUI | La distancia recorrida fue: 142.01Kms 
+BUC  vs @SFE | La distancia recorrida fue: 288.0Kms 
+El recorrido total fue de: 3289.83 en esta fecha 
+
+
+Fecha 4
+HUI  vs @MIL | La distancia recorrida fue: 640.11Kms 
+SFE  vs @CAL | La distancia recorrida fue: 0.0Kms 
+MIL  vs @AME | La distancia recorrida fue: 186.3Kms 
+CAL  vs @MAG | La distancia recorrida fue: 761.1Kms 
+AME  vs @ONC | La distancia recorrida fue: 79.0Kms 
+MAG  vs @PAT | La distancia recorrida fue: 238.28Kms 
+ONC  vs @ALI | La distancia recorrida fue: 329.83Kms 
+PAT  vs @EQU | La distancia recorrida fue: 121.95Kms 
+ALI  vs @HUI | La distancia recorrida fue: 166.29Kms 
+EQU  vs @SFE | La distancia recorrida fue: 125.21Kms 
+El recorrido total fue de: 2648.07 en esta fecha 
+
+
+Fecha 5
+BUC  vs @MIL | La distancia recorrida fue: 889.28Kms 
+RIO  vs @CAL | La distancia recorrida fue: 314.45Kms 
+NAL  vs @AME | La distancia recorrida fue: 331.53Kms 
+PAS  vs @MAG | La distancia recorrida fue: 569.5Kms 
+TOL  vs @ONC | La distancia recorrida fue: 133.88Kms 
+JUN  vs @PAT | La distancia recorrida fue: 259.85Kms 
+MED  vs @ALI | La distancia recorrida fue: 211.08Kms 
+CUC  vs @EQU | La distancia recorrida fue: 242.74Kms 
+ENV  vs @HUI | La distancia recorrida fue: 370.85Kms 
+JAG  vs @SFE | La distancia recorrida fue: 245.2Kms 
+El recorrido total fue de: 3568.36 en esta fecha 
+
+
+Fecha 6
+EQU  vs @MIL | La distancia recorrida fue: 391.98Kms 
+HUI  vs @CAL | La distancia recorrida fue: 279.45Kms 
+SFE  vs @AME | La distancia recorrida fue: 0.0Kms 
+MIL  vs @MAG | La distancia recorrida fue: 900.72Kms 
+CAL  vs @ONC | La distancia recorrida fue: 215.22Kms 
+AME  vs @PAT | La distancia recorrida fue: 424.29Kms 
+MAG  vs @ALI | La distancia recorrida fue: 501.91Kms 
+ONC  vs @EQU | La distancia recorrida fue: 298.04Kms 
+PAT  vs @HUI | La distancia recorrida fue: 150.39Kms 
+ALI  vs @SFE | La distancia recorrida fue: 304.87Kms 
+El recorrido total fue de: 3466.87 en esta fecha 
+
+
+Fecha 7
+JAG  vs @MIL | La distancia recorrida fue: 1673.81Kms 
+BUC  vs @CAL | La distancia recorrida fue: 1087.88Kms 
+RIO  vs @AME | La distancia recorrida fue: 1283.15Kms 
+NAL  vs @MAG | La distancia recorrida fue: 71.88Kms 
+PAS  vs @ONC | La distancia recorrida fue: 657.11Kms 
+TOL  vs @PAT | La distancia recorrida fue: 619.58Kms 
+JUN  vs @ALI | La distancia recorrida fue: 440.7Kms 
+MED  vs @EQU | La distancia recorrida fue: 704.74Kms 
+CUC  vs @HUI | La distancia recorrida fue: 890.14Kms 
+ENV  vs @SFE | La distancia recorrida fue: 702.95Kms 
+El recorrido total fue de: 8131.94 en esta fecha 
+
+
+Fecha 8
+ALI  vs @MIL | La distancia recorrida fue: 1742.93Kms 
+EQU  vs @CAL | La distancia recorrida fue: 1141.65Kms 
+HUI  vs @AME | La distancia recorrida fue: 1351.08Kms 
+SFE  vs @MAG | La distancia recorrida fue: 0.0Kms 
+MIL  vs @ONC | La distancia recorrida fue: 696.67Kms 
+CAL  vs @PAT | La distancia recorrida fue: 634.95Kms 
+AME  vs @ALI | La distancia recorrida fue: 459.33Kms 
+MAG  vs @EQU | La distancia recorrida fue: 730.28Kms 
+ONC  vs @HUI | La distancia recorrida fue: 925.6Kms 
+PAT  vs @SFE | La distancia recorrida fue: 727.87Kms 
+El recorrido total fue de: 8410.36 en esta fecha 
+
+
+Fecha 9
+ENV  vs @MIL | La distancia recorrida fue: 889.28Kms 
+JAG  vs @CAL | La distancia recorrida fue: 314.45Kms 
+BUC  vs @AME | La distancia recorrida fue: 497.3Kms 
+RIO  vs @MAG | La distancia recorrida fue: 854.25Kms 
+NAL  vs @ONC | La distancia recorrida fue: 133.88Kms 
+PAS  vs @PAT | La distancia recorrida fue: 259.85Kms 
+TOL  vs @ALI | La distancia recorrida fue: 211.08Kms 
+JUN  vs @EQU | La distancia recorrida fue: 242.74Kms 
+MED  vs @HUI | La distancia recorrida fue: 370.85Kms 
+CUC  vs @SFE | La distancia recorrida fue: 245.2Kms 
+El recorrido total fue de: 4018.8799999999997 en esta fecha 
+
+
+Fecha 10
+PAT  vs @MIL | La distancia recorrida fue: 709.14Kms 
+ALI  vs @CAL | La distancia recorrida fue: 118.5Kms 
+EQU  vs @AME | La distancia recorrida fue: 322.83Kms 
+HUI  vs @MAG | La distancia recorrida fue: 1045.01Kms 
+SFE  vs @ONC | La distancia recorrida fue: 0.0Kms 
+MIL  vs @PAT | La distancia recorrida fue: 242.64Kms 
+CAL  vs @ALI | La distancia recorrida fue: 287.32Kms 
+AME  vs @EQU | La distancia recorrida fue: 157.65Kms 
+MAG  vs @HUI | La distancia recorrida fue: 237.0Kms 
+ONC  vs @SFE | La distancia recorrida fue: 163.05Kms 
+El recorrido total fue de: 3283.1400000000003 en esta fecha 
+
+
+Fecha 11
+CUC  vs @MIL | La distancia recorrida fue: 1370.18Kms 
+ENV  vs @CAL | La distancia recorrida fue: 731.0Kms 
+JAG  vs @AME | La distancia recorrida fue: 1001.9Kms 
+BUC  vs @MAG | La distancia recorrida fue: 492.45Kms 
+RIO  vs @ONC | La distancia recorrida fue: 684.98Kms 
+NAL  vs @PAT | La distancia recorrida fue: 277.99Kms 
+PAS  vs @ALI | La distancia recorrida fue: 175.82Kms 
+TOL  vs @EQU | La distancia recorrida fue: 406.08Kms 
+JUN  vs @HUI | La distancia recorrida fue: 631.32Kms 
+MED  vs @SFE | La distancia recorrida fue: 401.2Kms 
+El recorrido total fue de: 6172.919999999999 en esta fecha 
+
+
+Fecha 12
+ONC  vs @MIL | La distancia recorrida fue: 975.57Kms 
+PAT  vs @CAL | La distancia recorrida fue: 357.42Kms 
+ALI  vs @AME | La distancia recorrida fue: 636.44Kms 
+EQU  vs @MAG | La distancia recorrida fue: 952.43Kms 
+HUI  vs @ONC | La distancia recorrida fue: 363.96Kms 
+SFE  vs @PAT | La distancia recorrida fue: 0.0Kms 
+MIL  vs @ALI | La distancia recorrida fue: 179.36Kms 
+CAL  vs @EQU | La distancia recorrida fue: 133.92Kms 
+AME  vs @HUI | La distancia recorrida fue: 360.03Kms 
+MAG  vs @SFE | La distancia recorrida fue: 127.91Kms 
+El recorrido total fue de: 4087.04 en esta fecha 
+
+
+Fecha 13
+MED  vs @MIL | La distancia recorrida fue: 874.19Kms 
+CUC  vs @CAL | La distancia recorrida fue: 299.76Kms 
+ENV  vs @AME | La distancia recorrida fue: 481.86Kms 
+JAG  vs @MAG | La distancia recorrida fue: 869.52Kms 
+BUC  vs @ONC | La distancia recorrida fue: 185.61Kms 
+RIO  vs @PAT | La distancia recorrida fue: 386.85Kms 
+NAL  vs @ALI | La distancia recorrida fue: 216.6Kms 
+PAS  vs @EQU | La distancia recorrida fue: 235.86Kms 
+TOL  vs @HUI | La distancia recorrida fue: 360.74Kms 
+JUN  vs @SFE | La distancia recorrida fue: 238.54Kms 
+El recorrido total fue de: 4149.53 en esta fecha 
+
+
+Fecha 14
+MAG  vs @MIL | La distancia recorrida fue: 1132.4Kms 
+ONC  vs @CAL | La distancia recorrida fue: 494.75Kms 
+PAT  vs @AME | La distancia recorrida fue: 752.87Kms 
+ALI  vs @MAG | La distancia recorrida fue: 689.0Kms 
+EQU  vs @ONC | La distancia recorrida fue: 430.98Kms 
+HUI  vs @PAT | La distancia recorrida fue: 269.04Kms 
+SFE  vs @ALI | La distancia recorrida fue: 0.0Kms 
+MIL  vs @EQU | La distancia recorrida fue: 274.02Kms 
+CAL  vs @HUI | La distancia recorrida fue: 486.01Kms 
+AME  vs @SFE | La distancia recorrida fue: 270.91Kms 
+El recorrido total fue de: 4799.98 en esta fecha 
+
+
+Fecha 15
+JUN  vs @MIL | La distancia recorrida fue: 1275.62Kms 
+MED  vs @CAL | La distancia recorrida fue: 570.42Kms 
+CUC  vs @AME | La distancia recorrida fue: 888.87Kms 
+ENV  vs @MAG | La distancia recorrida fue: 0.0Kms 
+JAG  vs @ONC | La distancia recorrida fue: 612.21Kms 
+BUC  vs @PAT | La distancia recorrida fue: 668.79Kms 
+RIO  vs @ALI | La distancia recorrida fue: 424.25Kms 
+NAL  vs @EQU | La distancia recorrida fue: 491.57Kms 
+PAS  vs @HUI | La distancia recorrida fue: 645.11Kms 
+TOL  vs @SFE | La distancia recorrida fue: 491.48Kms 
+El recorrido total fue de: 6068.32 en esta fecha 
+
+
+Fecha 16
+AME  vs @MIL | La distancia recorrida fue: 774.84Kms 
+MAG  vs @CAL | La distancia recorrida fue: 182.93Kms 
+ONC  vs @AME | La distancia recorrida fue: 447.06Kms 
+PAT  vs @MAG | La distancia recorrida fue: 1095.42Kms 
+ALI  vs @ONC | La distancia recorrida fue: 236.48Kms 
+EQU  vs @PAT | La distancia recorrida fue: 200.88Kms 
+HUI  vs @ALI | La distancia recorrida fue: 411.03Kms 
+SFE  vs @EQU | La distancia recorrida fue: 0.0Kms 
+MIL  vs @HUI | La distancia recorrida fue: 226.61Kms 
+CAL  vs @SFE | La distancia recorrida fue: 6.88Kms 
+El recorrido total fue de: 3582.1300000000006 en esta fecha 
+
+
+Fecha 17
+TOL  vs @MIL | La distancia recorrida fue: 1208.25Kms 
+JUN  vs @CAL | La distancia recorrida fue: 0.0Kms 
+MED  vs @AME | La distancia recorrida fue: 840.0Kms 
+CUC  vs @MAG | La distancia recorrida fue: 699.29Kms 
+ENV  vs @ONC | La distancia recorrida fue: 524.63Kms 
+JAG  vs @PAT | La distancia recorrida fue: 268.86Kms 
+BUC  vs @ALI | La distancia recorrida fue: 124.26Kms 
+RIO  vs @EQU | La distancia recorrida fue: 451.97Kms 
+NAL  vs @HUI | La distancia recorrida fue: 524.96Kms 
+PAS  vs @SFE | La distancia recorrida fue: 296.63Kms 
+El recorrido total fue de: 4938.85 en esta fecha 
+
+
+Fecha 18
+CAL  vs @MIL | La distancia recorrida fue: 441.45Kms 
+AME  vs @CAL | La distancia recorrida fue: 249.44Kms 
+MAG  vs @AME | La distancia recorrida fue: 225.59Kms 
+ONC  vs @MAG | La distancia recorrida fue: 1388.4Kms 
+PAT  vs @ONC | La distancia recorrida fue: 355.5Kms 
+ALI  vs @PAT | La distancia recorrida fue: 540.05Kms 
+EQU  vs @ALI | La distancia recorrida fue: 729.02Kms 
+HUI  vs @EQU | La distancia recorrida fue: 339.92Kms 
+SFE  vs @HUI | La distancia recorrida fue: 0.0Kms 
+MIL  vs @SFE | La distancia recorrida fue: 232.3Kms 
+El recorrido total fue de: 4501.67 en esta fecha 
+
+
+Fecha 19
+PAS  vs @MIL | La distancia recorrida fue: 884.18Kms 
+TOL  vs @CAL | La distancia recorrida fue: 287.48Kms 
+JUN  vs @AME | La distancia recorrida fue: 492.99Kms 
+MED  vs @MAG | La distancia recorrida fue: 863.25Kms 
+CUC  vs @ONC | La distancia recorrida fue: 182.79Kms 
+ENV  vs @PAT | La distancia recorrida fue: 349.92Kms 
+JAG  vs @ALI | La distancia recorrida fue: 293.79Kms 
+BUC  vs @EQU | La distancia recorrida fue: 326.76Kms 
+RIO  vs @HUI | La distancia recorrida fue: 535.76Kms 
+NAL  vs @SFE | La distancia recorrida fue: 220.03Kms 
+El recorrido total fue de: 4436.95 en esta fecha 
+
+El recorrido total de la segunda temporada fue de: 549968.2499999999 kms 
+PRIMERA TEMPORADA. 
+
+Fecha 1@NAL  vs MIL | La distancia recorrida fue: 522.73Kms 
+@PAS  vs CAL | La distancia recorrida fue: 125.21Kms 
+@TOL  vs AME | La distancia recorrida fue: 304.87Kms 
+@JUN  vs MAG | La distancia recorrida fue: 727.87Kms 
+@MED  vs ONC | La distancia recorrida fue: 163.05Kms 
+@CUC  vs PAT | La distancia recorrida fue: 127.91Kms 
+@ENV  vs ALI | La distancia recorrida fue: 270.91Kms 
+@JAG  vs EQU | La distancia recorrida fue: 6.88Kms 
+@BUC  vs HUI | La distancia recorrida fue: 232.3Kms 
+@RIO  vs SFE | La distancia recorrida fue: 0.0Kms 
+El recorrido total fue de: 2481.7300000000005 en esta fecha 
+
+
+Fecha 2@SFE  vs MIL | La distancia recorrida fue: 0.0Kms 
+@MIL  vs CAL | La distancia recorrida fue: 426.74Kms 
+@CAL  vs AME | La distancia recorrida fue: 261.32Kms 
+@AME  vs MAG | La distancia recorrida fue: 1161.95Kms 
+@MAG  vs ONC | La distancia recorrida fue: 472.76Kms 
+@ONC  vs PAT | La distancia recorrida fue: 650.38Kms 
+@PAT  vs ALI | La distancia recorrida fue: 754.93Kms 
+@ALI  vs EQU | La distancia recorrida fue: 516.56Kms 
+@EQU  vs HUI | La distancia recorrida fue: 294.3Kms 
+@HUI  vs SFE | La distancia recorrida fue: 522.73Kms 
+El recorrido total fue de: 5061.67 en esta fecha 
+
+
+Fecha 3@RIO  vs MIL | La distancia recorrida fue: 413.24Kms 
+@NAL  vs CAL | La distancia recorrida fue: 169.16Kms 
+@PAS  vs AME | La distancia recorrida fue: 17.14Kms 
+@TOL  vs MAG | La distancia recorrida fue: 887.09Kms 
+@JUN  vs ONC | La distancia recorrida fue: 199.27Kms 
+@MED  vs PAT | La distancia recorrida fue: 407.17Kms 
+@CUC  vs ALI | La distancia recorrida fue: 485.58Kms 
+@ENV  vs EQU | La distancia recorrida fue: 281.17Kms 
+@JAG  vs HUI | La distancia recorrida fue: 142.01Kms 
+@BUC  vs SFE | La distancia recorrida fue: 288.0Kms 
+El recorrido total fue de: 3289.83 en esta fecha 
+
+
+Fecha 4@HUI  vs MIL | La distancia recorrida fue: 640.11Kms 
+@SFE  vs CAL | La distancia recorrida fue: 0.0Kms 
+@MIL  vs AME | La distancia recorrida fue: 186.3Kms 
+@CAL  vs MAG | La distancia recorrida fue: 761.1Kms 
+@AME  vs ONC | La distancia recorrida fue: 79.0Kms 
+@MAG  vs PAT | La distancia recorrida fue: 238.28Kms 
+@ONC  vs ALI | La distancia recorrida fue: 329.83Kms 
+@PAT  vs EQU | La distancia recorrida fue: 121.95Kms 
+@ALI  vs HUI | La distancia recorrida fue: 166.29Kms 
+@EQU  vs SFE | La distancia recorrida fue: 125.21Kms 
+El recorrido total fue de: 2648.07 en esta fecha 
+
+
+Fecha 5@BUC  vs MIL | La distancia recorrida fue: 889.28Kms 
+@RIO  vs CAL | La distancia recorrida fue: 314.45Kms 
+@NAL  vs AME | La distancia recorrida fue: 331.53Kms 
+@PAS  vs MAG | La distancia recorrida fue: 569.5Kms 
+@TOL  vs ONC | La distancia recorrida fue: 133.88Kms 
+@JUN  vs PAT | La distancia recorrida fue: 259.85Kms 
+@MED  vs ALI | La distancia recorrida fue: 211.08Kms 
+@CUC  vs EQU | La distancia recorrida fue: 242.74Kms 
+@ENV  vs HUI | La distancia recorrida fue: 370.85Kms 
+@JAG  vs SFE | La distancia recorrida fue: 245.2Kms 
+El recorrido total fue de: 3568.36 en esta fecha 
+
+
+Fecha 6@EQU  vs MIL | La distancia recorrida fue: 391.98Kms 
+@HUI  vs CAL | La distancia recorrida fue: 279.45Kms 
+@SFE  vs AME | La distancia recorrida fue: 0.0Kms 
+@MIL  vs MAG | La distancia recorrida fue: 900.72Kms 
+@CAL  vs ONC | La distancia recorrida fue: 215.22Kms 
+@AME  vs PAT | La distancia recorrida fue: 424.29Kms 
+@MAG  vs ALI | La distancia recorrida fue: 501.91Kms 
+@ONC  vs EQU | La distancia recorrida fue: 298.04Kms 
+@PAT  vs HUI | La distancia recorrida fue: 150.39Kms 
+@ALI  vs SFE | La distancia recorrida fue: 304.87Kms 
+El recorrido total fue de: 3466.87 en esta fecha 
+
+
+Fecha 7@JAG  vs MIL | La distancia recorrida fue: 1673.81Kms 
+@BUC  vs CAL | La distancia recorrida fue: 1087.88Kms 
+@RIO  vs AME | La distancia recorrida fue: 1283.15Kms 
+@NAL  vs MAG | La distancia recorrida fue: 71.88Kms 
+@PAS  vs ONC | La distancia recorrida fue: 657.11Kms 
+@TOL  vs PAT | La distancia recorrida fue: 619.58Kms 
+@JUN  vs ALI | La distancia recorrida fue: 440.7Kms 
+@MED  vs EQU | La distancia recorrida fue: 704.74Kms 
+@CUC  vs HUI | La distancia recorrida fue: 890.14Kms 
+@ENV  vs SFE | La distancia recorrida fue: 702.95Kms 
+El recorrido total fue de: 8131.94 en esta fecha 
+
+
+Fecha 8@ALI  vs MIL | La distancia recorrida fue: 1742.93Kms 
+@EQU  vs CAL | La distancia recorrida fue: 1141.65Kms 
+@HUI  vs AME | La distancia recorrida fue: 1351.08Kms 
+@SFE  vs MAG | La distancia recorrida fue: 0.0Kms 
+@MIL  vs ONC | La distancia recorrida fue: 696.67Kms 
+@CAL  vs PAT | La distancia recorrida fue: 634.95Kms 
+@AME  vs ALI | La distancia recorrida fue: 459.33Kms 
+@MAG  vs EQU | La distancia recorrida fue: 730.28Kms 
+@ONC  vs HUI | La distancia recorrida fue: 925.6Kms 
+@PAT  vs SFE | La distancia recorrida fue: 727.87Kms 
+El recorrido total fue de: 8410.36 en esta fecha 
+
+
+Fecha 9@ENV  vs MIL | La distancia recorrida fue: 889.28Kms 
+@JAG  vs CAL | La distancia recorrida fue: 314.45Kms 
+@BUC  vs AME | La distancia recorrida fue: 497.3Kms 
+@RIO  vs MAG | La distancia recorrida fue: 854.25Kms 
+@NAL  vs ONC | La distancia recorrida fue: 133.88Kms 
+@PAS  vs PAT | La distancia recorrida fue: 259.85Kms 
+@TOL  vs ALI | La distancia recorrida fue: 211.08Kms 
+@JUN  vs EQU | La distancia recorrida fue: 242.74Kms 
+@MED  vs HUI | La distancia recorrida fue: 370.85Kms 
+@CUC  vs SFE | La distancia recorrida fue: 245.2Kms 
+El recorrido total fue de: 4018.8799999999997 en esta fecha 
+
+
+Fecha 10@PAT  vs MIL | La distancia recorrida fue: 709.14Kms 
+@ALI  vs CAL | La distancia recorrida fue: 118.5Kms 
+@EQU  vs AME | La distancia recorrida fue: 322.83Kms 
+@HUI  vs MAG | La distancia recorrida fue: 1045.01Kms 
+@SFE  vs ONC | La distancia recorrida fue: 0.0Kms 
+@MIL  vs PAT | La distancia recorrida fue: 242.64Kms 
+@CAL  vs ALI | La distancia recorrida fue: 287.32Kms 
+@AME  vs EQU | La distancia recorrida fue: 157.65Kms 
+@MAG  vs HUI | La distancia recorrida fue: 237.0Kms 
+@ONC  vs SFE | La distancia recorrida fue: 163.05Kms 
+El recorrido total fue de: 3283.1400000000003 en esta fecha 
+
+
+Fecha 11@CUC  vs MIL | La distancia recorrida fue: 1370.18Kms 
+@ENV  vs CAL | La distancia recorrida fue: 731.0Kms 
+@JAG  vs AME | La distancia recorrida fue: 1001.9Kms 
+@BUC  vs MAG | La distancia recorrida fue: 492.45Kms 
+@RIO  vs ONC | La distancia recorrida fue: 684.98Kms 
+@NAL  vs PAT | La distancia recorrida fue: 277.99Kms 
+@PAS  vs ALI | La distancia recorrida fue: 175.82Kms 
+@TOL  vs EQU | La distancia recorrida fue: 406.08Kms 
+@JUN  vs HUI | La distancia recorrida fue: 631.32Kms 
+@MED  vs SFE | La distancia recorrida fue: 401.2Kms 
+El recorrido total fue de: 6172.919999999999 en esta fecha 
+
+
+Fecha 12@ONC  vs MIL | La distancia recorrida fue: 975.57Kms 
+@PAT  vs CAL | La distancia recorrida fue: 357.42Kms 
+@ALI  vs AME | La distancia recorrida fue: 636.44Kms 
+@EQU  vs MAG | La distancia recorrida fue: 952.43Kms 
+@HUI  vs ONC | La distancia recorrida fue: 363.96Kms 
+@SFE  vs PAT | La distancia recorrida fue: 0.0Kms 
+@MIL  vs ALI | La distancia recorrida fue: 179.36Kms 
+@CAL  vs EQU | La distancia recorrida fue: 133.92Kms 
+@AME  vs HUI | La distancia recorrida fue: 360.03Kms 
+@MAG  vs SFE | La distancia recorrida fue: 127.91Kms 
+El recorrido total fue de: 4087.04 en esta fecha 
+
+
+Fecha 13@MED  vs MIL | La distancia recorrida fue: 874.19Kms 
+@CUC  vs CAL | La distancia recorrida fue: 299.76Kms 
+@ENV  vs AME | La distancia recorrida fue: 481.86Kms 
+@JAG  vs MAG | La distancia recorrida fue: 869.52Kms 
+@BUC  vs ONC | La distancia recorrida fue: 185.61Kms 
+@RIO  vs PAT | La distancia recorrida fue: 386.85Kms 
+@NAL  vs ALI | La distancia recorrida fue: 216.6Kms 
+@PAS  vs EQU | La distancia recorrida fue: 235.86Kms 
+@TOL  vs HUI | La distancia recorrida fue: 360.74Kms 
+@JUN  vs SFE | La distancia recorrida fue: 238.54Kms 
+El recorrido total fue de: 4149.53 en esta fecha 
+
+
+Fecha 14@MAG  vs MIL | La distancia recorrida fue: 1132.4Kms 
+@ONC  vs CAL | La distancia recorrida fue: 494.75Kms 
+@PAT  vs AME | La distancia recorrida fue: 752.87Kms 
+@ALI  vs MAG | La distancia recorrida fue: 689.0Kms 
+@EQU  vs ONC | La distancia recorrida fue: 430.98Kms 
+@HUI  vs PAT | La distancia recorrida fue: 269.04Kms 
+@SFE  vs ALI | La distancia recorrida fue: 0.0Kms 
+@MIL  vs EQU | La distancia recorrida fue: 274.02Kms 
+@CAL  vs HUI | La distancia recorrida fue: 486.01Kms 
+@AME  vs SFE | La distancia recorrida fue: 270.91Kms 
+El recorrido total fue de: 4799.98 en esta fecha 
+
+
+Fecha 15@JUN  vs MIL | La distancia recorrida fue: 1275.62Kms 
+@MED  vs CAL | La distancia recorrida fue: 570.42Kms 
+@CUC  vs AME | La distancia recorrida fue: 888.87Kms 
+@ENV  vs MAG | La distancia recorrida fue: 0.0Kms 
+@JAG  vs ONC | La distancia recorrida fue: 612.21Kms 
+@BUC  vs PAT | La distancia recorrida fue: 668.79Kms 
+@RIO  vs ALI | La distancia recorrida fue: 424.25Kms 
+@NAL  vs EQU | La distancia recorrida fue: 491.57Kms 
+@PAS  vs HUI | La distancia recorrida fue: 645.11Kms 
+@TOL  vs SFE | La distancia recorrida fue: 491.48Kms 
+El recorrido total fue de: 6068.32 en esta fecha 
+
+
+Fecha 16@AME  vs MIL | La distancia recorrida fue: 774.84Kms 
+@MAG  vs CAL | La distancia recorrida fue: 182.93Kms 
+@ONC  vs AME | La distancia recorrida fue: 447.06Kms 
+@PAT  vs MAG | La distancia recorrida fue: 1095.42Kms 
+@ALI  vs ONC | La distancia recorrida fue: 236.48Kms 
+@EQU  vs PAT | La distancia recorrida fue: 200.88Kms 
+@HUI  vs ALI | La distancia recorrida fue: 411.03Kms 
+@SFE  vs EQU | La distancia recorrida fue: 0.0Kms 
+@MIL  vs HUI | La distancia recorrida fue: 226.61Kms 
+@CAL  vs SFE | La distancia recorrida fue: 6.88Kms 
+El recorrido total fue de: 3582.1300000000006 en esta fecha 
+
+
+Fecha 17@TOL  vs MIL | La distancia recorrida fue: 1208.25Kms 
+@JUN  vs CAL | La distancia recorrida fue: 0.0Kms 
+@MED  vs AME | La distancia recorrida fue: 840.0Kms 
+@CUC  vs MAG | La distancia recorrida fue: 699.29Kms 
+@ENV  vs ONC | La distancia recorrida fue: 524.63Kms 
+@JAG  vs PAT | La distancia recorrida fue: 268.86Kms 
+@BUC  vs ALI | La distancia recorrida fue: 124.26Kms 
+@RIO  vs EQU | La distancia recorrida fue: 451.97Kms 
+@NAL  vs HUI | La distancia recorrida fue: 524.96Kms 
+@PAS  vs SFE | La distancia recorrida fue: 296.63Kms 
+El recorrido total fue de: 4938.85 en esta fecha 
+
+
+Fecha 18@CAL  vs MIL | La distancia recorrida fue: 441.45Kms 
+@AME  vs CAL | La distancia recorrida fue: 249.44Kms 
+@MAG  vs AME | La distancia recorrida fue: 225.59Kms 
+@ONC  vs MAG | La distancia recorrida fue: 1388.4Kms 
+@PAT  vs ONC | La distancia recorrida fue: 355.5Kms 
+@ALI  vs PAT | La distancia recorrida fue: 540.05Kms 
+@EQU  vs ALI | La distancia recorrida fue: 729.02Kms 
+@HUI  vs EQU | La distancia recorrida fue: 339.92Kms 
+@SFE  vs HUI | La distancia recorrida fue: 0.0Kms 
+@MIL  vs SFE | La distancia recorrida fue: 232.3Kms 
+El recorrido total fue de: 4501.67 en esta fecha 
+
+
+Fecha 19@PAS  vs MIL | La distancia recorrida fue: 884.18Kms 
+@TOL  vs CAL | La distancia recorrida fue: 287.48Kms 
+@JUN  vs AME | La distancia recorrida fue: 492.99Kms 
+@MED  vs MAG | La distancia recorrida fue: 863.25Kms 
+@CUC  vs ONC | La distancia recorrida fue: 182.79Kms 
+@ENV  vs PAT | La distancia recorrida fue: 349.92Kms 
+@JAG  vs ALI | La distancia recorrida fue: 293.79Kms 
+@BUC  vs EQU | La distancia recorrida fue: 326.76Kms 
+@RIO  vs HUI | La distancia recorrida fue: 535.76Kms 
+@NAL  vs SFE | La distancia recorrida fue: 220.03Kms 
+El recorrido total fue de: 4436.95 en esta fecha 
+
+El recorrido total de la primera temporada fue de: 549968.2499999999 kms 
+SEGUNDA TEMPORADA. 
+
+Fecha 1
+NAL  vs @MIL | La distancia recorrida fue: 522.73Kms 
+PAS  vs @CAL | La distancia recorrida fue: 125.21Kms 
+TOL  vs @AME | La distancia recorrida fue: 304.87Kms 
+JUN  vs @MAG | La distancia recorrida fue: 727.87Kms 
+MED  vs @ONC | La distancia recorrida fue: 163.05Kms 
+CUC  vs @PAT | La distancia recorrida fue: 127.91Kms 
+ENV  vs @ALI | La distancia recorrida fue: 270.91Kms 
+JAG  vs @EQU | La distancia recorrida fue: 6.88Kms 
+BUC  vs @HUI | La distancia recorrida fue: 232.3Kms 
+RIO  vs @SFE | La distancia recorrida fue: 0.0Kms 
+El recorrido total fue de: 2481.7300000000005 en esta fecha 
+
+
+Fecha 2
+SFE  vs @MIL | La distancia recorrida fue: 0.0Kms 
+MIL  vs @CAL | La distancia recorrida fue: 426.74Kms 
+CAL  vs @AME | La distancia recorrida fue: 261.32Kms 
+AME  vs @MAG | La distancia recorrida fue: 1161.95Kms 
+MAG  vs @ONC | La distancia recorrida fue: 472.76Kms 
+ONC  vs @PAT | La distancia recorrida fue: 650.38Kms 
+PAT  vs @ALI | La distancia recorrida fue: 754.93Kms 
+ALI  vs @EQU | La distancia recorrida fue: 516.56Kms 
+EQU  vs @HUI | La distancia recorrida fue: 294.3Kms 
+HUI  vs @SFE | La distancia recorrida fue: 522.73Kms 
+El recorrido total fue de: 5061.67 en esta fecha 
+
+
+Fecha 3
+RIO  vs @MIL | La distancia recorrida fue: 413.24Kms 
+NAL  vs @CAL | La distancia recorrida fue: 169.16Kms 
+PAS  vs @AME | La distancia recorrida fue: 17.14Kms 
+TOL  vs @MAG | La distancia recorrida fue: 887.09Kms 
+JUN  vs @ONC | La distancia recorrida fue: 199.27Kms 
+MED  vs @PAT | La distancia recorrida fue: 407.17Kms 
+CUC  vs @ALI | La distancia recorrida fue: 485.58Kms 
+ENV  vs @EQU | La distancia recorrida fue: 281.17Kms 
+JAG  vs @HUI | La distancia recorrida fue: 142.01Kms 
+BUC  vs @SFE | La distancia recorrida fue: 288.0Kms 
+El recorrido total fue de: 3289.83 en esta fecha 
+
+
+Fecha 4
+HUI  vs @MIL | La distancia recorrida fue: 640.11Kms 
+SFE  vs @CAL | La distancia recorrida fue: 0.0Kms 
+MIL  vs @AME | La distancia recorrida fue: 186.3Kms 
+CAL  vs @MAG | La distancia recorrida fue: 761.1Kms 
+AME  vs @ONC | La distancia recorrida fue: 79.0Kms 
+MAG  vs @PAT | La distancia recorrida fue: 238.28Kms 
+ONC  vs @ALI | La distancia recorrida fue: 329.83Kms 
+PAT  vs @EQU | La distancia recorrida fue: 121.95Kms 
+ALI  vs @HUI | La distancia recorrida fue: 166.29Kms 
+EQU  vs @SFE | La distancia recorrida fue: 125.21Kms 
+El recorrido total fue de: 2648.07 en esta fecha 
+
+
+Fecha 5
+BUC  vs @MIL | La distancia recorrida fue: 889.28Kms 
+RIO  vs @CAL | La distancia recorrida fue: 314.45Kms 
+NAL  vs @AME | La distancia recorrida fue: 331.53Kms 
+PAS  vs @MAG | La distancia recorrida fue: 569.5Kms 
+TOL  vs @ONC | La distancia recorrida fue: 133.88Kms 
+JUN  vs @PAT | La distancia recorrida fue: 259.85Kms 
+MED  vs @ALI | La distancia recorrida fue: 211.08Kms 
+CUC  vs @EQU | La distancia recorrida fue: 242.74Kms 
+ENV  vs @HUI | La distancia recorrida fue: 370.85Kms 
+JAG  vs @SFE | La distancia recorrida fue: 245.2Kms 
+El recorrido total fue de: 3568.36 en esta fecha 
+
+
+Fecha 6
+EQU  vs @MIL | La distancia recorrida fue: 391.98Kms 
+HUI  vs @CAL | La distancia recorrida fue: 279.45Kms 
+SFE  vs @AME | La distancia recorrida fue: 0.0Kms 
+MIL  vs @MAG | La distancia recorrida fue: 900.72Kms 
+CAL  vs @ONC | La distancia recorrida fue: 215.22Kms 
+AME  vs @PAT | La distancia recorrida fue: 424.29Kms 
+MAG  vs @ALI | La distancia recorrida fue: 501.91Kms 
+ONC  vs @EQU | La distancia recorrida fue: 298.04Kms 
+PAT  vs @HUI | La distancia recorrida fue: 150.39Kms 
+ALI  vs @SFE | La distancia recorrida fue: 304.87Kms 
+El recorrido total fue de: 3466.87 en esta fecha 
+
+
+Fecha 7
+JAG  vs @MIL | La distancia recorrida fue: 1673.81Kms 
+BUC  vs @CAL | La distancia recorrida fue: 1087.88Kms 
+RIO  vs @AME | La distancia recorrida fue: 1283.15Kms 
+NAL  vs @MAG | La distancia recorrida fue: 71.88Kms 
+PAS  vs @ONC | La distancia recorrida fue: 657.11Kms 
+TOL  vs @PAT | La distancia recorrida fue: 619.58Kms 
+JUN  vs @ALI | La distancia recorrida fue: 440.7Kms 
+MED  vs @EQU | La distancia recorrida fue: 704.74Kms 
+CUC  vs @HUI | La distancia recorrida fue: 890.14Kms 
+ENV  vs @SFE | La distancia recorrida fue: 702.95Kms 
+El recorrido total fue de: 8131.94 en esta fecha 
+
+
+Fecha 8
+ALI  vs @MIL | La distancia recorrida fue: 1742.93Kms 
+EQU  vs @CAL | La distancia recorrida fue: 1141.65Kms 
+HUI  vs @AME | La distancia recorrida fue: 1351.08Kms 
+SFE  vs @MAG | La distancia recorrida fue: 0.0Kms 
+MIL  vs @ONC | La distancia recorrida fue: 696.67Kms 
+CAL  vs @PAT | La distancia recorrida fue: 634.95Kms 
+AME  vs @ALI | La distancia recorrida fue: 459.33Kms 
+MAG  vs @EQU | La distancia recorrida fue: 730.28Kms 
+ONC  vs @HUI | La distancia recorrida fue: 925.6Kms 
+PAT  vs @SFE | La distancia recorrida fue: 727.87Kms 
+El recorrido total fue de: 8410.36 en esta fecha 
+
+
+Fecha 9
+ENV  vs @MIL | La distancia recorrida fue: 889.28Kms 
+JAG  vs @CAL | La distancia recorrida fue: 314.45Kms 
+BUC  vs @AME | La distancia recorrida fue: 497.3Kms 
+RIO  vs @MAG | La distancia recorrida fue: 854.25Kms 
+NAL  vs @ONC | La distancia recorrida fue: 133.88Kms 
+PAS  vs @PAT | La distancia recorrida fue: 259.85Kms 
+TOL  vs @ALI | La distancia recorrida fue: 211.08Kms 
+JUN  vs @EQU | La distancia recorrida fue: 242.74Kms 
+MED  vs @HUI | La distancia recorrida fue: 370.85Kms 
+CUC  vs @SFE | La distancia recorrida fue: 245.2Kms 
+El recorrido total fue de: 4018.8799999999997 en esta fecha 
+
+
+Fecha 10
+PAT  vs @MIL | La distancia recorrida fue: 709.14Kms 
+ALI  vs @CAL | La distancia recorrida fue: 118.5Kms 
+EQU  vs @AME | La distancia recorrida fue: 322.83Kms 
+HUI  vs @MAG | La distancia recorrida fue: 1045.01Kms 
+SFE  vs @ONC | La distancia recorrida fue: 0.0Kms 
+MIL  vs @PAT | La distancia recorrida fue: 242.64Kms 
+CAL  vs @ALI | La distancia recorrida fue: 287.32Kms 
+AME  vs @EQU | La distancia recorrida fue: 157.65Kms 
+MAG  vs @HUI | La distancia recorrida fue: 237.0Kms 
+ONC  vs @SFE | La distancia recorrida fue: 163.05Kms 
+El recorrido total fue de: 3283.1400000000003 en esta fecha 
+
+
+Fecha 11
+CUC  vs @MIL | La distancia recorrida fue: 1370.18Kms 
+ENV  vs @CAL | La distancia recorrida fue: 731.0Kms 
+JAG  vs @AME | La distancia recorrida fue: 1001.9Kms 
+BUC  vs @MAG | La distancia recorrida fue: 492.45Kms 
+RIO  vs @ONC | La distancia recorrida fue: 684.98Kms 
+NAL  vs @PAT | La distancia recorrida fue: 277.99Kms 
+PAS  vs @ALI | La distancia recorrida fue: 175.82Kms 
+TOL  vs @EQU | La distancia recorrida fue: 406.08Kms 
+JUN  vs @HUI | La distancia recorrida fue: 631.32Kms 
+MED  vs @SFE | La distancia recorrida fue: 401.2Kms 
+El recorrido total fue de: 6172.919999999999 en esta fecha 
+
+
+Fecha 12
+ONC  vs @MIL | La distancia recorrida fue: 975.57Kms 
+PAT  vs @CAL | La distancia recorrida fue: 357.42Kms 
+ALI  vs @AME | La distancia recorrida fue: 636.44Kms 
+EQU  vs @MAG | La distancia recorrida fue: 952.43Kms 
+HUI  vs @ONC | La distancia recorrida fue: 363.96Kms 
+SFE  vs @PAT | La distancia recorrida fue: 0.0Kms 
+MIL  vs @ALI | La distancia recorrida fue: 179.36Kms 
+CAL  vs @EQU | La distancia recorrida fue: 133.92Kms 
+AME  vs @HUI | La distancia recorrida fue: 360.03Kms 
+MAG  vs @SFE | La distancia recorrida fue: 127.91Kms 
+El recorrido total fue de: 4087.04 en esta fecha 
+
+
+Fecha 13
+MED  vs @MIL | La distancia recorrida fue: 874.19Kms 
+CUC  vs @CAL | La distancia recorrida fue: 299.76Kms 
+ENV  vs @AME | La distancia recorrida fue: 481.86Kms 
+JAG  vs @MAG | La distancia recorrida fue: 869.52Kms 
+BUC  vs @ONC | La distancia recorrida fue: 185.61Kms 
+RIO  vs @PAT | La distancia recorrida fue: 386.85Kms 
+NAL  vs @ALI | La distancia recorrida fue: 216.6Kms 
+PAS  vs @EQU | La distancia recorrida fue: 235.86Kms 
+TOL  vs @HUI | La distancia recorrida fue: 360.74Kms 
+JUN  vs @SFE | La distancia recorrida fue: 238.54Kms 
+El recorrido total fue de: 4149.53 en esta fecha 
+
+
+Fecha 14
+MAG  vs @MIL | La distancia recorrida fue: 1132.4Kms 
+ONC  vs @CAL | La distancia recorrida fue: 494.75Kms 
+PAT  vs @AME | La distancia recorrida fue: 752.87Kms 
+ALI  vs @MAG | La distancia recorrida fue: 689.0Kms 
+EQU  vs @ONC | La distancia recorrida fue: 430.98Kms 
+HUI  vs @PAT | La distancia recorrida fue: 269.04Kms 
+SFE  vs @ALI | La distancia recorrida fue: 0.0Kms 
+MIL  vs @EQU | La distancia recorrida fue: 274.02Kms 
+CAL  vs @HUI | La distancia recorrida fue: 486.01Kms 
+AME  vs @SFE | La distancia recorrida fue: 270.91Kms 
+El recorrido total fue de: 4799.98 en esta fecha 
+
+
+Fecha 15
+JUN  vs @MIL | La distancia recorrida fue: 1275.62Kms 
+MED  vs @CAL | La distancia recorrida fue: 570.42Kms 
+CUC  vs @AME | La distancia recorrida fue: 888.87Kms 
+ENV  vs @MAG | La distancia recorrida fue: 0.0Kms 
+JAG  vs @ONC | La distancia recorrida fue: 612.21Kms 
+BUC  vs @PAT | La distancia recorrida fue: 668.79Kms 
+RIO  vs @ALI | La distancia recorrida fue: 424.25Kms 
+NAL  vs @EQU | La distancia recorrida fue: 491.57Kms 
+PAS  vs @HUI | La distancia recorrida fue: 645.11Kms 
+TOL  vs @SFE | La distancia recorrida fue: 491.48Kms 
+El recorrido total fue de: 6068.32 en esta fecha 
+
+
+Fecha 16
+AME  vs @MIL | La distancia recorrida fue: 774.84Kms 
+MAG  vs @CAL | La distancia recorrida fue: 182.93Kms 
+ONC  vs @AME | La distancia recorrida fue: 447.06Kms 
+PAT  vs @MAG | La distancia recorrida fue: 1095.42Kms 
+ALI  vs @ONC | La distancia recorrida fue: 236.48Kms 
+EQU  vs @PAT | La distancia recorrida fue: 200.88Kms 
+HUI  vs @ALI | La distancia recorrida fue: 411.03Kms 
+SFE  vs @EQU | La distancia recorrida fue: 0.0Kms 
+MIL  vs @HUI | La distancia recorrida fue: 226.61Kms 
+CAL  vs @SFE | La distancia recorrida fue: 6.88Kms 
+El recorrido total fue de: 3582.1300000000006 en esta fecha 
+
+
+Fecha 17
+TOL  vs @MIL | La distancia recorrida fue: 1208.25Kms 
+JUN  vs @CAL | La distancia recorrida fue: 0.0Kms 
+MED  vs @AME | La distancia recorrida fue: 840.0Kms 
+CUC  vs @MAG | La distancia recorrida fue: 699.29Kms 
+ENV  vs @ONC | La distancia recorrida fue: 524.63Kms 
+JAG  vs @PAT | La distancia recorrida fue: 268.86Kms 
+BUC  vs @ALI | La distancia recorrida fue: 124.26Kms 
+RIO  vs @EQU | La distancia recorrida fue: 451.97Kms 
+NAL  vs @HUI | La distancia recorrida fue: 524.96Kms 
+PAS  vs @SFE | La distancia recorrida fue: 296.63Kms 
+El recorrido total fue de: 4938.85 en esta fecha 
+
+
+Fecha 18
+CAL  vs @MIL | La distancia recorrida fue: 441.45Kms 
+AME  vs @CAL | La distancia recorrida fue: 249.44Kms 
+MAG  vs @AME | La distancia recorrida fue: 225.59Kms 
+ONC  vs @MAG | La distancia recorrida fue: 1388.4Kms 
+PAT  vs @ONC | La distancia recorrida fue: 355.5Kms 
+ALI  vs @PAT | La distancia recorrida fue: 540.05Kms 
+EQU  vs @ALI | La distancia recorrida fue: 729.02Kms 
+HUI  vs @EQU | La distancia recorrida fue: 339.92Kms 
+SFE  vs @HUI | La distancia recorrida fue: 0.0Kms 
+MIL  vs @SFE | La distancia recorrida fue: 232.3Kms 
+El recorrido total fue de: 4501.67 en esta fecha 
+
+
+Fecha 19
+PAS  vs @MIL | La distancia recorrida fue: 884.18Kms 
+TOL  vs @CAL | La distancia recorrida fue: 287.48Kms 
+JUN  vs @AME | La distancia recorrida fue: 492.99Kms 
+MED  vs @MAG | La distancia recorrida fue: 863.25Kms 
+CUC  vs @ONC | La distancia recorrida fue: 182.79Kms 
+ENV  vs @PAT | La distancia recorrida fue: 349.92Kms 
+JAG  vs @ALI | La distancia recorrida fue: 293.79Kms 
+BUC  vs @EQU | La distancia recorrida fue: 326.76Kms 
+RIO  vs @HUI | La distancia recorrida fue: 535.76Kms 
+NAL  vs @SFE | La distancia recorrida fue: 220.03Kms 
+El recorrido total fue de: 4436.95 en esta fecha 
+
+El recorrido total de la segunda temporada fue de: 549968.2499999999 kms 
+PRIMERA TEMPORADA. 
+
+Fecha 1@NAL  vs MIL | La distancia recorrida fue: 522.73Kms 
+@PAS  vs CAL | La distancia recorrida fue: 125.21Kms 
+@TOL  vs AME | La distancia recorrida fue: 304.87Kms 
+@JUN  vs MAG | La distancia recorrida fue: 727.87Kms 
+@MED  vs ONC | La distancia recorrida fue: 163.05Kms 
+@CUC  vs PAT | La distancia recorrida fue: 127.91Kms 
+@ENV  vs ALI | La distancia recorrida fue: 270.91Kms 
+@JAG  vs EQU | La distancia recorrida fue: 6.88Kms 
+@BUC  vs HUI | La distancia recorrida fue: 232.3Kms 
+@RIO  vs SFE | La distancia recorrida fue: 0.0Kms 
+El recorrido total fue de: 2481.7300000000005 en esta fecha 
+
+
+Fecha 2@SFE  vs MIL | La distancia recorrida fue: 0.0Kms 
+@MIL  vs CAL | La distancia recorrida fue: 426.74Kms 
+@CAL  vs AME | La distancia recorrida fue: 261.32Kms 
+@AME  vs MAG | La distancia recorrida fue: 1161.95Kms 
+@MAG  vs ONC | La distancia recorrida fue: 472.76Kms 
+@ONC  vs PAT | La distancia recorrida fue: 650.38Kms 
+@PAT  vs ALI | La distancia recorrida fue: 754.93Kms 
+@ALI  vs EQU | La distancia recorrida fue: 516.56Kms 
+@EQU  vs HUI | La distancia recorrida fue: 294.3Kms 
+@HUI  vs SFE | La distancia recorrida fue: 522.73Kms 
+El recorrido total fue de: 5061.67 en esta fecha 
+
+
+Fecha 3@RIO  vs MIL | La distancia recorrida fue: 413.24Kms 
+@NAL  vs CAL | La distancia recorrida fue: 169.16Kms 
+@PAS  vs AME | La distancia recorrida fue: 17.14Kms 
+@TOL  vs MAG | La distancia recorrida fue: 887.09Kms 
+@JUN  vs ONC | La distancia recorrida fue: 199.27Kms 
+@MED  vs PAT | La distancia recorrida fue: 407.17Kms 
+@CUC  vs ALI | La distancia recorrida fue: 485.58Kms 
+@ENV  vs EQU | La distancia recorrida fue: 281.17Kms 
+@JAG  vs HUI | La distancia recorrida fue: 142.01Kms 
+@BUC  vs SFE | La distancia recorrida fue: 288.0Kms 
+El recorrido total fue de: 3289.83 en esta fecha 
+
+
+Fecha 4@HUI  vs MIL | La distancia recorrida fue: 640.11Kms 
+@SFE  vs CAL | La distancia recorrida fue: 0.0Kms 
+@MIL  vs AME | La distancia recorrida fue: 186.3Kms 
+@CAL  vs MAG | La distancia recorrida fue: 761.1Kms 
+@AME  vs ONC | La distancia recorrida fue: 79.0Kms 
+@MAG  vs PAT | La distancia recorrida fue: 238.28Kms 
+@ONC  vs ALI | La distancia recorrida fue: 329.83Kms 
+@PAT  vs EQU | La distancia recorrida fue: 121.95Kms 
+@ALI  vs HUI | La distancia recorrida fue: 166.29Kms 
+@EQU  vs SFE | La distancia recorrida fue: 125.21Kms 
+El recorrido total fue de: 2648.07 en esta fecha 
+
+
+Fecha 5@BUC  vs MIL | La distancia recorrida fue: 889.28Kms 
+@RIO  vs CAL | La distancia recorrida fue: 314.45Kms 
+@NAL  vs AME | La distancia recorrida fue: 331.53Kms 
+@PAS  vs MAG | La distancia recorrida fue: 569.5Kms 
+@TOL  vs ONC | La distancia recorrida fue: 133.88Kms 
+@JUN  vs PAT | La distancia recorrida fue: 259.85Kms 
+@MED  vs ALI | La distancia recorrida fue: 211.08Kms 
+@CUC  vs EQU | La distancia recorrida fue: 242.74Kms 
+@ENV  vs HUI | La distancia recorrida fue: 370.85Kms 
+@JAG  vs SFE | La distancia recorrida fue: 245.2Kms 
+El recorrido total fue de: 3568.36 en esta fecha 
+
+
+Fecha 6@EQU  vs MIL | La distancia recorrida fue: 391.98Kms 
+@HUI  vs CAL | La distancia recorrida fue: 279.45Kms 
+@SFE  vs AME | La distancia recorrida fue: 0.0Kms 
+@MIL  vs MAG | La distancia recorrida fue: 900.72Kms 
+@CAL  vs ONC | La distancia recorrida fue: 215.22Kms 
+@AME  vs PAT | La distancia recorrida fue: 424.29Kms 
+@MAG  vs ALI | La distancia recorrida fue: 501.91Kms 
+@ONC  vs EQU | La distancia recorrida fue: 298.04Kms 
+@PAT  vs HUI | La distancia recorrida fue: 150.39Kms 
+@ALI  vs SFE | La distancia recorrida fue: 304.87Kms 
+El recorrido total fue de: 3466.87 en esta fecha 
+
+
+Fecha 7@JAG  vs MIL | La distancia recorrida fue: 1673.81Kms 
+@BUC  vs CAL | La distancia recorrida fue: 1087.88Kms 
+@RIO  vs AME | La distancia recorrida fue: 1283.15Kms 
+@NAL  vs MAG | La distancia recorrida fue: 71.88Kms 
+@PAS  vs ONC | La distancia recorrida fue: 657.11Kms 
+@TOL  vs PAT | La distancia recorrida fue: 619.58Kms 
+@JUN  vs ALI | La distancia recorrida fue: 440.7Kms 
+@MED  vs EQU | La distancia recorrida fue: 704.74Kms 
+@CUC  vs HUI | La distancia recorrida fue: 890.14Kms 
+@ENV  vs SFE | La distancia recorrida fue: 702.95Kms 
+El recorrido total fue de: 8131.94 en esta fecha 
+
+
+Fecha 8@ALI  vs MIL | La distancia recorrida fue: 1742.93Kms 
+@EQU  vs CAL | La distancia recorrida fue: 1141.65Kms 
+@HUI  vs AME | La distancia recorrida fue: 1351.08Kms 
+@SFE  vs MAG | La distancia recorrida fue: 0.0Kms 
+@MIL  vs ONC | La distancia recorrida fue: 696.67Kms 
+@CAL  vs PAT | La distancia recorrida fue: 634.95Kms 
+@AME  vs ALI | La distancia recorrida fue: 459.33Kms 
+@MAG  vs EQU | La distancia recorrida fue: 730.28Kms 
+@ONC  vs HUI | La distancia recorrida fue: 925.6Kms 
+@PAT  vs SFE | La distancia recorrida fue: 727.87Kms 
+El recorrido total fue de: 8410.36 en esta fecha 
+
+
+Fecha 9@ENV  vs MIL | La distancia recorrida fue: 889.28Kms 
+@JAG  vs CAL | La distancia recorrida fue: 314.45Kms 
+@BUC  vs AME | La distancia recorrida fue: 497.3Kms 
+@RIO  vs MAG | La distancia recorrida fue: 854.25Kms 
+@NAL  vs ONC | La distancia recorrida fue: 133.88Kms 
+@PAS  vs PAT | La distancia recorrida fue: 259.85Kms 
+@TOL  vs ALI | La distancia recorrida fue: 211.08Kms 
+@JUN  vs EQU | La distancia recorrida fue: 242.74Kms 
+@MED  vs HUI | La distancia recorrida fue: 370.85Kms 
+@CUC  vs SFE | La distancia recorrida fue: 245.2Kms 
+El recorrido total fue de: 4018.8799999999997 en esta fecha 
+
+
+Fecha 10@PAT  vs MIL | La distancia recorrida fue: 709.14Kms 
+@ALI  vs CAL | La distancia recorrida fue: 118.5Kms 
+@EQU  vs AME | La distancia recorrida fue: 322.83Kms 
+@HUI  vs MAG | La distancia recorrida fue: 1045.01Kms 
+@SFE  vs ONC | La distancia recorrida fue: 0.0Kms 
+@MIL  vs PAT | La distancia recorrida fue: 242.64Kms 
+@CAL  vs ALI | La distancia recorrida fue: 287.32Kms 
+@AME  vs EQU | La distancia recorrida fue: 157.65Kms 
+@MAG  vs HUI | La distancia recorrida fue: 237.0Kms 
+@ONC  vs SFE | La distancia recorrida fue: 163.05Kms 
+El recorrido total fue de: 3283.1400000000003 en esta fecha 
+
+
+Fecha 11@CUC  vs MIL | La distancia recorrida fue: 1370.18Kms 
+@ENV  vs CAL | La distancia recorrida fue: 731.0Kms 
+@JAG  vs AME | La distancia recorrida fue: 1001.9Kms 
+@BUC  vs MAG | La distancia recorrida fue: 492.45Kms 
+@RIO  vs ONC | La distancia recorrida fue: 684.98Kms 
+@NAL  vs PAT | La distancia recorrida fue: 277.99Kms 
+@PAS  vs ALI | La distancia recorrida fue: 175.82Kms 
+@TOL  vs EQU | La distancia recorrida fue: 406.08Kms 
+@JUN  vs HUI | La distancia recorrida fue: 631.32Kms 
+@MED  vs SFE | La distancia recorrida fue: 401.2Kms 
+El recorrido total fue de: 6172.919999999999 en esta fecha 
+
+
+Fecha 12@ONC  vs MIL | La distancia recorrida fue: 975.57Kms 
+@PAT  vs CAL | La distancia recorrida fue: 357.42Kms 
+@ALI  vs AME | La distancia recorrida fue: 636.44Kms 
+@EQU  vs MAG | La distancia recorrida fue: 952.43Kms 
+@HUI  vs ONC | La distancia recorrida fue: 363.96Kms 
+@SFE  vs PAT | La distancia recorrida fue: 0.0Kms 
+@MIL  vs ALI | La distancia recorrida fue: 179.36Kms 
+@CAL  vs EQU | La distancia recorrida fue: 133.92Kms 
+@AME  vs HUI | La distancia recorrida fue: 360.03Kms 
+@MAG  vs SFE | La distancia recorrida fue: 127.91Kms 
+El recorrido total fue de: 4087.04 en esta fecha 
+
+
+Fecha 13@MED  vs MIL | La distancia recorrida fue: 874.19Kms 
+@CUC  vs CAL | La distancia recorrida fue: 299.76Kms 
+@ENV  vs AME | La distancia recorrida fue: 481.86Kms 
+@JAG  vs MAG | La distancia recorrida fue: 869.52Kms 
+@BUC  vs ONC | La distancia recorrida fue: 185.61Kms 
+@RIO  vs PAT | La distancia recorrida fue: 386.85Kms 
+@NAL  vs ALI | La distancia recorrida fue: 216.6Kms 
+@PAS  vs EQU | La distancia recorrida fue: 235.86Kms 
+@TOL  vs HUI | La distancia recorrida fue: 360.74Kms 
+@JUN  vs SFE | La distancia recorrida fue: 238.54Kms 
+El recorrido total fue de: 4149.53 en esta fecha 
+
+
+Fecha 14@MAG  vs MIL | La distancia recorrida fue: 1132.4Kms 
+@ONC  vs CAL | La distancia recorrida fue: 494.75Kms 
+@PAT  vs AME | La distancia recorrida fue: 752.87Kms 
+@ALI  vs MAG | La distancia recorrida fue: 689.0Kms 
+@EQU  vs ONC | La distancia recorrida fue: 430.98Kms 
+@HUI  vs PAT | La distancia recorrida fue: 269.04Kms 
+@SFE  vs ALI | La distancia recorrida fue: 0.0Kms 
+@MIL  vs EQU | La distancia recorrida fue: 274.02Kms 
+@CAL  vs HUI | La distancia recorrida fue: 486.01Kms 
+@AME  vs SFE | La distancia recorrida fue: 270.91Kms 
+El recorrido total fue de: 4799.98 en esta fecha 
+
+
+Fecha 15@JUN  vs MIL | La distancia recorrida fue: 1275.62Kms 
+@MED  vs CAL | La distancia recorrida fue: 570.42Kms 
+@CUC  vs AME | La distancia recorrida fue: 888.87Kms 
+@ENV  vs MAG | La distancia recorrida fue: 0.0Kms 
+@JAG  vs ONC | La distancia recorrida fue: 612.21Kms 
+@BUC  vs PAT | La distancia recorrida fue: 668.79Kms 
+@RIO  vs ALI | La distancia recorrida fue: 424.25Kms 
+@NAL  vs EQU | La distancia recorrida fue: 491.57Kms 
+@PAS  vs HUI | La distancia recorrida fue: 645.11Kms 
+@TOL  vs SFE | La distancia recorrida fue: 491.48Kms 
+El recorrido total fue de: 6068.32 en esta fecha 
+
+
+Fecha 16@AME  vs MIL | La distancia recorrida fue: 774.84Kms 
+@MAG  vs CAL | La distancia recorrida fue: 182.93Kms 
+@ONC  vs AME | La distancia recorrida fue: 447.06Kms 
+@PAT  vs MAG | La distancia recorrida fue: 1095.42Kms 
+@ALI  vs ONC | La distancia recorrida fue: 236.48Kms 
+@EQU  vs PAT | La distancia recorrida fue: 200.88Kms 
+@HUI  vs ALI | La distancia recorrida fue: 411.03Kms 
+@SFE  vs EQU | La distancia recorrida fue: 0.0Kms 
+@MIL  vs HUI | La distancia recorrida fue: 226.61Kms 
+@CAL  vs SFE | La distancia recorrida fue: 6.88Kms 
+El recorrido total fue de: 3582.1300000000006 en esta fecha 
+
+
+Fecha 17@TOL  vs MIL | La distancia recorrida fue: 1208.25Kms 
+@JUN  vs CAL | La distancia recorrida fue: 0.0Kms 
+@MED  vs AME | La distancia recorrida fue: 840.0Kms 
+@CUC  vs MAG | La distancia recorrida fue: 699.29Kms 
+@ENV  vs ONC | La distancia recorrida fue: 524.63Kms 
+@JAG  vs PAT | La distancia recorrida fue: 268.86Kms 
+@BUC  vs ALI | La distancia recorrida fue: 124.26Kms 
+@RIO  vs EQU | La distancia recorrida fue: 451.97Kms 
+@NAL  vs HUI | La distancia recorrida fue: 524.96Kms 
+@PAS  vs SFE | La distancia recorrida fue: 296.63Kms 
+El recorrido total fue de: 4938.85 en esta fecha 
+
+
+Fecha 18@CAL  vs MIL | La distancia recorrida fue: 441.45Kms 
+@AME  vs CAL | La distancia recorrida fue: 249.44Kms 
+@MAG  vs AME | La distancia recorrida fue: 225.59Kms 
+@ONC  vs MAG | La distancia recorrida fue: 1388.4Kms 
+@PAT  vs ONC | La distancia recorrida fue: 355.5Kms 
+@ALI  vs PAT | La distancia recorrida fue: 540.05Kms 
+@EQU  vs ALI | La distancia recorrida fue: 729.02Kms 
+@HUI  vs EQU | La distancia recorrida fue: 339.92Kms 
+@SFE  vs HUI | La distancia recorrida fue: 0.0Kms 
+@MIL  vs SFE | La distancia recorrida fue: 232.3Kms 
+El recorrido total fue de: 4501.67 en esta fecha 
+
+
+Fecha 19@PAS  vs MIL | La distancia recorrida fue: 884.18Kms 
+@TOL  vs CAL | La distancia recorrida fue: 287.48Kms 
+@JUN  vs AME | La distancia recorrida fue: 492.99Kms 
+@MED  vs MAG | La distancia recorrida fue: 863.25Kms 
+@CUC  vs ONC | La distancia recorrida fue: 182.79Kms 
+@ENV  vs PAT | La distancia recorrida fue: 349.92Kms 
+@JAG  vs ALI | La distancia recorrida fue: 293.79Kms 
+@BUC  vs EQU | La distancia recorrida fue: 326.76Kms 
+@RIO  vs HUI | La distancia recorrida fue: 535.76Kms 
+@NAL  vs SFE | La distancia recorrida fue: 220.03Kms 
+El recorrido total fue de: 4436.95 en esta fecha 
+
+El recorrido total de la primera temporada fue de: 549968.2499999999 kms 
+SEGUNDA TEMPORADA. 
+
+Fecha 1
+NAL  vs @MIL | La distancia recorrida fue: 522.73Kms 
+PAS  vs @CAL | La distancia recorrida fue: 125.21Kms 
+TOL  vs @AME | La distancia recorrida fue: 304.87Kms 
+JUN  vs @MAG | La distancia recorrida fue: 727.87Kms 
+MED  vs @ONC | La distancia recorrida fue: 163.05Kms 
+CUC  vs @PAT | La distancia recorrida fue: 127.91Kms 
+ENV  vs @ALI | La distancia recorrida fue: 270.91Kms 
+JAG  vs @EQU | La distancia recorrida fue: 6.88Kms 
+BUC  vs @HUI | La distancia recorrida fue: 232.3Kms 
+RIO  vs @SFE | La distancia recorrida fue: 0.0Kms 
+El recorrido total fue de: 2481.7300000000005 en esta fecha 
+
+
+Fecha 2
+SFE  vs @MIL | La distancia recorrida fue: 0.0Kms 
+MIL  vs @CAL | La distancia recorrida fue: 426.74Kms 
+CAL  vs @AME | La distancia recorrida fue: 261.32Kms 
+AME  vs @MAG | La distancia recorrida fue: 1161.95Kms 
+MAG  vs @ONC | La distancia recorrida fue: 472.76Kms 
+ONC  vs @PAT | La distancia recorrida fue: 650.38Kms 
+PAT  vs @ALI | La distancia recorrida fue: 754.93Kms 
+ALI  vs @EQU | La distancia recorrida fue: 516.56Kms 
+EQU  vs @HUI | La distancia recorrida fue: 294.3Kms 
+HUI  vs @SFE | La distancia recorrida fue: 522.73Kms 
+El recorrido total fue de: 5061.67 en esta fecha 
+
+
+Fecha 3
+RIO  vs @MIL | La distancia recorrida fue: 413.24Kms 
+NAL  vs @CAL | La distancia recorrida fue: 169.16Kms 
+PAS  vs @AME | La distancia recorrida fue: 17.14Kms 
+TOL  vs @MAG | La distancia recorrida fue: 887.09Kms 
+JUN  vs @ONC | La distancia recorrida fue: 199.27Kms 
+MED  vs @PAT | La distancia recorrida fue: 407.17Kms 
+CUC  vs @ALI | La distancia recorrida fue: 485.58Kms 
+ENV  vs @EQU | La distancia recorrida fue: 281.17Kms 
+JAG  vs @HUI | La distancia recorrida fue: 142.01Kms 
+BUC  vs @SFE | La distancia recorrida fue: 288.0Kms 
+El recorrido total fue de: 3289.83 en esta fecha 
+
+
+Fecha 4
+HUI  vs @MIL | La distancia recorrida fue: 640.11Kms 
+SFE  vs @CAL | La distancia recorrida fue: 0.0Kms 
+MIL  vs @AME | La distancia recorrida fue: 186.3Kms 
+CAL  vs @MAG | La distancia recorrida fue: 761.1Kms 
+AME  vs @ONC | La distancia recorrida fue: 79.0Kms 
+MAG  vs @PAT | La distancia recorrida fue: 238.28Kms 
+ONC  vs @ALI | La distancia recorrida fue: 329.83Kms 
+PAT  vs @EQU | La distancia recorrida fue: 121.95Kms 
+ALI  vs @HUI | La distancia recorrida fue: 166.29Kms 
+EQU  vs @SFE | La distancia recorrida fue: 125.21Kms 
+El recorrido total fue de: 2648.07 en esta fecha 
+
+
+Fecha 5
+BUC  vs @MIL | La distancia recorrida fue: 889.28Kms 
+RIO  vs @CAL | La distancia recorrida fue: 314.45Kms 
+NAL  vs @AME | La distancia recorrida fue: 331.53Kms 
+PAS  vs @MAG | La distancia recorrida fue: 569.5Kms 
+TOL  vs @ONC | La distancia recorrida fue: 133.88Kms 
+JUN  vs @PAT | La distancia recorrida fue: 259.85Kms 
+MED  vs @ALI | La distancia recorrida fue: 211.08Kms 
+CUC  vs @EQU | La distancia recorrida fue: 242.74Kms 
+ENV  vs @HUI | La distancia recorrida fue: 370.85Kms 
+JAG  vs @SFE | La distancia recorrida fue: 245.2Kms 
+El recorrido total fue de: 3568.36 en esta fecha 
+
+
+Fecha 6
+EQU  vs @MIL | La distancia recorrida fue: 391.98Kms 
+HUI  vs @CAL | La distancia recorrida fue: 279.45Kms 
+SFE  vs @AME | La distancia recorrida fue: 0.0Kms 
+MIL  vs @MAG | La distancia recorrida fue: 900.72Kms 
+CAL  vs @ONC | La distancia recorrida fue: 215.22Kms 
+AME  vs @PAT | La distancia recorrida fue: 424.29Kms 
+MAG  vs @ALI | La distancia recorrida fue: 501.91Kms 
+ONC  vs @EQU | La distancia recorrida fue: 298.04Kms 
+PAT  vs @HUI | La distancia recorrida fue: 150.39Kms 
+ALI  vs @SFE | La distancia recorrida fue: 304.87Kms 
+El recorrido total fue de: 3466.87 en esta fecha 
+
+
+Fecha 7
+JAG  vs @MIL | La distancia recorrida fue: 1673.81Kms 
+BUC  vs @CAL | La distancia recorrida fue: 1087.88Kms 
+RIO  vs @AME | La distancia recorrida fue: 1283.15Kms 
+NAL  vs @MAG | La distancia recorrida fue: 71.88Kms 
+PAS  vs @ONC | La distancia recorrida fue: 657.11Kms 
+TOL  vs @PAT | La distancia recorrida fue: 619.58Kms 
+JUN  vs @ALI | La distancia recorrida fue: 440.7Kms 
+MED  vs @EQU | La distancia recorrida fue: 704.74Kms 
+CUC  vs @HUI | La distancia recorrida fue: 890.14Kms 
+ENV  vs @SFE | La distancia recorrida fue: 702.95Kms 
+El recorrido total fue de: 8131.94 en esta fecha 
+
+
+Fecha 8
+ALI  vs @MIL | La distancia recorrida fue: 1742.93Kms 
+EQU  vs @CAL | La distancia recorrida fue: 1141.65Kms 
+HUI  vs @AME | La distancia recorrida fue: 1351.08Kms 
+SFE  vs @MAG | La distancia recorrida fue: 0.0Kms 
+MIL  vs @ONC | La distancia recorrida fue: 696.67Kms 
+CAL  vs @PAT | La distancia recorrida fue: 634.95Kms 
+AME  vs @ALI | La distancia recorrida fue: 459.33Kms 
+MAG  vs @EQU | La distancia recorrida fue: 730.28Kms 
+ONC  vs @HUI | La distancia recorrida fue: 925.6Kms 
+PAT  vs @SFE | La distancia recorrida fue: 727.87Kms 
+El recorrido total fue de: 8410.36 en esta fecha 
+
+
+Fecha 9
+ENV  vs @MIL | La distancia recorrida fue: 889.28Kms 
+JAG  vs @CAL | La distancia recorrida fue: 314.45Kms 
+BUC  vs @AME | La distancia recorrida fue: 497.3Kms 
+RIO  vs @MAG | La distancia recorrida fue: 854.25Kms 
+NAL  vs @ONC | La distancia recorrida fue: 133.88Kms 
+PAS  vs @PAT | La distancia recorrida fue: 259.85Kms 
+TOL  vs @ALI | La distancia recorrida fue: 211.08Kms 
+JUN  vs @EQU | La distancia recorrida fue: 242.74Kms 
+MED  vs @HUI | La distancia recorrida fue: 370.85Kms 
+CUC  vs @SFE | La distancia recorrida fue: 245.2Kms 
+El recorrido total fue de: 4018.8799999999997 en esta fecha 
+
+
+Fecha 10
+PAT  vs @MIL | La distancia recorrida fue: 709.14Kms 
+ALI  vs @CAL | La distancia recorrida fue: 118.5Kms 
+EQU  vs @AME | La distancia recorrida fue: 322.83Kms 
+HUI  vs @MAG | La distancia recorrida fue: 1045.01Kms 
+SFE  vs @ONC | La distancia recorrida fue: 0.0Kms 
+MIL  vs @PAT | La distancia recorrida fue: 242.64Kms 
+CAL  vs @ALI | La distancia recorrida fue: 287.32Kms 
+AME  vs @EQU | La distancia recorrida fue: 157.65Kms 
+MAG  vs @HUI | La distancia recorrida fue: 237.0Kms 
+ONC  vs @SFE | La distancia recorrida fue: 163.05Kms 
+El recorrido total fue de: 3283.1400000000003 en esta fecha 
+
+
+Fecha 11
+CUC  vs @MIL | La distancia recorrida fue: 1370.18Kms 
+ENV  vs @CAL | La distancia recorrida fue: 731.0Kms 
+JAG  vs @AME | La distancia recorrida fue: 1001.9Kms 
+BUC  vs @MAG | La distancia recorrida fue: 492.45Kms 
+RIO  vs @ONC | La distancia recorrida fue: 684.98Kms 
+NAL  vs @PAT | La distancia recorrida fue: 277.99Kms 
+PAS  vs @ALI | La distancia recorrida fue: 175.82Kms 
+TOL  vs @EQU | La distancia recorrida fue: 406.08Kms 
+JUN  vs @HUI | La distancia recorrida fue: 631.32Kms 
+MED  vs @SFE | La distancia recorrida fue: 401.2Kms 
+El recorrido total fue de: 6172.919999999999 en esta fecha 
+
+
+Fecha 12
+ONC  vs @MIL | La distancia recorrida fue: 975.57Kms 
+PAT  vs @CAL | La distancia recorrida fue: 357.42Kms 
+ALI  vs @AME | La distancia recorrida fue: 636.44Kms 
+EQU  vs @MAG | La distancia recorrida fue: 952.43Kms 
+HUI  vs @ONC | La distancia recorrida fue: 363.96Kms 
+SFE  vs @PAT | La distancia recorrida fue: 0.0Kms 
+MIL  vs @ALI | La distancia recorrida fue: 179.36Kms 
+CAL  vs @EQU | La distancia recorrida fue: 133.92Kms 
+AME  vs @HUI | La distancia recorrida fue: 360.03Kms 
+MAG  vs @SFE | La distancia recorrida fue: 127.91Kms 
+El recorrido total fue de: 4087.04 en esta fecha 
+
+
+Fecha 13
+MED  vs @MIL | La distancia recorrida fue: 874.19Kms 
+CUC  vs @CAL | La distancia recorrida fue: 299.76Kms 
+ENV  vs @AME | La distancia recorrida fue: 481.86Kms 
+JAG  vs @MAG | La distancia recorrida fue: 869.52Kms 
+BUC  vs @ONC | La distancia recorrida fue: 185.61Kms 
+RIO  vs @PAT | La distancia recorrida fue: 386.85Kms 
+NAL  vs @ALI | La distancia recorrida fue: 216.6Kms 
+PAS  vs @EQU | La distancia recorrida fue: 235.86Kms 
+TOL  vs @HUI | La distancia recorrida fue: 360.74Kms 
+JUN  vs @SFE | La distancia recorrida fue: 238.54Kms 
+El recorrido total fue de: 4149.53 en esta fecha 
+
+
+Fecha 14
+MAG  vs @MIL | La distancia recorrida fue: 1132.4Kms 
+ONC  vs @CAL | La distancia recorrida fue: 494.75Kms 
+PAT  vs @AME | La distancia recorrida fue: 752.87Kms 
+ALI  vs @MAG | La distancia recorrida fue: 689.0Kms 
+EQU  vs @ONC | La distancia recorrida fue: 430.98Kms 
+HUI  vs @PAT | La distancia recorrida fue: 269.04Kms 
+SFE  vs @ALI | La distancia recorrida fue: 0.0Kms 
+MIL  vs @EQU | La distancia recorrida fue: 274.02Kms 
+CAL  vs @HUI | La distancia recorrida fue: 486.01Kms 
+AME  vs @SFE | La distancia recorrida fue: 270.91Kms 
+El recorrido total fue de: 4799.98 en esta fecha 
+
+
+Fecha 15
+JUN  vs @MIL | La distancia recorrida fue: 1275.62Kms 
+MED  vs @CAL | La distancia recorrida fue: 570.42Kms 
+CUC  vs @AME | La distancia recorrida fue: 888.87Kms 
+ENV  vs @MAG | La distancia recorrida fue: 0.0Kms 
+JAG  vs @ONC | La distancia recorrida fue: 612.21Kms 
+BUC  vs @PAT | La distancia recorrida fue: 668.79Kms 
+RIO  vs @ALI | La distancia recorrida fue: 424.25Kms 
+NAL  vs @EQU | La distancia recorrida fue: 491.57Kms 
+PAS  vs @HUI | La distancia recorrida fue: 645.11Kms 
+TOL  vs @SFE | La distancia recorrida fue: 491.48Kms 
+El recorrido total fue de: 6068.32 en esta fecha 
+
+
+Fecha 16
+AME  vs @MIL | La distancia recorrida fue: 774.84Kms 
+MAG  vs @CAL | La distancia recorrida fue: 182.93Kms 
+ONC  vs @AME | La distancia recorrida fue: 447.06Kms 
+PAT  vs @MAG | La distancia recorrida fue: 1095.42Kms 
+ALI  vs @ONC | La distancia recorrida fue: 236.48Kms 
+EQU  vs @PAT | La distancia recorrida fue: 200.88Kms 
+HUI  vs @ALI | La distancia recorrida fue: 411.03Kms 
+SFE  vs @EQU | La distancia recorrida fue: 0.0Kms 
+MIL  vs @HUI | La distancia recorrida fue: 226.61Kms 
+CAL  vs @SFE | La distancia recorrida fue: 6.88Kms 
+El recorrido total fue de: 3582.1300000000006 en esta fecha 
+
+
+Fecha 17
+TOL  vs @MIL | La distancia recorrida fue: 1208.25Kms 
+JUN  vs @CAL | La distancia recorrida fue: 0.0Kms 
+MED  vs @AME | La distancia recorrida fue: 840.0Kms 
+CUC  vs @MAG | La distancia recorrida fue: 699.29Kms 
+ENV  vs @ONC | La distancia recorrida fue: 524.63Kms 
+JAG  vs @PAT | La distancia recorrida fue: 268.86Kms 
+BUC  vs @ALI | La distancia recorrida fue: 124.26Kms 
+RIO  vs @EQU | La distancia recorrida fue: 451.97Kms 
+NAL  vs @HUI | La distancia recorrida fue: 524.96Kms 
+PAS  vs @SFE | La distancia recorrida fue: 296.63Kms 
+El recorrido total fue de: 4938.85 en esta fecha 
+
+
+Fecha 18
+CAL  vs @MIL | La distancia recorrida fue: 441.45Kms 
+AME  vs @CAL | La distancia recorrida fue: 249.44Kms 
+MAG  vs @AME | La distancia recorrida fue: 225.59Kms 
+ONC  vs @MAG | La distancia recorrida fue: 1388.4Kms 
+PAT  vs @ONC | La distancia recorrida fue: 355.5Kms 
+ALI  vs @PAT | La distancia recorrida fue: 540.05Kms 
+EQU  vs @ALI | La distancia recorrida fue: 729.02Kms 
+HUI  vs @EQU | La distancia recorrida fue: 339.92Kms 
+SFE  vs @HUI | La distancia recorrida fue: 0.0Kms 
+MIL  vs @SFE | La distancia recorrida fue: 232.3Kms 
+El recorrido total fue de: 4501.67 en esta fecha 
+
+
+Fecha 19
+PAS  vs @MIL | La distancia recorrida fue: 884.18Kms 
+TOL  vs @CAL | La distancia recorrida fue: 287.48Kms 
+JUN  vs @AME | La distancia recorrida fue: 492.99Kms 
+MED  vs @MAG | La distancia recorrida fue: 863.25Kms 
+CUC  vs @ONC | La distancia recorrida fue: 182.79Kms 
+ENV  vs @PAT | La distancia recorrida fue: 349.92Kms 
+JAG  vs @ALI | La distancia recorrida fue: 293.79Kms 
+BUC  vs @EQU | La distancia recorrida fue: 326.76Kms 
+RIO  vs @HUI | La distancia recorrida fue: 535.76Kms 
+NAL  vs @SFE | La distancia recorrida fue: 220.03Kms 
+El recorrido total fue de: 4436.95 en esta fecha 
+
+El recorrido total de la segunda temporada fue de: 549968.2499999999 kms 
+
+Segundo fixture: 1099936.4999999998
+El mejor valor es el: 1099936.4999999998
