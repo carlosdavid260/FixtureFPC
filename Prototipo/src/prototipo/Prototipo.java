@@ -126,7 +126,6 @@ public class Prototipo {
                     break;
 
                 case 3:
-                    System.out.println("Ingrese quien fue el equipo ganador de la super liga: ");
                     System.out.println("Ha seleccionado crear fixture");
                     Fixture();
                     System.out.println("\n");
