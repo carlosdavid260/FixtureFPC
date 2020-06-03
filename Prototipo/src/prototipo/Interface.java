@@ -57,19 +57,19 @@ public class Interface extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel1.setText("1. Seleccionar los equipos");
+        jLabel1.setText("1. Listar los equipos");
 
-        jLabel2.setText("2. Seleccionar los estadios");
+        jLabel2.setText("2. Listar los estadios");
 
-        jLabel3.setText("3. Seleccionar crear fixture (Prueba aleatoria).");
+        jLabel3.setText("3. Prueba de fixture aleatoria");
 
-        jLabel4.setText("4. Seleccionar prueba del cuadrado latino (Avances)");
+        jLabel4.setText("4. Prueba de fixture con cuadrado latino");
 
-        jLabel5.setText("5. Seleccionar prueba del cuadrado latino estandar");
+        jLabel5.setText("5. Prueba de cuadrado latino");
 
-        jLabel6.setText("6. Seleccionar prueba del fixture optimo.");
+        jLabel6.setText("6. Prueba de fixture con calculos de distancia");
 
-        jLabel7.setText("7. Seleccionar prueba del fixture comparable.");
+        jLabel7.setText("7. Prueba de fixture optimo");
 
         opcion1.setText("Opción 1");
         opcion1.addActionListener(new java.awt.event.ActionListener() {
@@ -150,7 +150,7 @@ public class Interface extends javax.swing.JFrame {
                         .addComponent(opcion3))
                     .addGroup(layout.createSequentialGroup()
                         .addComponent(jLabel4)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 56, Short.MAX_VALUE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 112, Short.MAX_VALUE)
                         .addComponent(opcion4))
                     .addGroup(layout.createSequentialGroup()
                         .addComponent(jLabel5)
