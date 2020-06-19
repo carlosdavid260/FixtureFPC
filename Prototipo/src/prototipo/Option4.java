@@ -72,7 +72,7 @@ public class Option4 extends javax.swing.JFrame {
                     Salida.append("@" + matriz[i][j].acronimo + " ");
                 } else {
 
-                    Salida.append(matriz[0][j].acronimo + " ");
+                    Salida.append(matriz[i][j].acronimo + " ");
                     //System.out.print(equipos.elementAt(rnd.nextInt(equipos.size())).acronimo);
 
                 }
@@ -115,7 +115,7 @@ public class Option4 extends javax.swing.JFrame {
                     Salida.append(matriz[i][j].acronimo + " ");
                 } else {
 
-                    Salida.append("@" + matriz[0][j].acronimo + " ");
+                    Salida.append("@" + matriz[i][j].acronimo + " ");
                     //System.out.print("@" + equipos.elementAt(rnd.nextInt(equipos.size())).acronimo);
 
                 }

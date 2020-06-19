@@ -952,26 +952,26 @@ public class Option7 extends javax.swing.JFrame {
         
         if(total <= total1 && total <= total2 && total <= total3 && total <= total4){
             respuestatotal = total;
-            Salida.append("Primer fixture: " + total*2 + "\n");
+            Salida.append("Primer fixture es el mejor resultado con: " + total*2 + " kms \n");
         }
         else if(total1 <= total && total1 <= total2 && total1 <= total3 && total1 <= total4){
             respuestatotal = total1;
-            Salida.append("Segundo fixture: " + total1*2 + "\n");
+            Salida.append("Segundo fixture es el mejor resultado con: " + total1*2 + " kms \n");
         }
         else if(total2 <= total1 && total2 <= total1 && total2 <= total3 && total2 <= total4){
             respuestatotal = total2;
-            Salida.append("Tercer fixture: " + total2*2 + "\n");
+            Salida.append("Tercer fixture es el mejor resultado con: " + total2*2 + " kms \n");
         }
         else if(total3 <= total1 && total3 <= total2 && total3 <= total1 && total3 <= total4){
             respuestatotal = total3;
-            Salida.append("Cuarto fixture: " + total3*2 + "\n");
+            Salida.append("Cuarto fixture es el mejor resultado con: " + total3*2 + " kms \n");
         }
         else if(total4 <= total1 && total4 <= total2 && total4 <= total3 && total4 <= total1){
             respuestatotal = total4;
-            Salida.append("Quinto fixture: " + total4*2 + "\n");
+            Salida.append("Quinto fixture es el mejor resultado con: " + total4*2 + " kms \n");
         }
         
-        Salida.append("El mejor valor es el: " + respuestatotal*2 + "\n");
+        Salida.append("El mejor valor es el resultado de: " + respuestatotal*2 + " kms \n");
         
         
     }

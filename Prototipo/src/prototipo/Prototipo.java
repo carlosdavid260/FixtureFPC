@@ -271,7 +271,7 @@ public class Prototipo {
                     System.out.print("@" + matriz[i][j].acronimo + " ");
                 } else {
 
-                    System.out.print(matriz[0][j].acronimo + " ");
+                    System.out.print(matriz[i][j].acronimo + " ");
                     //System.out.print(equipos.elementAt(rnd.nextInt(equipos.size())).acronimo);
 
                 }
@@ -317,7 +317,7 @@ public class Prototipo {
                     System.out.print(matriz[i][j].acronimo + " ");
                 } else {
 
-                    System.out.print("@" + matriz[0][j].acronimo + " ");
+                    System.out.print("@" + matriz[i][j].acronimo + " ");
                     //System.out.print("@" + equipos.elementAt(rnd.nextInt(equipos.size())).acronimo);
 
                 }
@@ -1045,8 +1045,8 @@ public class Prototipo {
                     fichero.write("@" + matriz[i][j].acronimo + " ");
                 } else {
 
-                    System.out.print(matriz[0][j].acronimo + " ");
-                    fichero.write(matriz[0][j].acronimo + " ");
+                    System.out.print(matriz[5][j].acronimo + " ");
+                    fichero.write(matriz[5][j].acronimo + " ");
                     //System.out.print(equipos.elementAt(rnd.nextInt(equipos.size())).acronimo);
 
                 }
@@ -1106,8 +1106,8 @@ public class Prototipo {
                     fichero.write(matriz[i][j].acronimo + " ");
                 } else {
 
-                    System.out.print("@" + matriz[0][j].acronimo + " ");
-                    fichero.write("@" + matriz[0][j].acronimo + " ");
+                    System.out.print("@" + matriz[i][j].acronimo + " ");
+                    fichero.write("@" + matriz[i][j].acronimo + " ");
                     //System.out.print("@" + equipos.elementAt(rnd.nextInt(equipos.size())).acronimo);
 
                 }
@@ -1155,8 +1155,8 @@ public class Prototipo {
                     fichero.write("@" + matriz[i][j].acronimo + " ");
                 } else {
 
-                    System.out.print(matriz[0][j].acronimo + " ");
-                    fichero.write(matriz[0][j].acronimo + " ");
+                    System.out.print(matriz[i][j].acronimo + " ");
+                    fichero.write(matriz[i][j].acronimo + " ");
                     //System.out.print(equipos.elementAt(rnd.nextInt(equipos.size())).acronimo);
 
                 }
@@ -1216,8 +1216,8 @@ public class Prototipo {
                     fichero.write(matriz[i][j].acronimo + " ");
                 } else {
 
-                    System.out.print("@" + matriz[0][j].acronimo + " ");
-                    fichero.write("@" + matriz[0][j].acronimo + " ");
+                    System.out.print("@" + matriz[i][j].acronimo + " ");
+                    fichero.write("@" + matriz[i][j].acronimo + " ");
                     //System.out.print("@" + equipos.elementAt(rnd.nextInt(equipos.size())).acronimo);
 
                 }
@@ -1265,8 +1265,8 @@ public class Prototipo {
                     fichero.write("@" + matriz[i][j].acronimo + " ");
                 } else {
 
-                    System.out.print(matriz[0][j].acronimo + " ");
-                    fichero.write(matriz[0][j].acronimo + " ");
+                    System.out.print(matriz[i][j].acronimo + " ");
+                    fichero.write(matriz[i][j].acronimo + " ");
                     //System.out.print(equipos.elementAt(rnd.nextInt(equipos.size())).acronimo);
 
                 }
@@ -1326,8 +1326,8 @@ public class Prototipo {
                     fichero.write(matriz[i][j].acronimo + " ");
                 } else {
 
-                    System.out.print("@" + matriz[0][j].acronimo + " ");
-                    fichero.write("@" + matriz[0][j].acronimo + " ");
+                    System.out.print("@" + matriz[i][j].acronimo + " ");
+                    fichero.write("@" + matriz[i][j].acronimo + " ");
                     //System.out.print("@" + equipos.elementAt(rnd.nextInt(equipos.size())).acronimo);
 
                 }
@@ -1375,8 +1375,8 @@ public class Prototipo {
                     fichero.write("@" + matriz[i][j].acronimo + " ");
                 } else {
 
-                    System.out.print(matriz[0][j].acronimo + " ");
-                    fichero.write(matriz[0][j].acronimo + " ");
+                    System.out.print(matriz[i][j].acronimo + " ");
+                    fichero.write(matriz[i][j].acronimo + " ");
                     //System.out.print(equipos.elementAt(rnd.nextInt(equipos.size())).acronimo);
 
                 }
@@ -1436,8 +1436,8 @@ public class Prototipo {
                     fichero.write(matriz[i][j].acronimo + " ");
                 } else {
 
-                    System.out.print("@" + matriz[0][j].acronimo + " ");
-                    fichero.write("@" + matriz[0][j].acronimo + " ");
+                    System.out.print("@" + matriz[i][j].acronimo + " ");
+                    fichero.write("@" + matriz[i][j].acronimo + " ");
                     //System.out.print("@" + equipos.elementAt(rnd.nextInt(equipos.size())).acronimo);
 
                 }
@@ -1485,8 +1485,8 @@ public class Prototipo {
                     fichero.write("@" + matriz[i][j].acronimo + " ");
                 } else {
 
-                    System.out.print(matriz[0][j].acronimo + " ");
-                    fichero.write(matriz[0][j].acronimo + " ");
+                    System.out.print(matriz[i][j].acronimo + " ");
+                    fichero.write(matriz[i][j].acronimo + " ");
                     //System.out.print(equipos.elementAt(rnd.nextInt(equipos.size())).acronimo);
 
                 }
@@ -1546,8 +1546,8 @@ public class Prototipo {
                     fichero.write(matriz[i][j].acronimo + " ");
                 } else {
 
-                    System.out.print("@" + matriz[0][j].acronimo + " ");
-                    fichero.write("@" + matriz[0][j].acronimo + " ");
+                    System.out.print("@" + matriz[i][j].acronimo + " ");
+                    fichero.write("@" + matriz[i][j].acronimo + " ");
                     //System.out.print("@" + equipos.elementAt(rnd.nextInt(equipos.size())).acronimo);
 
                 }
@@ -1582,32 +1582,32 @@ public class Prototipo {
         
         if(total <= total1 && total <= total2 && total <= total3 && total <= total4){
             respuestatotal = total;
-            System.out.println("Primer fixture: " + total*2);
-            fichero.write("Primer fixture: " + total*2 + "\n");
+            System.out.println("El primer fixture es el mejor resultado con: " + total*2 + " kms \n");
+            fichero.write("El primer fixture es el mejor resultado con: " + total*2 + " kms \n");
         }
         else if(total1 <= total && total1 <= total2 && total1 <= total3 && total1 <= total4){
             respuestatotal = total1;
-            System.out.println("Segundo fixture: " + total1*2);
-            fichero.write("Segundo fixture: " + total1*2 + "\n");
+            System.out.println("El segundo fixture es el mejor resultado con: " + total1*2 + " kms \n");
+            fichero.write("El segundo fixture es el mejor resultado con: " + total1*2 + " kms \n");
         }
         else if(total2 <= total1 && total2 <= total1 && total2 <= total3 && total2 <= total4){
             respuestatotal = total2;
-            System.out.println("Tercer fixture: " + total2*2);
-            fichero.write("Tercer fixture: " + total2*2 + "\n");
+            System.out.println("El tercer fixture es el mejor resultado con: " + total2*2 + " kms \n");
+            fichero.write("El tercer fixture es el mejor resultado con: " + total2*2 + " kms \n");
         }
         else if(total3 <= total1 && total3 <= total2 && total3 <= total1 && total3 <= total4){
             respuestatotal = total3;
-            System.out.println("Cuarto fixture: " + total3*2);
-            fichero.write("Cuarto fixture: " + total3*2 + "\n");
+            System.out.println("El cuarto fixture es el mejor resultado con: " + total3*2 + " kms \n");
+            fichero.write("El cuarto fixture es el mejor resultado con: " + total3*2 + " kms \n");
         }
         else if(total4 <= total1 && total4 <= total2 && total4 <= total3 && total4 <= total1){
             respuestatotal = total4;
-            System.out.println("Quinto fixture: " + total4*2);
-            fichero.write("Quinto fixture: " + total4*2 + "\n");
+            System.out.println("El quinto fixture es el mejor resultado con: " + total4*2 + " kms \n");
+            fichero.write("El quinto fixture es el mejor resultado con: " + total4*2 + " kms \n");
         }
         
-        System.out.println("El mejor valor es el: " + respuestatotal*2);
-        fichero.write("El mejor valor es el: " + respuestatotal*2 + "\n");
+        System.out.println("El mejor valor es el resultado de: " + respuestatotal*2 + " kms \n");
+        fichero.write("El mejor valor es el resultado de: " + respuestatotal*2 + " kms \n");
         fichero.close();
     }
 }

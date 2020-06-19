@@ -271,7 +271,7 @@ public class Prototipo {
                     System.out.print("@" + matriz[i][j].acronimo + " ");
                 } else{
                     
-                        System.out.print(matriz[0][j].acronimo + " ");
+                        System.out.print(matriz[i][j].acronimo + " ");
                         //System.out.print(equipos.elementAt(rnd.nextInt(equipos.size())).acronimo);
                         
                     
@@ -318,7 +318,7 @@ public class Prototipo {
                     System.out.print(matriz[i][j].acronimo + " ");
                 } else{
                     
-                        System.out.print("@" + matriz[0][j].acronimo + " ");
+                        System.out.print("@" + matriz[i][j].acronimo + " ");
                         //System.out.print("@" + equipos.elementAt(rnd.nextInt(equipos.size())).acronimo);
                     
                 }
